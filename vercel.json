@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "tka-cbt-mandiri",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
