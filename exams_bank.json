@@ -2220,13 +2220,13 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "WACANA [TEKS 1: BIOREMEDIASI LIMBAH TAMBANG MENGGUNAKAN MIKROALGA]:\nParagraf 1: Limbah cair dari aktivitas pertambangan emas skala kecil (PESK) kerap mengandung logam berat beracun, terutama merkuri (Hg) dan timbal (Pb). Pembuangan limbah ini tanpa pengolahan standar ke badan sungai memicu bioakumulasi racun pada rantai makanan akuatik yang berakhir pada manusia. Metode presipitasi kimiawi konvensional yang digunakan industri besar terbukti terlalu mahal dan membutuhkan teknologi yang tidak dapat diakses oleh penambang rakyat.\n\n\n          Paragraf 2: Sebagai solusi alternatif, para ahli bioteknologi lingkungan mengembangkan teknik bioremediasi menggunakan mikroalga galur lokal, seperti Chlorella vulgaris. Mikroalga ini memiliki kemampuan luar biasa dalam menyerap (biosorpsi) ion logam berat melalui mekanisme pengikatan pada gugus fungsional dinding selnya. Selain efektif mengikat merkuri, budidaya mikroalga di kolam retensi limbah juga relatif murah, hanya memanfaatkan sinar matahari dan karbon dioksida ambien untuk fotosintesis.\n\n\n          Paragraf 3: Kendati menjanjikan secara laboratorium, implementasi lapangan menghadapi kendala fluktuasi derajat keasaman (pH) ekstrem pada limbah tambang sesungguhnya. Tingkat keasaman di bawah pH 4 berisiko mematikan kultur mikroalga sebelum proses biosorpsi optimal. Oleh karena itu, diperlukan tahapan prapengolahan sederhana berupa penambahan kapur tohor (Ca(OH)2) oleh komunitas penambang guna menetralkan pH limbah sebelum dialirkan ke kolam alga.\n\nEvaluasilah kesesuaian pernyataan mengenai Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Bioakumulasi merkuri pada rantai makanan akuatik bermula dari pembuangan limbah PESK tanpa pengolahan.', 'trueLabel': 'Sesuai Teks', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': 'Kapur tohor ditambahkan ke limbah untuk membunuh mikroalga berlebih.', 'trueLabel': 'Sesuai Teks', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Tingkat keasaman di bawah pH 4 sangat kondusif bagi proses biosorpsi optimal.', 'trueLabel': 'Sesuai Teks', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Chlorella vulgaris menggunakan gugus fungsional dinding selnya untuk mengikat logam berat.', 'trueLabel': 'Sesuai Teks', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 1: BIOREMEDIASI LIMBAH TAMBANG MENGGUNAKAN MIKROALGA]:\nParagraf 1: Limbah cair dari aktivitas pertambangan emas skala kecil (PESK) kerap mengandung logam berat beracun, terutama merkuri (Hg) dan timbal (Pb). Pembuangan limbah ini tanpa pengolahan standar ke badan sungai memicu bioakumulasi racun pada rantai makanan akuatik yang berakhir pada manusia. Metode presipitasi kimiawi konvensional yang digunakan industri besar terbukti terlalu mahal dan membutuhkan teknologi yang tidak dapat diakses oleh penambang rakyat.\n\n\n          Paragraf 2: Sebagai solusi alternatif, para ahli bioteknologi lingkungan mengembangkan teknik bioremediasi menggunakan mikroalga galur lokal, seperti Chlorella vulgaris. Mikroalga ini memiliki kemampuan luar biasa dalam menyerap (biosorpsi) ion logam berat melalui mekanisme pengikatan pada gugus fungsional dinding selnya. Selain efektif mengikat merkuri, budidaya mikroalga di kolam retensi limbah juga relatif murah, hanya memanfaatkan sinar matahari dan karbon dioksida ambien untuk fotosintesis.\n\n\n          Paragraf 3: Kendati menjanjikan secara laboratorium, implementasi lapangan menghadapi kendala fluktuasi derajat keasaman (pH) ekstrem pada limbah tambang sesungguhnya. Tingkat keasaman di bawah pH 4 berisiko mematikan kultur mikroalga sebelum proses biosorpsi optimal. Oleh karena itu, diperlukan tahapan prapengolahan sederhana berupa penambahan kapur tohor (Ca(OH)2) oleh komunitas penambang guna menetralkan pH limbah sebelum dialirkan ke kolam alga.\n\nEvaluasilah kesesuaian pernyataan mengenai Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Bioakumulasi merkuri pada rantai makanan akuatik bermula dari pembuangan limbah PESK tanpa pengolahan.\n[2] Kapur tohor ditambahkan ke limbah untuk membunuh mikroalga berlebih.\n[3] Tingkat keasaman di bawah pH 4 sangat kondusif bagi proses biosorpsi optimal.\n[4] Chlorella vulgaris menggunakan gugus fungsional dinding selnya untuk mengikat logam berat.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Kapur tohor (Ca(OH)2) digunakan untuk MENETRALKAN pH limbah (bukan membunuh alga). pH di bawah 4 justru mematikan alga (berisiko fatal), bukan kondusif."
@@ -2290,13 +2290,13 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "WACANA [TEKS 3: KOMERSIALISASI DAN EKSPLOITASI TENUN SUMBA]:\nParagraf 1: Kain tenun ikat Sumba Timur, dengan motif figuratif kuda (ndara), buaya (wulaya), dan ayam (manu) yang sarat filosofi spiritual Marapu, kini merambah panggung mode global. Tingginya permintaan pasar melahirkan sentra-sentra produksi massal. Namun, komersialisasi ini memicu polemik pelik terkait perlindungan Hak Kekayaan Intelektual Komunal (HKIK).\n\n\n          Paragraf 2: Eksploitasi terjadi ketika desainer asing memproduksi ulang motif sakral Sumba secara industri menggunakan mesin cetak digital (printing) pada kain sintetis, lalu menjualnya dengan label \"Etnik Nusantara\" tanpa memberikan royalti sepeser pun kepada komunitas adat Sumba. Praktik apropriasi budaya (cultural appropriation) ini tidak hanya mematikan mata pencaharian penenun tradisional yang menghabiskan waktu berbulan-bulan menggunakan pewarna alam, tetapi juga mereduksi nilai sakral motif penolak bala menjadi sekadar komoditas estetika murahan.\n\n\n          Paragraf 3: Pemerintah daerah berupaya melawan arus ini melalui inventarisasi motif ke dalam pangkalan data Direktorat Jenderal Kekayaan Intelektual. Kendati demikian, hukum hak cipta modern yang bersifat individualistis dan mensyaratkan \"nama pencipta tunggal\" kerap gagap melindungi karya komunal anonim yang diwariskan lintas generasi. Pakar hukum adat mendesak pengesahan RUU Perlindungan Pengetahuan Tradisional dan Ekspresi Budaya Tradisional secara lex specialis (hukum khusus).\n\nEvaluasi kelemahan hukum hak cipta modern menurut teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Hukum hak cipta modern mensyaratkan adanya nama pencipta tunggal/individu.', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[2] {'text': 'Karya warisan komunal anonim mudah didaftarkan di pangkalan data internasional.', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[3] {'text': 'RUU Perlindungan Pengetahuan Tradisional diusulkan sebagai hukum khusus (lex specialis).', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[4] {'text': 'Hukum saat ini terlalu melindungi desainer asing secara otomatis.', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 3: KOMERSIALISASI DAN EKSPLOITASI TENUN SUMBA]:\nParagraf 1: Kain tenun ikat Sumba Timur, dengan motif figuratif kuda (ndara), buaya (wulaya), dan ayam (manu) yang sarat filosofi spiritual Marapu, kini merambah panggung mode global. Tingginya permintaan pasar melahirkan sentra-sentra produksi massal. Namun, komersialisasi ini memicu polemik pelik terkait perlindungan Hak Kekayaan Intelektual Komunal (HKIK).\n\n\n          Paragraf 2: Eksploitasi terjadi ketika desainer asing memproduksi ulang motif sakral Sumba secara industri menggunakan mesin cetak digital (printing) pada kain sintetis, lalu menjualnya dengan label \"Etnik Nusantara\" tanpa memberikan royalti sepeser pun kepada komunitas adat Sumba. Praktik apropriasi budaya (cultural appropriation) ini tidak hanya mematikan mata pencaharian penenun tradisional yang menghabiskan waktu berbulan-bulan menggunakan pewarna alam, tetapi juga mereduksi nilai sakral motif penolak bala menjadi sekadar komoditas estetika murahan.\n\n\n          Paragraf 3: Pemerintah daerah berupaya melawan arus ini melalui inventarisasi motif ke dalam pangkalan data Direktorat Jenderal Kekayaan Intelektual. Kendati demikian, hukum hak cipta modern yang bersifat individualistis dan mensyaratkan \"nama pencipta tunggal\" kerap gagap melindungi karya komunal anonim yang diwariskan lintas generasi. Pakar hukum adat mendesak pengesahan RUU Perlindungan Pengetahuan Tradisional dan Ekspresi Budaya Tradisional secara lex specialis (hukum khusus).\n\nEvaluasi kelemahan hukum hak cipta modern menurut teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Hukum hak cipta modern mensyaratkan adanya nama pencipta tunggal/individu.\n[2] Karya warisan komunal anonim mudah didaftarkan di pangkalan data internasional.\n[3] RUU Perlindungan Pengetahuan Tradisional diusulkan sebagai hukum khusus (lex specialis).\n[4] Hukum saat ini terlalu melindungi desainer asing secara otomatis.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Karya komunal anonim JUSTRU GAGAP (sulit) dilindungi oleh sistem hukum hak cipta (Pernyataan 2 salah). Teks tidak menyebut hukum otomatis melindungi pihak asing, melainkan sifat individualis hukum itu yang jadi masalah (Pernyataan 4 salah)."
@@ -2346,13 +2346,13 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "WACANA [TEKS 4: HIKAYAT PANJI SEMIRANG]:\nMaka bertitahlah Sang Nata Kuripan, \"Duhai anakku Raden Inu Kertapati, janganlah engkau bersedih hati karena lenyapnya Dewi Sekartaji dari keputren. Telah kusebar telik sandi ke segenap penjuru Jawadwipa, niscaya tunanganmu itu akan segera diketemukan.\"\n\n\n          Namun Raden Inu Kertapati tiada dapat dibujuk hatinya. Malam harinya, dengan menanggalkan pakaian kebesarannya dan hanya berbalut kain wulung, pangeran itu menyelinap keluar gerbang istana ditemani dua punakawan setianya, Bancak dan Doyok. Ia bersumpah tiada akan menjejakkan kaki kembali ke pendopo keraton sebelum bersua dengan sang kekasih hati. Di tengah rimba belantara, ia mengganti namanya menjadi Panji Asmarabangun, menyamarkan wibawa kerajaannya menjadi sosok ksatria kelana yang menolong rakyat jelata dari penyamun.\n\n\n          Di tempat lain yang jauh, Dewi Sekartaji rupanya memotong rambutnya, mengenakan zirah perang, dan menyamar sebagai seorang pangeran sakti mandraguna bergelar Panji Semirang. Ia membangun benteng pertahanan di perbatasan, menanti takdir mempertemukannya kembali dengan tunangannya melalui medan laga yang tak terduga.\n\nTentukan kebenaran analisis karakteristik hikayat pada Teks 4!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Mengandung unsur istanasentris (berpusat pada tokoh kerajaan).', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[2] {'text': \"Terdapat penggunaan kata arkais penceritaan seperti 'Maka bertitahlah' dan 'keputren'.\", 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[3] {'text': 'Alur ceritanya sangat realistis dan logis menurut sains modern.', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n[4] {'text': 'Menampilkan tokoh wanita yang juga tangguh (menyamar panglima perang).', 'trueLabel': 'Benar', 'falseLabel': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 4: HIKAYAT PANJI SEMIRANG]:\nMaka bertitahlah Sang Nata Kuripan, \"Duhai anakku Raden Inu Kertapati, janganlah engkau bersedih hati karena lenyapnya Dewi Sekartaji dari keputren. Telah kusebar telik sandi ke segenap penjuru Jawadwipa, niscaya tunanganmu itu akan segera diketemukan.\"\n\n\n          Namun Raden Inu Kertapati tiada dapat dibujuk hatinya. Malam harinya, dengan menanggalkan pakaian kebesarannya dan hanya berbalut kain wulung, pangeran itu menyelinap keluar gerbang istana ditemani dua punakawan setianya, Bancak dan Doyok. Ia bersumpah tiada akan menjejakkan kaki kembali ke pendopo keraton sebelum bersua dengan sang kekasih hati. Di tengah rimba belantara, ia mengganti namanya menjadi Panji Asmarabangun, menyamarkan wibawa kerajaannya menjadi sosok ksatria kelana yang menolong rakyat jelata dari penyamun.\n\n\n          Di tempat lain yang jauh, Dewi Sekartaji rupanya memotong rambutnya, mengenakan zirah perang, dan menyamar sebagai seorang pangeran sakti mandraguna bergelar Panji Semirang. Ia membangun benteng pertahanan di perbatasan, menanti takdir mempertemukannya kembali dengan tunangannya melalui medan laga yang tak terduga.\n\nTentukan kebenaran analisis karakteristik hikayat pada Teks 4!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Mengandung unsur istanasentris (berpusat pada tokoh kerajaan).\n[2] Terdapat penggunaan kata arkais penceritaan seperti 'Maka bertitahlah' dan 'keputren'.\n[3] Alur ceritanya sangat realistis dan logis menurut sains modern.\n[4] Menampilkan tokoh wanita yang juga tangguh (menyamar panglima perang).\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Hikayat identik dengan kemustahilan/kesaktian (sakti mandraguna), sehingga tidak realistis secara sains modern (Pernyataan 3 salah)."
@@ -2388,13 +2388,13 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "WACANA [TEKS 5: MONOLOG SANG KURIR PAKET]:\n(Lampu sorot kuning meredup fokus ke tengah panggung. Seorang pria berbantalan jaket tebal lusuh duduk di atas tumpukan kardus yang menggunung. Hujan buatan rintik-rintik turun di latar belakang.)\n\n\n          Kurir: (Mengusap air hujan dari wajahnya, tersenyum getir) \"Selamat Hari Belanja Nasional! Kata mereka, ini pesta diskon terbesar abad ini. Pesta? Ya, mungkin bagi mereka yang jarinya lincah menekan layar kaca di ruangan ber-AC. Tapi bagi punggung ini? Ini adalah kiamat kecil berbahan dasar kardus.\"\n\n\n          (Ia mengangkat sebuah paket kecil seukuran telapak tangan)\n\n\n          Kurir: \"Lihat ini. Jepit rambut seharga dua ribu perak. Ongkos kirimnya? Gratis. Siapa yang menanggung 'gratis' itu? Bensin motorku? Waktu tidurku yang dipangkas jadi tiga jam sehari? Mereka marah jika paket telat sehari, menuduhku tak becus. Padahal, semalam motorku mogok terendam banjir sedengkul demi menyelamatkan jepit rambut dua ribu perak ini agar tidak basah!\" (Tertawa hambar, lalu menunduk lesu) \"Dunia digital bergerak secepat cahaya, tapi ia bertumpu pada roda motorku yang berderit menua.\"\n\nFungsi tata panggung (kramagung) dalam teks drama tersebut:\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': \"'Lampu sorot kuning meredup fokus' berfungsi mendramatisir kesunyian/kesendirian tokoh.\", 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': \"'Hujan buatan rintik-rintik' membangun suasana latar penderitaan dan rintangan alam.\", 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': \"'Tertawa hambar' menunjukkan tokoh menderita gangguan kejiwaan akut.\", 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': \"'Mengusap air hujan... tersenyum getir' menunjukkan kepasrahan yang pahit.\", 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 5: MONOLOG SANG KURIR PAKET]:\n(Lampu sorot kuning meredup fokus ke tengah panggung. Seorang pria berbantalan jaket tebal lusuh duduk di atas tumpukan kardus yang menggunung. Hujan buatan rintik-rintik turun di latar belakang.)\n\n\n          Kurir: (Mengusap air hujan dari wajahnya, tersenyum getir) \"Selamat Hari Belanja Nasional! Kata mereka, ini pesta diskon terbesar abad ini. Pesta? Ya, mungkin bagi mereka yang jarinya lincah menekan layar kaca di ruangan ber-AC. Tapi bagi punggung ini? Ini adalah kiamat kecil berbahan dasar kardus.\"\n\n\n          (Ia mengangkat sebuah paket kecil seukuran telapak tangan)\n\n\n          Kurir: \"Lihat ini. Jepit rambut seharga dua ribu perak. Ongkos kirimnya? Gratis. Siapa yang menanggung 'gratis' itu? Bensin motorku? Waktu tidurku yang dipangkas jadi tiga jam sehari? Mereka marah jika paket telat sehari, menuduhku tak becus. Padahal, semalam motorku mogok terendam banjir sedengkul demi menyelamatkan jepit rambut dua ribu perak ini agar tidak basah!\" (Tertawa hambar, lalu menunduk lesu) \"Dunia digital bergerak secepat cahaya, tapi ia bertumpu pada roda motorku yang berderit menua.\"\n\nFungsi tata panggung (kramagung) dalam teks drama tersebut:\n\nPernyataan/Klaim yang dievaluasi:\n[1] 'Lampu sorot kuning meredup fokus' berfungsi mendramatisir kesunyian/kesendirian tokoh.\n[2] 'Hujan buatan rintik-rintik' membangun suasana latar penderitaan dan rintangan alam.\n[3] 'Tertawa hambar' menunjukkan tokoh menderita gangguan kejiwaan akut.\n[4] 'Mengusap air hujan... tersenyum getir' menunjukkan kepasrahan yang pahit.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Tertawa hambar di sini adalah respons sinis/ironis terhadap nasib buruknya, bukan indikasi gila atau gangguan jiwa akut."
@@ -2430,13 +2430,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "WACANA [TEKS 6: POTENSI BERAS ANALOG DARI UMBI PORANG]:\nParagraf 1: Ketergantungan absolut masyarakat Indonesia terhadap beras padi memicu kerentanan ketahanan pangan nasional, terutama di tengah ancaman el nino berkepanjangan. Upaya diversifikasi pangan pokok mulai diarahkan pada inovasi beras analog. Beras analog bukanlah beras asli, melainkan pangan berbentuk butiran menyerupai beras yang dicetak melalui proses ekstrusi menggunakan bahan baku non-padi lokal. Salah satu komoditas primadona untuk bahan baku ini adalah umbi porang (Amorphophallus muelleri).\n\n\n          Paragraf 2: Keunggulan utama beras analog berbahan porang terletak pada kandungan glukomanan yang tinggi. Glukomanan adalah serat larut air yang memiliki indeks glikemik sangat rendah, sehingga tidak memicu lonjakan gula darah secara drastis (sugar spike) setelah dikonsumsi. Karakteristik ini menjadikannya substitusi diet yang ideal bagi penderita diabetes melitus dan obesitas, kelompok demografi yang terus meningkat di kawasan urban.\n\n\n          Paragraf 3: Tantangan komersialisasi beras analog porang saat ini adalah biaya produksinya yang masih tinggi dibandingkan beras subsidi. Selain itu, tekstur pera dan ketiadaan aroma pandan khas beras padi membuat akseptabilitas (tingkat penerimaan) sensoris masyarakat pedesaan masih rendah. Peneliti pangan kini merekayasa formulasi dengan menambahkan ekstrak rumput laut untuk memperbaiki viskositas dan tekstur pulen pada produk tersebut.\n\nPernyataan Sebab-Akibat berdasarkan Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Biaya produksi beras porang yang tinggi mengakibatkan penerimaan masyarakat desa rendah.', 'trueLabel': 'Logis', 'falseLabel': 'Tidak Logis'}\n[2] {'text': 'Ketergantungan absolut pada beras padi menyebabkan kerentanan ketahanan pangan saat cuaca ekstrem.', 'trueLabel': 'Logis', 'falseLabel': 'Tidak Logis'}\n[3] {'text': 'Tekstur beras analog yang pera diatasi dengan penambahan ekstrak rumput laut.', 'trueLabel': 'Logis', 'falseLabel': 'Tidak Logis'}\n[4] {'text': 'Tingginya indeks glikemik beras porang menyembuhkan diabetes secara total.', 'trueLabel': 'Logis', 'falseLabel': 'Tidak Logis'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 6: POTENSI BERAS ANALOG DARI UMBI PORANG]:\nParagraf 1: Ketergantungan absolut masyarakat Indonesia terhadap beras padi memicu kerentanan ketahanan pangan nasional, terutama di tengah ancaman el nino berkepanjangan. Upaya diversifikasi pangan pokok mulai diarahkan pada inovasi beras analog. Beras analog bukanlah beras asli, melainkan pangan berbentuk butiran menyerupai beras yang dicetak melalui proses ekstrusi menggunakan bahan baku non-padi lokal. Salah satu komoditas primadona untuk bahan baku ini adalah umbi porang (Amorphophallus muelleri).\n\n\n          Paragraf 2: Keunggulan utama beras analog berbahan porang terletak pada kandungan glukomanan yang tinggi. Glukomanan adalah serat larut air yang memiliki indeks glikemik sangat rendah, sehingga tidak memicu lonjakan gula darah secara drastis (sugar spike) setelah dikonsumsi. Karakteristik ini menjadikannya substitusi diet yang ideal bagi penderita diabetes melitus dan obesitas, kelompok demografi yang terus meningkat di kawasan urban.\n\n\n          Paragraf 3: Tantangan komersialisasi beras analog porang saat ini adalah biaya produksinya yang masih tinggi dibandingkan beras subsidi. Selain itu, tekstur pera dan ketiadaan aroma pandan khas beras padi membuat akseptabilitas (tingkat penerimaan) sensoris masyarakat pedesaan masih rendah. Peneliti pangan kini merekayasa formulasi dengan menambahkan ekstrak rumput laut untuk memperbaiki viskositas dan tekstur pulen pada produk tersebut.\n\nPernyataan Sebab-Akibat berdasarkan Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Biaya produksi beras porang yang tinggi mengakibatkan penerimaan masyarakat desa rendah.\n[2] Ketergantungan absolut pada beras padi menyebabkan kerentanan ketahanan pangan saat cuaca ekstrem.\n[3] Tekstur beras analog yang pera diatasi dengan penambahan ekstrak rumput laut.\n[4] Tingginya indeks glikemik beras porang menyembuhkan diabetes secara total.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan 4 tidak logis secara sains maupun teks (porang memiliki indeks glikemik RENDAH, dan tidak diklaim menyembuhkan total, melainkan mencegah lonjakan gula)."
@@ -2514,13 +2514,13 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "WACANA [TEKS 8: ANEKDOT 'STUDY TOUR' WAJIB]:\nParagraf 1: Rapat komite sekolah memanas. Kepala Sekolah, Pak Budi, dengan bangga mempresentasikan program tahunan: \"Bapak/Ibu wali murid, tahun ini kita akan mengadakan Study Tour Wajib ke Bali. Temanya adalah 'Membentuk Karakter Mandiri Generasi Z'.\"\n\n\n          Paragraf 2: Seorang wali murid, Pak Tono yang berprofesi sebagai tukang ojek, mengangkat tangan lambat-lambat. \"Maaf, Pak Kepsek. Biayanya dua juta setengah per anak. Kalau tidak ikut, anak saya diancam nilai rapotnya dipotong. Apa esensi mandirinya kalau bayarnya pakai hasil saya berhutang ke rentenir?\"\n\n\n          Paragraf 3: Pak Budi membetulkan kacamatanya, \"Oh, jangan salah, Pak Tono. Mandiri itu maksudnya anak-anak belajar tidur sendiri di hotel bintang tiga tanpa disuapi orang tuanya. Lagipula, tanpa Study Tour ini, bagaimana sekolah kita bisa viral di TikTok pakai seragam ungu yang baru bapak ibu beli bulan lalu?\" Pak Tono hanya bisa menelan ludah, membayangkan roda motornya yang sudah gundul harus terus berputar sampai tahun depan.\n\nEvaluasi makna tersirat/ungkapan pada teks Anekdot!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': \"Ungkapan 'roda motor yang sudah gundul' menyimbolkan kondisi ekonomi Pak Tono yang kritis/miskin.\", 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[2] {'text': \"Alasan 'mandiri tidur di hotel' merupakan ironi karena uang hotelnya tetap beban orang tua.\", 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[3] {'text': 'Kepala Sekolah adalah pahlawan yang sangat peduli nasib Pak Tono.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[4] {'text': 'Teks ini menyarankan agar anak-anak pergi ke Bali berjalan kaki.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 8: ANEKDOT 'STUDY TOUR' WAJIB]:\nParagraf 1: Rapat komite sekolah memanas. Kepala Sekolah, Pak Budi, dengan bangga mempresentasikan program tahunan: \"Bapak/Ibu wali murid, tahun ini kita akan mengadakan Study Tour Wajib ke Bali. Temanya adalah 'Membentuk Karakter Mandiri Generasi Z'.\"\n\n\n          Paragraf 2: Seorang wali murid, Pak Tono yang berprofesi sebagai tukang ojek, mengangkat tangan lambat-lambat. \"Maaf, Pak Kepsek. Biayanya dua juta setengah per anak. Kalau tidak ikut, anak saya diancam nilai rapotnya dipotong. Apa esensi mandirinya kalau bayarnya pakai hasil saya berhutang ke rentenir?\"\n\n\n          Paragraf 3: Pak Budi membetulkan kacamatanya, \"Oh, jangan salah, Pak Tono. Mandiri itu maksudnya anak-anak belajar tidur sendiri di hotel bintang tiga tanpa disuapi orang tuanya. Lagipula, tanpa Study Tour ini, bagaimana sekolah kita bisa viral di TikTok pakai seragam ungu yang baru bapak ibu beli bulan lalu?\" Pak Tono hanya bisa menelan ludah, membayangkan roda motornya yang sudah gundul harus terus berputar sampai tahun depan.\n\nEvaluasi makna tersirat/ungkapan pada teks Anekdot!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Ungkapan 'roda motor yang sudah gundul' menyimbolkan kondisi ekonomi Pak Tono yang kritis/miskin.\n[2] Alasan 'mandiri tidur di hotel' merupakan ironi karena uang hotelnya tetap beban orang tua.\n[3] Kepala Sekolah adalah pahlawan yang sangat peduli nasib Pak Tono.\n[4] Teks ini menyarankan agar anak-anak pergi ke Bali berjalan kaki.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Kepala Sekolah bersikap elitis dan nirempati terhadap keluhan Pak Tono (Pernyataan 3 salah). Teks tidak menyuruh berjalan kaki (Pernyataan 4 salah)."
@@ -2556,13 +2556,13 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "WACANA [TEKS 9: SYARAT & KETENTUAN (ToS) APLIKASI PINJAMAN DANA KILAT]:\nPASAL 5: PERSETUJUAN AKSES DATA PRIBADI\n1. Dengan menekan tombol \"Setuju\", Peminjam memberikan hak kuasa tak dapat ditarik kembali kepada Platform untuk mengakses kontak telepon, galeri foto, histori lokasi (GPS), dan log panggilan pada perangkat keras Peminjam.\n2. Data sebagaimana dimaksud pada ayat (1) berhak digunakan Platform untuk tujuan analisis risiko kredit dan prosedur penagihan utang jika terjadi gagal bayar.\n\n\n          PASAL 8: DENDA KETERLAMBATAN & BIAYA LAYANAN\n1. Apabila Peminjam melewati jatuh tempo (pukul 23:59 WIB), dikenakan denda akumulatif sebesar 1,5% per hari dari nilai pokok utang.\n2. Platform berhak memotong biaya administrasi dan layanan (service fee) di awal sebesar 25% dari total nominal pinjaman yang disetujui, meskipun kewajiban pengembalian Peminjam tetap pada nominal utuh (100%).\n\n\n          PASAL 12: PENYELESAIAN SENGKETA\nSegala bentuk sengketa yang timbul akibat kerugian Peminjam atas kebocoran data oleh pihak ketiga yang bermitra dengan Platform tidak dapat dituntut secara hukum pidana, melainkan diselesaikan secara musyawarah mufakat internal.\n\nTentukan kebenaran interpretasi kontrak hukum dari Teks 9!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Akses kontak telepon digunakan platform semata-mata untuk mengucapkan ulang tahun.', 'trueLabel': 'Logis Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': \"Kata 'tak dapat ditarik kembali' (irrevocable) pada Pasal 5 memutus hak peminjam mencabut privasinya.\", 'trueLabel': 'Logis Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Pasal 12 melindungi peminjam dari kejahatan siber pihak ketiga.', 'trueLabel': 'Logis Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Peminjam memikul beban ganda: potongan admin di awal dan denda berjalan jika telat (Pasal 8).', 'trueLabel': 'Logis Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 9: SYARAT & KETENTUAN (ToS) APLIKASI PINJAMAN DANA KILAT]:\nPASAL 5: PERSETUJUAN AKSES DATA PRIBADI\n1. Dengan menekan tombol \"Setuju\", Peminjam memberikan hak kuasa tak dapat ditarik kembali kepada Platform untuk mengakses kontak telepon, galeri foto, histori lokasi (GPS), dan log panggilan pada perangkat keras Peminjam.\n2. Data sebagaimana dimaksud pada ayat (1) berhak digunakan Platform untuk tujuan analisis risiko kredit dan prosedur penagihan utang jika terjadi gagal bayar.\n\n\n          PASAL 8: DENDA KETERLAMBATAN & BIAYA LAYANAN\n1. Apabila Peminjam melewati jatuh tempo (pukul 23:59 WIB), dikenakan denda akumulatif sebesar 1,5% per hari dari nilai pokok utang.\n2. Platform berhak memotong biaya administrasi dan layanan (service fee) di awal sebesar 25% dari total nominal pinjaman yang disetujui, meskipun kewajiban pengembalian Peminjam tetap pada nominal utuh (100%).\n\n\n          PASAL 12: PENYELESAIAN SENGKETA\nSegala bentuk sengketa yang timbul akibat kerugian Peminjam atas kebocoran data oleh pihak ketiga yang bermitra dengan Platform tidak dapat dituntut secara hukum pidana, melainkan diselesaikan secara musyawarah mufakat internal.\n\nTentukan kebenaran interpretasi kontrak hukum dari Teks 9!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Akses kontak telepon digunakan platform semata-mata untuk mengucapkan ulang tahun.\n[2] Kata 'tak dapat ditarik kembali' (irrevocable) pada Pasal 5 memutus hak peminjam mencabut privasinya.\n[3] Pasal 12 melindungi peminjam dari kejahatan siber pihak ketiga.\n[4] Peminjam memikul beban ganda: potongan admin di awal dan denda berjalan jika telat (Pasal 8).\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Kontak diakses untuk penagihan/teror utang, bukan ulang tahun (Pernyataan 1 salah). Pasal 12 justru melindungi PLATFORM agar tidak dituntut pidana jika data bocor, bukan melindungi peminjam (Pernyataan 3 salah)."
@@ -2649,13 +2649,13 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "WACANA [TEKS 1: EKSPLORASI SUMBER DAYA LAUT DALAM]:\nParagraf 1: Kawasan zona rekahan bawah laut Zona Clarion-Clipperton di Samudra Pasifik menjadi episentrum perhatian geopolitik dan ekonomi global setelah ditemukannya deposit bintil polimetalik (polymetallic nodules) dalam jumlah raksasa. Bintil hitam menyerupai bongkahan batu tersebut kaya akan komoditas mineral kritis seperti nikel, kobalt, tembaga, dan mangan yang sangat dibutuhkan untuk akselerasi transisi energi hijau global, khususnya pembuatan baterai kendaraan listrik. Namun, posisi bintil yang berada pada kedalaman abisal (3.000 hingga 6.000 meter di bawah permukaan laut) menuntut pengerahan teknologi pengerukan berat bawah air yang memicu perdebatan sengit di tingkat Internasional Seabed Authority (ISA).\n\n\n          Paragraf 2: Sejumlah peneliti oseanografi dan lembaga konservasi lingkungan memperingatkan bahwa ekstraksi mekanis di dasar laut abisal berisiko menimbulkan dampak ekologis irreversibel. Ekosistem dasar laut dalam memiliki tingkat pertumbuhan organisme yang sangat lambat dan habitat yang rentan terganggu. Operasi pengerukan tidak hanya menghancurkan organisme bentik yang menempel langsung pada bintil mangan, tetapi juga menghasilkan awan sedimen tersuspensi (sediment plumes) yang melayang berikatan dengan arus laut. Awan sedimen ini berpotensi menyumbat organ penyaring makanan pada biota pelagis serta mengganggu komunikasi bioluminesensi organisme laut dalam.\n\n\n          Paragraf 3: Di sisi lain, konsorsium industri penambangan berargumen bahwa penambangan dasar laut jauh lebih ramah lingkungan dan minim dampak sosial dibandingkan dengan penambangan darat yang kerap memicu deforestasi hutan hujan tropis, konflik lahan adat, dan pencemaran limbah tailing di sungai. Mereka mengklaim bahwa teknologi mesin penyedot berbasis vakum kedap air terbaru yang dilengkapi sistem pengendapan sedimen langsung di dasar laut mampu meminimalkan sebaran awan lumpur tersuspensi. Kendati demikian, komunitas ilmuwan menegaskan bahwa kurangnya data baseline keanekaragaman hayati abisal membuat klaim mitigasi tersebut belum dapat diverifikasi secara empiris.\n\nBerikan penilaian terhadap ketepatan bagian-bagian kerangka berpikir berdasarkan Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Paragraf 1 menetapkan konteks lokasi dan nilai ekonomis bintil polimetalik.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[2] {'text': 'Paragraf 2 menyajikan penjelasan dampak ekologis sebagai argumen kontra.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[3] {'text': 'Paragraf 3 memuat pertentangan klaim industri vs keprihatinan ilmuwan.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[4] {'text': 'Paragraf 2 menyimpulkan penambangan darat telah dihentikan sepenuhnya.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 1: EKSPLORASI SUMBER DAYA LAUT DALAM]:\nParagraf 1: Kawasan zona rekahan bawah laut Zona Clarion-Clipperton di Samudra Pasifik menjadi episentrum perhatian geopolitik dan ekonomi global setelah ditemukannya deposit bintil polimetalik (polymetallic nodules) dalam jumlah raksasa. Bintil hitam menyerupai bongkahan batu tersebut kaya akan komoditas mineral kritis seperti nikel, kobalt, tembaga, dan mangan yang sangat dibutuhkan untuk akselerasi transisi energi hijau global, khususnya pembuatan baterai kendaraan listrik. Namun, posisi bintil yang berada pada kedalaman abisal (3.000 hingga 6.000 meter di bawah permukaan laut) menuntut pengerahan teknologi pengerukan berat bawah air yang memicu perdebatan sengit di tingkat Internasional Seabed Authority (ISA).\n\n\n          Paragraf 2: Sejumlah peneliti oseanografi dan lembaga konservasi lingkungan memperingatkan bahwa ekstraksi mekanis di dasar laut abisal berisiko menimbulkan dampak ekologis irreversibel. Ekosistem dasar laut dalam memiliki tingkat pertumbuhan organisme yang sangat lambat dan habitat yang rentan terganggu. Operasi pengerukan tidak hanya menghancurkan organisme bentik yang menempel langsung pada bintil mangan, tetapi juga menghasilkan awan sedimen tersuspensi (sediment plumes) yang melayang berikatan dengan arus laut. Awan sedimen ini berpotensi menyumbat organ penyaring makanan pada biota pelagis serta mengganggu komunikasi bioluminesensi organisme laut dalam.\n\n\n          Paragraf 3: Di sisi lain, konsorsium industri penambangan berargumen bahwa penambangan dasar laut jauh lebih ramah lingkungan dan minim dampak sosial dibandingkan dengan penambangan darat yang kerap memicu deforestasi hutan hujan tropis, konflik lahan adat, dan pencemaran limbah tailing di sungai. Mereka mengklaim bahwa teknologi mesin penyedot berbasis vakum kedap air terbaru yang dilengkapi sistem pengendapan sedimen langsung di dasar laut mampu meminimalkan sebaran awan lumpur tersuspensi. Kendati demikian, komunitas ilmuwan menegaskan bahwa kurangnya data baseline keanekaragaman hayati abisal membuat klaim mitigasi tersebut belum dapat diverifikasi secara empiris.\n\nBerikan penilaian terhadap ketepatan bagian-bagian kerangka berpikir berdasarkan Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Paragraf 1 menetapkan konteks lokasi dan nilai ekonomis bintil polimetalik.\n[2] Paragraf 2 menyajikan penjelasan dampak ekologis sebagai argumen kontra.\n[3] Paragraf 3 memuat pertentangan klaim industri vs keprihatinan ilmuwan.\n[4] Paragraf 2 menyimpulkan penambangan darat telah dihentikan sepenuhnya.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan 1, 2, dan 3 memetakan fungsi paragraf dengan akurat. Pernyataan 4 salah karena teks tidak pernah menyebut penambangan darat telah dihentikan sepenuhnya."
@@ -2719,13 +2719,13 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "WACANA [TEKS 3: REVITALISASI JALUR REMPAH]:\nParagraf 1: Narasi sejarah Jalur Rempah Nusantara kini dikonstruksi ulang sebagai instrumen diplomasi kebudayaan bahari strategis. Pemerintah menggalakkan Pelayaran Jalur Rempah menggunakan kapal Latih KRI Dewaruci dan Perahu Sandeq Mandar. Kegiatan ini melayari pelabuhan bersejarah seperti Banda Neira, Ternate, Tidore, Makassar, hingga Muara Jambi untuk merekonstruksi simpul konektivitas antar-etnis akibat perjumpaan niaga masa lalu.\n\n\n          Paragraf 2: Rekonstruksi ini membawa misi ekonomi kreatif berbasis kearifan lokal. Di pulau penghasil rempah, generasi muda memanfaatkan teknologi digital untuk memetakan situs warisan, mengemas produk olahan rempah bersertifikasi indikasi geografis, dan mengorganisasi festival kebaharian. Diplomasi ini menyadarkan publik bahwa kejayaan maritim dibangun atas navigasi perbintangan lokal dan teknologi perahu kayu tanpa paku (padewakang dan kora-kora).\n\n\n          Paragraf 3: Namun, upaya ini dihadapkan pada ancaman sedimentasi/abrasi infrastruktur pelabuhan kuno. Narasi internasional Jalur Rempah juga kerap terkikis oleh dominasi Silk Road darat/laut negara Asia Timur. Tanpa dukungan dokumentasi ilmiah multisumber yang kuat serta integrasi kurikulum pendidikan kebaharian di sekolah-sekolah, diplomasi budaya Jalur Rempah dikhawatirkan hanya menjadi seremonial tahunan yang minim dampak transformatif jangka panjang.\n\nEvaluasilah keakuratan informasi berdasarkan Teks 3!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Teks menyajikan contoh nama pelabuhan dan perahu tradisional secara faktual.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': 'Teks menyertakan persentase penurunan volume cengkih di Banda Neira tahun ini.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Teks mengulas tantangan dominasi narasi Jalur Sutra (Silk Road).', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Teks menyebut perahu kayu tradisional dibuat menggunakan mesin bor listrik.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 3: REVITALISASI JALUR REMPAH]:\nParagraf 1: Narasi sejarah Jalur Rempah Nusantara kini dikonstruksi ulang sebagai instrumen diplomasi kebudayaan bahari strategis. Pemerintah menggalakkan Pelayaran Jalur Rempah menggunakan kapal Latih KRI Dewaruci dan Perahu Sandeq Mandar. Kegiatan ini melayari pelabuhan bersejarah seperti Banda Neira, Ternate, Tidore, Makassar, hingga Muara Jambi untuk merekonstruksi simpul konektivitas antar-etnis akibat perjumpaan niaga masa lalu.\n\n\n          Paragraf 2: Rekonstruksi ini membawa misi ekonomi kreatif berbasis kearifan lokal. Di pulau penghasil rempah, generasi muda memanfaatkan teknologi digital untuk memetakan situs warisan, mengemas produk olahan rempah bersertifikasi indikasi geografis, dan mengorganisasi festival kebaharian. Diplomasi ini menyadarkan publik bahwa kejayaan maritim dibangun atas navigasi perbintangan lokal dan teknologi perahu kayu tanpa paku (padewakang dan kora-kora).\n\n\n          Paragraf 3: Namun, upaya ini dihadapkan pada ancaman sedimentasi/abrasi infrastruktur pelabuhan kuno. Narasi internasional Jalur Rempah juga kerap terkikis oleh dominasi Silk Road darat/laut negara Asia Timur. Tanpa dukungan dokumentasi ilmiah multisumber yang kuat serta integrasi kurikulum pendidikan kebaharian di sekolah-sekolah, diplomasi budaya Jalur Rempah dikhawatirkan hanya menjadi seremonial tahunan yang minim dampak transformatif jangka panjang.\n\nEvaluasilah keakuratan informasi berdasarkan Teks 3!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Teks menyajikan contoh nama pelabuhan dan perahu tradisional secara faktual.\n[2] Teks menyertakan persentase penurunan volume cengkih di Banda Neira tahun ini.\n[3] Teks mengulas tantangan dominasi narasi Jalur Sutra (Silk Road).\n[4] Teks menyebut perahu kayu tradisional dibuat menggunakan mesin bor listrik.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Teks menyebut nama pelabuhan & perahu (1). Tidak ada persentase cengkih (2). Ada bahasan Jalur Sutra (3). Perahu dibuat tanpa paku, bukan dibor listrik (4)."
@@ -2775,13 +2775,13 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "WACANA [TEKS 4: ANOMALI KALDERA BAWAH LAUT KEKERAMAN]:\nParagraf 1: Pengamatan geofisika di perairan Laut Banda memetakan struktur kaldera gunung api bawah laut Kekeraman. Pencitraan multibeam echosounder (MBES) menunjukkan adanya pembengkakan (uplift) pada lantai kaldera setinggi 45 meter dalam 3 tahun terakhir, mengindikasikan akumulasi tekanan magma dangkal.\n\n          \n            \n            \n            Ilustrasi: Penampang Anomali Kaldera Bawah Laut\n\n          \n\n          Paragraf 2: Sensor hidrofon dan termometer abisal mencatat gempa vulkanik-tektonik harmonik dan lonjakan suhu air 4.2°C di atas normal. Ahli memperingatkan jika terjadi runtuhan lereng kawah masif (flank collapse), dapat memicu gelombang tsunami vulkanik dahsyat dalam waktu kurang dari 15 menit ke pesisir.\n\n          Paragraf 3: Tantangan mitigasi adalah keterbatasan sensor kabel bawah laut. Sebagian besar sistem saat ini dirancang merespon gempa tektonik, bukan runtuhan vulkanik bawah air yang minim guncangan. Pemasangan sensor tekanan dasar laut (ocean bottom pressure gauge) secara real-time menjadi prioritas.\n\nTentukan kesesuaian pernyataan mengenai fenomena geofisika Teks 4!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Pembengkakan lantai kaldera setinggi 45m dipicu akumulasi tekanan magma dangkal.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': 'Sistem peringatan tsunami saat ini sudah ideal mendeteksi tsunami vulkanik.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Gelombang tsunami Kekeraman butuh waktu 5 jam sampai ke pesisir.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Suhu kawah melonjak sebesar 4.2°C di atas rerata normal.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 4: ANOMALI KALDERA BAWAH LAUT KEKERAMAN]:\nParagraf 1: Pengamatan geofisika di perairan Laut Banda memetakan struktur kaldera gunung api bawah laut Kekeraman. Pencitraan multibeam echosounder (MBES) menunjukkan adanya pembengkakan (uplift) pada lantai kaldera setinggi 45 meter dalam 3 tahun terakhir, mengindikasikan akumulasi tekanan magma dangkal.\n\n          \n            \n            \n            Ilustrasi: Penampang Anomali Kaldera Bawah Laut\n\n          \n\n          Paragraf 2: Sensor hidrofon dan termometer abisal mencatat gempa vulkanik-tektonik harmonik dan lonjakan suhu air 4.2°C di atas normal. Ahli memperingatkan jika terjadi runtuhan lereng kawah masif (flank collapse), dapat memicu gelombang tsunami vulkanik dahsyat dalam waktu kurang dari 15 menit ke pesisir.\n\n          Paragraf 3: Tantangan mitigasi adalah keterbatasan sensor kabel bawah laut. Sebagian besar sistem saat ini dirancang merespon gempa tektonik, bukan runtuhan vulkanik bawah air yang minim guncangan. Pemasangan sensor tekanan dasar laut (ocean bottom pressure gauge) secara real-time menjadi prioritas.\n\nTentukan kesesuaian pernyataan mengenai fenomena geofisika Teks 4!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Pembengkakan lantai kaldera setinggi 45m dipicu akumulasi tekanan magma dangkal.\n[2] Sistem peringatan tsunami saat ini sudah ideal mendeteksi tsunami vulkanik.\n[3] Gelombang tsunami Kekeraman butuh waktu 5 jam sampai ke pesisir.\n[4] Suhu kawah melonjak sebesar 4.2°C di atas rerata normal.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Sistem peringatan saat ini dinilai KURANG ideal (mayoritas untuk tektonik). Waktu tempuh tsunami vulkanik diperkirakan KURANG dari 15 menit (bukan 5 jam)."
@@ -2817,13 +2817,13 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "WACANA [TEKS 5: PENGGALAN HIKAYAT PASAI]:\nMaka tersebutlah perkataan Baginda Sultan Malikul Saleh di Samudera Pasai. Syahdan, baginda memanggil segala menteri dan hulubalang. Titah Sultan: \"Hai menteriku, kita mendengar kabar musuh dari seberang lautan hendak melanggar kedamaian. Apakah bicara kamu sekalian?\"\n\n\n          Tampil Laksamana Mangkubumi yang tua lagi bijaksana: \"Ya Tuanku, janganlah terburu-buru mengerahkan bala tentara berperang di laut lepas. Hendaklah kita memperteguh benteng di muara sungai, serta menyebarkan utusan membawa warkat perdamaian dan pertukaran upeti. Jikalau musuh menerima dengan tulus, terhindarlah rakyat daripada kebinasaan. Namun, jikalau menolak dengan angkara murka, barulah bala tentara kita menggempur hingga binasa.\"\n\n\n          Sultan pun tersenyum. \"Sungguhlah sepertimu, Mangkubumi. Akal yang tenang dan pertimbangan yang dalam itu lebih tajam daripada seribu bilah pedang yang terhunus.\" Baginda lalu memerintahkan jurutulis menyurat warkat emas untuk utusan musuh.\n\nTentukan kesesuaian analisis hubungan makna teks Hikayat!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Saran diplomasi Mangkubumi adalah respon logis atas ancaman musuh.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[2] {'text': 'Perintah menulis warkat emas adalah akibat persetujuan Sultan atas saran tersebut.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[3] {'text': 'Mangkubumi menyarankan perang laut karena benteng sungai lemah.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[4] {'text': \"Kata arkais 'syahdan' dan 'warkat' memperkuat latar suasana Melayu klasik.\", 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 5: PENGGALAN HIKAYAT PASAI]:\nMaka tersebutlah perkataan Baginda Sultan Malikul Saleh di Samudera Pasai. Syahdan, baginda memanggil segala menteri dan hulubalang. Titah Sultan: \"Hai menteriku, kita mendengar kabar musuh dari seberang lautan hendak melanggar kedamaian. Apakah bicara kamu sekalian?\"\n\n\n          Tampil Laksamana Mangkubumi yang tua lagi bijaksana: \"Ya Tuanku, janganlah terburu-buru mengerahkan bala tentara berperang di laut lepas. Hendaklah kita memperteguh benteng di muara sungai, serta menyebarkan utusan membawa warkat perdamaian dan pertukaran upeti. Jikalau musuh menerima dengan tulus, terhindarlah rakyat daripada kebinasaan. Namun, jikalau menolak dengan angkara murka, barulah bala tentara kita menggempur hingga binasa.\"\n\n\n          Sultan pun tersenyum. \"Sungguhlah sepertimu, Mangkubumi. Akal yang tenang dan pertimbangan yang dalam itu lebih tajam daripada seribu bilah pedang yang terhunus.\" Baginda lalu memerintahkan jurutulis menyurat warkat emas untuk utusan musuh.\n\nTentukan kesesuaian analisis hubungan makna teks Hikayat!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Saran diplomasi Mangkubumi adalah respon logis atas ancaman musuh.\n[2] Perintah menulis warkat emas adalah akibat persetujuan Sultan atas saran tersebut.\n[3] Mangkubumi menyarankan perang laut karena benteng sungai lemah.\n[4] Kata arkais 'syahdan' dan 'warkat' memperkuat latar suasana Melayu klasik.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan 3 salah karena Mangkubumi menolak perang laut dan justru meminta agar benteng muara sungai diperteguh."
@@ -2859,13 +2859,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "WACANA [TEKS 6: PERUBAHAN IKLIM DAN TEH EKSPOR]:\nParagraf 1: Anomali cuaca mengancam industri teh kualitas tinggi di Jabar dan Sumatera. Teh (Camellia sinensis) butuh iklim mikro spesifik: suhu sejuk 18°C-24°C. Lonjakan suhu 1,1°C mendesak elevasi penanaman semakin tinggi, mengurangi area kondusif untuk pembentukan aroma teh.\n\n\n          Paragraf 2: Pergeseran musim memicu penyakit cacar daun teh (Exobasidium vexans). Jamur ini menyerang pucuk peko muda (bahan premium), merusak kadar polifenol dan katekin, menurunkan grade teh menjadi lokal murah.\n\n\n          Paragraf 3: Peneliti mengembangkan klon adaptif. Petani mulai membuat rorak dan menanam pohon pelindung leguminosa untuk menjaga mikroklimat. Tanpa mitigasi, industri teh ekspor Indonesia terancam kehilangan pasar internasional.\n\nPenilaian keakuratan data informasi ilmiah Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Kenaikan suhu 1.1°C dan suhu ideal teh 18°C-24°C disajikan akurat.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': 'Dampak jamur Exobasidium vexans terhadap polifenol dijelaskan spesifik.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Terdapat tabel perbandingan ekspor teh ke Jerman.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Solusi pembuatan rorak dan pohon leguminosa diulas dalam teks.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 6: PERUBAHAN IKLIM DAN TEH EKSPOR]:\nParagraf 1: Anomali cuaca mengancam industri teh kualitas tinggi di Jabar dan Sumatera. Teh (Camellia sinensis) butuh iklim mikro spesifik: suhu sejuk 18°C-24°C. Lonjakan suhu 1,1°C mendesak elevasi penanaman semakin tinggi, mengurangi area kondusif untuk pembentukan aroma teh.\n\n\n          Paragraf 2: Pergeseran musim memicu penyakit cacar daun teh (Exobasidium vexans). Jamur ini menyerang pucuk peko muda (bahan premium), merusak kadar polifenol dan katekin, menurunkan grade teh menjadi lokal murah.\n\n\n          Paragraf 3: Peneliti mengembangkan klon adaptif. Petani mulai membuat rorak dan menanam pohon pelindung leguminosa untuk menjaga mikroklimat. Tanpa mitigasi, industri teh ekspor Indonesia terancam kehilangan pasar internasional.\n\nPenilaian keakuratan data informasi ilmiah Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kenaikan suhu 1.1°C dan suhu ideal teh 18°C-24°C disajikan akurat.\n[2] Dampak jamur Exobasidium vexans terhadap polifenol dijelaskan spesifik.\n[3] Terdapat tabel perbandingan ekspor teh ke Jerman.\n[4] Solusi pembuatan rorak dan pohon leguminosa diulas dalam teks.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Teks 6 tidak pernah memuat tabel statistik ekspor ke Jerman."
@@ -2901,13 +2901,13 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "WACANA [TEKS 7: DRAMA 'JERITAN TAMBAK DI AMBANG ABRASI']:\nPENTAS: Suasana dermaga nelayan desa pesisir yang porak-poranda. Pematang tambak tergerus ombak. Pak Sutar (55) menatap laut, Banyu (25) menggulung jangkar.\n\n\n          Pak Sutar: (Suara parau) \"Lihatlah laut itu, Banyu! Dua puluh tahun lalu, ini hamparan tambak. Sekarang? Laut menelan semuanya! Garis pantai maju 200 meter merampas rumah kita.\"\n\n\n          Banyu: (Menepuk bahu Sutar) \"Bukan laut yang murka, Pak. Kita yang mengundang bencana sejak sabuk mangrove dipangkas demi perluasan tambak. Tanpa akar mangrove, ombak terjang pesisir tanpa benteng!\"\n\n\n          Pak Sutar: (Menunduk lesu) \"Kami dahulu buta, tergiur hasil cepat. Sekarang rob masuk rumah. Masih adakah harapan?\"\n\n\n          Banyu: (Tatapan mantap) \"Harapan itu selalu ada jika kita mau membayar utang kita pada alam! Minggu depan, kita tanam sepuluh ribu bibit mangrove Rhizophora. Kita bangun kembali benteng hijau yang hilang!\"\n\nKetepatan unsur intrinsik naskah drama:\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Kramagung (teks dalam kurung) memberi gambaran ekspresi/tindakan fisik.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[2] {'text': 'Dialog Banyu menunjukkan sikap putus asa dan mengajak pindah.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[3] {'text': 'Pencegahan abrasi ditawarkan lewat solusi tanam mangrove Rhizophora.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[4] {'text': \"Ungkapan 'laut menelan semuanya' menggambarkan erosi merampas daratan.\", 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 7: DRAMA 'JERITAN TAMBAK DI AMBANG ABRASI']:\nPENTAS: Suasana dermaga nelayan desa pesisir yang porak-poranda. Pematang tambak tergerus ombak. Pak Sutar (55) menatap laut, Banyu (25) menggulung jangkar.\n\n\n          Pak Sutar: (Suara parau) \"Lihatlah laut itu, Banyu! Dua puluh tahun lalu, ini hamparan tambak. Sekarang? Laut menelan semuanya! Garis pantai maju 200 meter merampas rumah kita.\"\n\n\n          Banyu: (Menepuk bahu Sutar) \"Bukan laut yang murka, Pak. Kita yang mengundang bencana sejak sabuk mangrove dipangkas demi perluasan tambak. Tanpa akar mangrove, ombak terjang pesisir tanpa benteng!\"\n\n\n          Pak Sutar: (Menunduk lesu) \"Kami dahulu buta, tergiur hasil cepat. Sekarang rob masuk rumah. Masih adakah harapan?\"\n\n\n          Banyu: (Tatapan mantap) \"Harapan itu selalu ada jika kita mau membayar utang kita pada alam! Minggu depan, kita tanam sepuluh ribu bibit mangrove Rhizophora. Kita bangun kembali benteng hijau yang hilang!\"\n\nKetepatan unsur intrinsik naskah drama:\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kramagung (teks dalam kurung) memberi gambaran ekspresi/tindakan fisik.\n[2] Dialog Banyu menunjukkan sikap putus asa dan mengajak pindah.\n[3] Pencegahan abrasi ditawarkan lewat solusi tanam mangrove Rhizophora.\n[4] Ungkapan 'laut menelan semuanya' menggambarkan erosi merampas daratan.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Banyu bersikap mantap dan menolak pindah (optimis dan solutif), bukan putus asa."
@@ -2943,13 +2943,13 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "WACANA [TEKS 8: ANEKDOT SATIR BIROKRASI]:\nParagraf 1: Pak Joni ke kantor layanan publik mengurus Surat Bebas Polusi untuk usaha ternak. Di loket ada papan besar: 'Pelayanan Publik Digital 100% Bebas Kertas dan Super Cepat!'\n\n          Paragraf 2: Petugas menyuruhnya mengunduh aplikasi 'SI-POLL MANIS'. Pak Joni menghabiskan dua jam registrasi karena server gangguan. Akhirnya, verifikasi berhasil.\n\n          \n            \n          \n\n          Paragraf 3: \"Mba, suratnya bisa langsung saya cetak PDF?\" tanyanya.\nPetugas menjawab, \"Oh tidak, Pak! Bapak wajib mencetak formulir 3 rangkap, legalisir RT/RW/Lurah, lalu bawa fisiknya minggu depan untuk distempel basah!\"\nPak Joni melongo. \"Lalu apa gunanya tagar Bebas Kertas?\"\n\"Itu kan nama programnya, Pak. Kalau fisik ya wajib ada untuk arsip lemari!\" jawab petugas santai.\n\nEvaluasi simpulan kritik Teks 8!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': \"Kutipan 'Itu kan nama programnya' memuat krisis ironi ekspektasi digital.\", 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[2] {'text': 'Tokoh Pak Joni digambarkan patuh aturan dan bisa memakai aplikasi.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[3] {'text': 'Anekdot mengkritik agar efisiensi digital diimbangi pemangkasan prosedur fisik.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n[4] {'text': 'Petugas loket dipecat karena berbohong.', 'trueLabel': 'Tepat', 'falseLabel': 'Tidak Tepat'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 8: ANEKDOT SATIR BIROKRASI]:\nParagraf 1: Pak Joni ke kantor layanan publik mengurus Surat Bebas Polusi untuk usaha ternak. Di loket ada papan besar: 'Pelayanan Publik Digital 100% Bebas Kertas dan Super Cepat!'\n\n          Paragraf 2: Petugas menyuruhnya mengunduh aplikasi 'SI-POLL MANIS'. Pak Joni menghabiskan dua jam registrasi karena server gangguan. Akhirnya, verifikasi berhasil.\n\n          \n            \n          \n\n          Paragraf 3: \"Mba, suratnya bisa langsung saya cetak PDF?\" tanyanya.\nPetugas menjawab, \"Oh tidak, Pak! Bapak wajib mencetak formulir 3 rangkap, legalisir RT/RW/Lurah, lalu bawa fisiknya minggu depan untuk distempel basah!\"\nPak Joni melongo. \"Lalu apa gunanya tagar Bebas Kertas?\"\n\"Itu kan nama programnya, Pak. Kalau fisik ya wajib ada untuk arsip lemari!\" jawab petugas santai.\n\nEvaluasi simpulan kritik Teks 8!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kutipan 'Itu kan nama programnya' memuat krisis ironi ekspektasi digital.\n[2] Tokoh Pak Joni digambarkan patuh aturan dan bisa memakai aplikasi.\n[3] Anekdot mengkritik agar efisiensi digital diimbangi pemangkasan prosedur fisik.\n[4] Petugas loket dipecat karena berbohong.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Petugas tidak dipecat di akhir cerita, dia menjawab dengan santai tanpa beban."
@@ -2985,13 +2985,13 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "WACANA [TEKS 9: DOKUMEN MoU RESTORASI DAS]:\nNota Kesepahaman 045/MoU-DAS/2026: Pihak Pertama (Dinas Lingkungan) & Pihak Kedua (PT Hijau Lestari).\n\n\n          PASAL 3: HAK & KEWAJIBAN PIHAK 1\n1. Berhak evaluasi independen tiap 3 bulan.\n2. Wajib fasilitasi izin dan memberi peta koordinat spasial zona kritis secara akurat.\n\n\n          PASAL 4: HAK & KEWAJIBAN PIHAK 2\n1. Wajib mendanai rehabilitasi DAS 500 hektar (pohon bambu & mahoni).\n2. Berhak manfaatkan data kredit karbon untuk laporan ESG perusahaan.\n\n\n          PASAL 7: KLAUSUL WANPRESTASI\n1. Jika daya tumbuh tanaman <85% tahun pertama karena kelalaian, Pihak 2 didenda 10% nilai anggaran.\n2. Jika Pihak 1 gagal beri peta koordinat dalam 30 hari, Pihak 2 berhak menangguhkan pendanaan tanpa sanksi.\n\nKesesuaian informasi hak dan kewajiban MoU:\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'text': 'Pihak 1 berhak evaluasi vegetasi tiap 3 bulan.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[2] {'text': 'Pihak 2 berhak pakai data untuk laporan ESG perusahaan.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[3] {'text': 'Luas area rehabilitasi disepakati 10.000 hektar.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n[4] {'text': 'Tanaman wajib adalah sawit dan akasia.', 'trueLabel': 'Sesuai', 'falseLabel': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "WACANA [TEKS 9: DOKUMEN MoU RESTORASI DAS]:\nNota Kesepahaman 045/MoU-DAS/2026: Pihak Pertama (Dinas Lingkungan) & Pihak Kedua (PT Hijau Lestari).\n\n\n          PASAL 3: HAK & KEWAJIBAN PIHAK 1\n1. Berhak evaluasi independen tiap 3 bulan.\n2. Wajib fasilitasi izin dan memberi peta koordinat spasial zona kritis secara akurat.\n\n\n          PASAL 4: HAK & KEWAJIBAN PIHAK 2\n1. Wajib mendanai rehabilitasi DAS 500 hektar (pohon bambu & mahoni).\n2. Berhak manfaatkan data kredit karbon untuk laporan ESG perusahaan.\n\n\n          PASAL 7: KLAUSUL WANPRESTASI\n1. Jika daya tumbuh tanaman <85% tahun pertama karena kelalaian, Pihak 2 didenda 10% nilai anggaran.\n2. Jika Pihak 1 gagal beri peta koordinat dalam 30 hari, Pihak 2 berhak menangguhkan pendanaan tanpa sanksi.\n\nKesesuaian informasi hak dan kewajiban MoU:\n\nPernyataan/Klaim yang dievaluasi:\n[1] Pihak 1 berhak evaluasi vegetasi tiap 3 bulan.\n[2] Pihak 2 berhak pakai data untuk laporan ESG perusahaan.\n[3] Luas area rehabilitasi disepakati 10.000 hektar.\n[4] Tanaman wajib adalah sawit dan akasia.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  -  - ",
+          "B": "Salah - Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Luas area di teks adalah 500 hektar. Tanaman yang disepakati adalah bambu dan mahoni, bukan sawit/akasia."
@@ -5419,13 +5419,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': \"All materials that make up a beach's sand originate directly from the immediate shoreline where they are found.\", 'ans': 'False'}\n[2] {'id': 's2', 'text': 'The composition of sand, such as the presence of basalt or olivine, can reveal the geological volcanic history of the area.', 'ans': 'True'}\n[3] {'id': 's3', 'text': 'During warmer seasons, calm waters usually cause beaches to become narrower and steeper.', 'ans': 'False'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] All materials that make up a beach's sand originate directly from the immediate shoreline where they are found.\n[2] The composition of sand, such as the presence of basalt or olivine, can reveal the geological volcanic history of the area.\n[3] During warmer seasons, calm waters usually cause beaches to become narrower and steeper.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Realitas/Fakta (Evaluasi - C5):\n1) False: Pasir bisa datang dari tempat jauh, pecahan karang bawah air, atau dibawa ombak.\n2) True: Teks menyebutkan pasir hitam (Hawai) dan hijau (Guam) terbentuk dari aktivitas vulkanik (basalt/mineral).\n3) False: Musim hangat membuat air tenang, yang justru memindahkan pasir ke darat sehingga pantai jadi lebih lebar dan datar (broader, flatter beaches)."
@@ -5433,13 +5433,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Coffee is the worst possible drink for maintaining human health and focus.', 'ans': 'Opinion'}\n[2] {'id': 's2', 'text': 'Exercise helps sharpen focus by triggering the release of endorphins in the body.', 'ans': 'Fact'}\n[3] {'id': 's3', 'text': 'Breathing in and out quickly through the nose for 10 seconds is a technique mentioned in the text.', 'ans': 'Fact'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Coffee is the worst possible drink for maintaining human health and focus.\n[2] Exercise helps sharpen focus by triggering the release of endorphins in the body.\n[3] Breathing in and out quickly through the nose for 10 seconds is a technique mentioned in the text.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi - C5):\n1) Opinion: Mengatakan kopi adalah 'minuman terburuk' adalah opini subjektif berlebihan yang tidak didukung data teks.\n2) Fact: Pelepasan endorfin akibat olahraga adalah fakta biologis yang dapat diuji secara medis.\n3) Fact: Teknik ini tertera eksplisit di teks ('Bellows Breathing') sebagai instruksi faktual yang direkomendasikan."
@@ -5447,13 +5447,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Addressing global poverty will automatically create a perfect world with zero crime.', 'ans': 'Opinion'}\n[2] {'id': 's2', 'text': \"Living in extreme poverty increases a person's vulnerability to malnutrition and lack of clean water.\", 'ans': 'Fact'}\n[3] {'id': 's3', 'text': 'UNESCO stated that financial and social barriers prevent 244 million children from attending school.', 'ans': 'Fact'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Addressing global poverty will automatically create a perfect world with zero crime.\n[2] Living in extreme poverty increases a person's vulnerability to malnutrition and lack of clean water.\n[3] UNESCO stated that financial and social barriers prevent 244 million children from attending school.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi - C5):\n1) Opinion: Menghapus kemiskinan membuat dunia 'sempurna tanpa kejahatan' adalah utopia dan opini spekulatif.\n2) Fact: Korelasi antara kemiskinan dan kerentanan malnutrisi/air bersih adalah realitas data sosiologis/kesehatan.\n3) Fact: Angka 244 juta adalah data statistik empiris yang dikeluarkan oleh lembaga UNESCO."
@@ -5848,13 +5848,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'A beach consisting entirely of unbroken, perfect seashells is a common natural occurrence explained by the text.', 'ans': 'False'}\n[2] {'id': 's2', 'text': 'The presence of greenish sand on a beach is a direct indicator of volcanic activity involving basalt.', 'ans': 'True'}\n[3] {'id': 's3', 'text': 'The physical width and slope of a beach remain constant throughout the year.', 'ans': 'False'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] A beach consisting entirely of unbroken, perfect seashells is a common natural occurrence explained by the text.\n[2] The presence of greenish sand on a beach is a direct indicator of volcanic activity involving basalt.\n[3] The physical width and slope of a beach remain constant throughout the year.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Realitas/Fakta (Evaluasi & Apresiasi - C5):\n1) False: Ombak yang terus membentur karang/cangkang akan menghancurkannya jadi pecahan (broken shells/sand), bukan utuh sempurna.\n2) True: Teks menyebut mineral olivin dalam basalt vulkanik (kasus Guam) menghasilkan pasir hijau.\n3) False: Pantai selalu berubah secara musiman (kalimat: 'Seasonal factors also influence their form')."
@@ -5862,13 +5862,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Dr. Anna B. Shannahan works at Northwestern Medicine Lake Forest Hospital.', 'ans': 'Fact'}\n[2] {'id': 's2', 'text': 'Taking a 20-minute nap is the absolute best way for everyone to restore energy.', 'ans': 'Opinion'}\n[3] {'id': 's3', 'text': 'Dehydration is frequently identified as a biological cause of tiredness.', 'ans': 'Fact'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Dr. Anna B. Shannahan works at Northwestern Medicine Lake Forest Hospital.\n[2] Taking a 20-minute nap is the absolute best way for everyone to restore energy.\n[3] Dehydration is frequently identified as a biological cause of tiredness.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi & Apresiasi - C5):\n1) Fact: Profesi dan lokasi kerja adalah data yang bisa diverifikasi kebenarannya secara objektif.\n2) Opinion: Menggunakan frasa mutlak 'absolute best way for everyone' menjadikannya opini yang subjektif dan bias, karena kondisi fisiologis tiap orang berbeda.\n3) Fact: Korelasi antara dehidrasi dan kelelahan (tiredness) adalah fakta medis/biologis yang terukur."
@@ -5876,13 +5876,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Eliminating poverty will automatically guarantee that every child becomes wealthy.', 'ans': 'Opinion'}\n[2] {'id': 's2', 'text': 'UNESCO has recorded that 244 million children and adolescents face barriers keeping them out of school.', 'ans': 'Fact'}\n[3] {'id': 's3', 'text': 'Lack of clean water and limited healthcare access are factors that increase the risk of preventable deaths.', 'ans': 'Fact'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Eliminating poverty will automatically guarantee that every child becomes wealthy.\n[2] UNESCO has recorded that 244 million children and adolescents face barriers keeping them out of school.\n[3] Lack of clean water and limited healthcare access are factors that increase the risk of preventable deaths.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi & Apresiasi - C5):\n1) Opinion: Klaim 'otomatis menjamin setiap anak menjadi kaya' sangat tidak rasional, berlebihan, dan tidak dapat dibuktikan (hanya asumsi buta).\n2) Fact: Adalah data kuantitatif valid dari lembaga resmi PBB (UNESCO).\n3) Fact: Hubungan sebab-akibat antara ketiadaan air bersih/faskes dengan naiknya rasio kematian dapat dibuktikan secara demografis dan sains."
@@ -6277,13 +6277,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Beach materials such as sand and pebbles are mainly formed through the processes of weathering and erosion.', 'ans': 'True'}\n[2] {'id': 's2', 'text': 'Beaches tend to be wider and have a flatter slope during winter because storm winds bring more sand to the shore.', 'ans': 'False'}\n[3] {'id': 's3', 'text': 'Beaches around the world contain sand made only of quartz and shells.', 'ans': 'False'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Beach materials such as sand and pebbles are mainly formed through the processes of weathering and erosion.\n[2] Beaches tend to be wider and have a flatter slope during winter because storm winds bring more sand to the shore.\n[3] Beaches around the world contain sand made only of quartz and shells.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Evaluasi Realitas/Fakta (C5):\n1) True: Sesuai paragraf 2 (natural forces like erosion and weathering).\n2) False: Paragraf 3 menyatakan winter winds justru 'narrowing the shoreline' (menyempitkan), bukan melebarkan.\n3) False: Paragraf 4 menyatakan ada campuran mineral lain seperti diamond, sapphire, garnet, dll, bukan hanya quartz dan cangkang."
@@ -6291,13 +6291,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'A brisk walk or light physical activity can increase alertness by triggering endorphins and norepinephrine.', 'ans': 'Fact'}\n[2] {'id': 's2', 'text': 'Bellows breathing involves breathing quickly through the nose for about 10 seconds with the mouth closed.', 'ans': 'Fact'}\n[3] {'id': 's3', 'text': 'Spending time outdoors will always lift your mood and restore vitality.', 'ans': 'Opinion'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] A brisk walk or light physical activity can increase alertness by triggering endorphins and norepinephrine.\n[2] Bellows breathing involves breathing quickly through the nose for about 10 seconds with the mouth closed.\n[3] Spending time outdoors will always lift your mood and restore vitality.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta vs Opini (C5):\n1) Fact: Proses biologis pelepasan hormon dapat dibuktikan secara sains.\n2) Fact: Ini adalah deskripsi prosedural langkah bernapas yang objektif.\n3) Opinion: Penggunaan kata 'will always' (akan selalu) membuatnya menjadi klaim subjektif/opini, karena kondisi psikologis setiap orang berbeda; teks asli hanya menyebutkan 'can lift' (bisa mengangkat)."
@@ -6305,13 +6305,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 's1', 'text': 'Poverty is the main reason why many children and teenagers cannot attend school.', 'ans': 'Opinion'}\n[2] {'id': 's2', 'text': 'The most effective way to end poverty is by giving temporary aid to families in need.', 'ans': 'Opinion'}\n[3] {'id': 's3', 'text': 'UNESCO reported that over 240 million children and youth are still out of school.', 'ans': 'Fact'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Poverty is the main reason why many children and teenagers cannot attend school.\n[2] The most effective way to end poverty is by giving temporary aid to families in need.\n[3] UNESCO reported that over 240 million children and youth are still out of school.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": " -  - ",
+          "B": "Salah - Salah - Salah",
+          "C": "Benar - Salah - Benar",
+          "D": "Salah - Benar - Salah",
+          "E": "Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Menilai Fakta vs Opini (C5):\n1) Opinion: Teks asli menyatakan poverty adalah 'one of the most significant obstacles' (salah satu yang paling signifikan), bukan dipastikan sebagai 'the main reason' (satu-satunya alasan utama) yang bersifat absolut.\n2) Opinion: Merupakan opini/pendapat pribadi yang bahkan bertentangan dengan teks yang menyarankan 'sustainable, long-term strategies'.\n3) Fact: Adalah data terukur yang dilaporkan oleh lembaga resmi (UNESCO)."
@@ -9070,13 +9070,13 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "Nilailah keakuratan dan kesesuaian informasi di bawah ini berdasarkan bacaan (Sesuai/Tidak Sesuai)!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Indonesia menguasai lebih dari setengah (50%) cadangan panas bumi dunia karena letaknya di Ring of Fire.', 'correct': 'Tidak Sesuai'}\n[2] {'id': 'b', 'text': 'Air hasil pendinginan turbin di permukaan diinjeksikan kembali ke dalam bumi untuk menjaga keberlanjutan siklus.', 'correct': 'Sesuai'}\n[3] {'id': 'c', 'text': 'Ketakutan investor dipicu oleh mahalnya biaya awal dan risiko tinggi menemukan sumur tak produktif (dry hole).', 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': 'Pembangkit listrik tenaga batubara diakui teks lebih efisien dan lebih bersih dibanding panas bumi.', 'correct': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Nilailah keakuratan dan kesesuaian informasi di bawah ini berdasarkan bacaan (Sesuai/Tidak Sesuai)!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Indonesia menguasai lebih dari setengah (50%) cadangan panas bumi dunia karena letaknya di Ring of Fire.\n[2] Air hasil pendinginan turbin di permukaan diinjeksikan kembali ke dalam bumi untuk menjaga keberlanjutan siklus.\n[3] Ketakutan investor dipicu oleh mahalnya biaya awal dan risiko tinggi menemukan sumur tak produktif (dry hole).\n[4] Pembangkit listrik tenaga batubara diakui teks lebih efisien dan lebih bersih dibanding panas bumi.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Tidak Sesuai - Sesuai - Sesuai - Tidak Sesuai",
+          "B": "Sesuai - Tidak Sesuai - Tidak Sesuai - Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "a) Teks menyebut 40%, bukan >50%. b) Sesuai bagan & teks. c) Sesuai dengan penjelasan capital expenditure di Par 2. d) Bertentangan, teks menyebut batubara melepas emisi masif."
@@ -9112,13 +9112,13 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "Tentukan apakah pernyataan berikut Benar atau Salah dalam mendeskripsikan penokohan dan suasana teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': \"Kalimat 'bau wangi malam terkalahkan oleh deru mesin' adalah imaji auditif dan olfaktori yang mendramatisasi kekalahan budaya tradisional.\", 'correct': 'Benar'}\n[2] {'id': 'b', 'text': 'Tokoh Mbah Kromo digambarkan sebagai sosok yang tamak, terbukti dari penolakannya menggunakan cap tembaga yang murah.', 'correct': 'Salah'}\n[3] {'id': 'c', 'text': \"Sebutan 'Ruh batiknya sudah mati digilas mesin' menggunakan majas personifikasi untuk memperkuat nuansa tragedi hilangnya identitas budaya.\", 'correct': 'Benar'}\n[4] {'id': 'd', 'text': 'Latar tempat terjadinya konflik dominan berlokasi di sebuah mall mewah di ibu kota.', 'correct': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan apakah pernyataan berikut Benar atau Salah dalam mendeskripsikan penokohan dan suasana teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kalimat 'bau wangi malam terkalahkan oleh deru mesin' adalah imaji auditif dan olfaktori yang mendramatisasi kekalahan budaya tradisional.\n[2] Tokoh Mbah Kromo digambarkan sebagai sosok yang tamak, terbukti dari penolakannya menggunakan cap tembaga yang murah.\n[3] Sebutan 'Ruh batiknya sudah mati digilas mesin' menggunakan majas personifikasi untuk memperkuat nuansa tragedi hilangnya identitas budaya.\n[4] Latar tempat terjadinya konflik dominan berlokasi di sebuah mall mewah di ibu kota.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
+          "A": "Benar - Salah - Benar - Salah",
+          "B": "Salah - Benar - Salah - Benar",
+          "C": "Benar - Benar - Benar - Benar",
           "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "E": "Benar - Salah - Salah - Salah"
         },
         "key": "A",
         "explanation": "b) Salah, Mbah Kromo bukan tamak, melainkan idealis. d) Salah, latar berada di gubuk Mbah Kromo dekat pabrik/Pasar Beringharjo, bukan mall."
@@ -9140,13 +9140,13 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "Pilihlah Sesuai atau Tidak Sesuai mengenai hubungan logika antargagasan dalam esai ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Paragraf 1 dan Paragraf 2 memuat hubungan transisi kontradiktif antara niat awal gerakan dengan penyimpangan dampaknya di masa kini.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': \"Penggunaan konjungsi 'Akan tetapi' di awal Paragraf 2 menegaskan dukungan penuh penulis terhadap seluruh tindakan boikot massal.\", 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': 'Paragraf 3 memberikan resolusi edukatif (literasi empati) atas ancaman tirani mayoritas yang dijabarkan di Paragraf 2.', 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': \"Konsep 'calling out' dan 'canceling' disimpulkan pada akhir teks sebagai dua tindakan yang bersinonim mutlak.\", 'correct': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Pilihlah Sesuai atau Tidak Sesuai mengenai hubungan logika antargagasan dalam esai ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Paragraf 1 dan Paragraf 2 memuat hubungan transisi kontradiktif antara niat awal gerakan dengan penyimpangan dampaknya di masa kini.\n[2] Penggunaan konjungsi 'Akan tetapi' di awal Paragraf 2 menegaskan dukungan penuh penulis terhadap seluruh tindakan boikot massal.\n[3] Paragraf 3 memberikan resolusi edukatif (literasi empati) atas ancaman tirani mayoritas yang dijabarkan di Paragraf 2.\n[4] Konsep 'calling out' dan 'canceling' disimpulkan pada akhir teks sebagai dua tindakan yang bersinonim mutlak.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "C": "Sesuai - Sesuai - Sesuai - Sesuai",
+          "D": "Tidak Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "E": "Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai"
         },
         "key": "A",
         "explanation": "b) Tidak sesuai, justru konjungsi itu menandai titik balik kritik. d) Tidak sesuai, teks meminta pembaca *membedakan* keduanya, berarti tidak bersinonim."
@@ -9196,13 +9196,13 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "Nilailah validitas (Benar/Salah) respons emosional yang ditimbulkan oleh arahan panggung (stage direction) naskah drama ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': \"Arahan '(Mencengkeram ujung kebayanya, suaranya bergetar menahan tangis)' bertujuan membangkitkan rasa simpati penonton atas kerentanan posisi pedagang kecil.\", 'correct': 'Benar'}\n[2] {'id': 'b', 'text': \"Arahan '(Menghela napas panjang)' pada Wali Kota menegaskan sikapnya yang sangat berempati dan siap mengalah.\", 'correct': 'Salah'}\n[3] {'id': 'c', 'text': \"Deskripsi 'Kaca jendela besar menghadap pemukiman padat' adalah ironi visual jarak pemisah antara pejabat yang nyaman dan rakyat yang semrawut.\", 'correct': 'Benar'}\n[4] {'id': 'd', 'text': \"Kalimat retoris Bu Juminah 'Manusiawi menurut siapa?' secara dramatik mendobrak arogansi kebijakan sang pejabat.\", 'correct': 'Benar'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Nilailah validitas (Benar/Salah) respons emosional yang ditimbulkan oleh arahan panggung (stage direction) naskah drama ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Arahan '(Mencengkeram ujung kebayanya, suaranya bergetar menahan tangis)' bertujuan membangkitkan rasa simpati penonton atas kerentanan posisi pedagang kecil.\n[2] Arahan '(Menghela napas panjang)' pada Wali Kota menegaskan sikapnya yang sangat berempati dan siap mengalah.\n[3] Deskripsi 'Kaca jendela besar menghadap pemukiman padat' adalah ironi visual jarak pemisah antara pejabat yang nyaman dan rakyat yang semrawut.\n[4] Kalimat retoris Bu Juminah 'Manusiawi menurut siapa?' secara dramatik mendobrak arogansi kebijakan sang pejabat.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Benar - Salah - Benar - Benar",
+          "B": "Salah - Benar - Salah - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "b) Salah, 'menghela napas' di sini menunjukkan kejengkelan/sikap meremehkan ketidakpahaman rakyat, bukan empati."
@@ -9224,13 +9224,13 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "Tentukan Sesuai atau Tidak Sesuai perihal penggambaran unsur intrinsik dalam puisi tersebut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': \"Imaji visual 'menara kaca yang congkak' secara tepat melukiskan gedung-gedung pencakar langit yang merebut ruang alam.\", 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Latar waktu puisi ini terjebak seutuhnya di masa lampau tanpa membedakan kondisi saat ini.', 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': 'Bait terakhir berfungsi memberikan peringatan (didaktis) tentang bahaya kapitalisme yang abai pada keseimbangan ekologi.', 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': 'Burung enggang yang diusir mencerminkan kebangkitan pelestarian satwa langka yang sukses.', 'correct': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Sesuai atau Tidak Sesuai perihal penggambaran unsur intrinsik dalam puisi tersebut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Imaji visual 'menara kaca yang congkak' secara tepat melukiskan gedung-gedung pencakar langit yang merebut ruang alam.\n[2] Latar waktu puisi ini terjebak seutuhnya di masa lampau tanpa membedakan kondisi saat ini.\n[3] Bait terakhir berfungsi memberikan peringatan (didaktis) tentang bahaya kapitalisme yang abai pada keseimbangan ekologi.\n[4] Burung enggang yang diusir mencerminkan kebangkitan pelestarian satwa langka yang sukses.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "C": "Sesuai - Sesuai - Sesuai - Sesuai",
+          "D": "Tidak Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "E": "Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai"
         },
         "key": "A",
         "explanation": "b) Salah, ada kontras waktu (Dahulu vs Kini). d) Salah, justru mencerminkan kepunahan/keterusiran margasatwa."
@@ -9280,13 +9280,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "Tentukan Sesuai atau Tidak Sesuai kelogisan dan ketepatan klaim informasi kesehatan dalam teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Antibiotik sangat efektif diresepkan dokter untuk mengobati penyakit flu biasa yang diakibatkan oleh virus.', 'correct': 'Tidak Sesuai'}\n[2] {'id': 'b', 'text': 'Perlambatan laju penemuan antibiotik jenis baru oleh korporasi farmasi memperparah risiko krisis AMR.', 'correct': 'Sesuai'}\n[3] {'id': 'c', 'text': 'Organisasi Kesehatan Dunia (WHO) menganggap mencampur antibiotik pada pakan hewan ternak adalah praktik yang dianjurkan.', 'correct': 'Tidak Sesuai'}\n[4] {'id': 'd', 'text': 'Ancaman resistensi mikroba setara atau diposisikan sebagai salah satu krisis global yang serius.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Sesuai atau Tidak Sesuai kelogisan dan ketepatan klaim informasi kesehatan dalam teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Antibiotik sangat efektif diresepkan dokter untuk mengobati penyakit flu biasa yang diakibatkan oleh virus.\n[2] Perlambatan laju penemuan antibiotik jenis baru oleh korporasi farmasi memperparah risiko krisis AMR.\n[3] Organisasi Kesehatan Dunia (WHO) menganggap mencampur antibiotik pada pakan hewan ternak adalah praktik yang dianjurkan.\n[4] Ancaman resistensi mikroba setara atau diposisikan sebagai salah satu krisis global yang serius.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "B": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Sesuai - Sesuai - Sesuai",
+          "D": "Tidak Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "E": "Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai"
         },
         "key": "A",
         "explanation": "a) Tidak Sesuai (antibiotik tidak mempan untuk virus, teks Par 3 menegaskan ini). c) Tidak Sesuai (WHO justru mendesak dilarang)."
@@ -9322,13 +9322,13 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "Nilailah relevansi pesan moral Hikayat Teks 7 dengan realitas sosiologis era modern (Sesuai/Tidak Sesuai)!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Perjuangan memperoleh pendidikan tinggi yang setara antara laki-laki dan perempuan adalah wacana abadi yang relevan.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Kualitas kepemimpinan pejabat publik harus didasarkan pada kompetensi intelektual, bukan sekadar previlese keturunan.', 'correct': 'Sesuai'}\n[3] {'id': 'c', 'text': 'Sikap orang tua yang mengalah demi memfasilitasi minat akademik anak perempuan adalah tindakan yang merendahkan martabat.', 'correct': 'Tidak Sesuai'}\n[4] {'id': 'd', 'text': 'Sastra lama selalu gagal mengajarkan gagasan yang sejalan dengan perkembangan emansipasi masa kini.', 'correct': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Nilailah relevansi pesan moral Hikayat Teks 7 dengan realitas sosiologis era modern (Sesuai/Tidak Sesuai)!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Perjuangan memperoleh pendidikan tinggi yang setara antara laki-laki dan perempuan adalah wacana abadi yang relevan.\n[2] Kualitas kepemimpinan pejabat publik harus didasarkan pada kompetensi intelektual, bukan sekadar previlese keturunan.\n[3] Sikap orang tua yang mengalah demi memfasilitasi minat akademik anak perempuan adalah tindakan yang merendahkan martabat.\n[4] Sastra lama selalu gagal mengajarkan gagasan yang sejalan dengan perkembangan emansipasi masa kini.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "B": "Tidak Sesuai - Tidak Sesuai - Sesuai - Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "c) Teks menunjukkan tindakan raja sebagai kebijaksanaan (bukan merendahkan martabat). d) Hikayat ini justru membuktikan sastra lama bisa progresif memuat ide emansipasi."
@@ -9364,13 +9364,13 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "Konfirmasi keakuratan data dan detail persetujuan di bawah ini! (Benar/Salah)\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Tim desain internal klien mengambil gambar dengan izin tertulis pada awalnya.', 'correct': 'Salah'}\n[2] {'id': 'b', 'text': 'Kesepakatan akhir bernilai kompensasi Rp85.000.000,00.', 'correct': 'Benar'}\n[3] {'id': 'c', 'text': 'Pada kesepakatan akhir, nama Rian (watermark) tetap akan dipasang besar di setiap baliho iklan.', 'correct': 'Salah'}\n[4] {'id': 'd', 'text': \"Klausul 'non-exclusive use' membolehkan Rian menjual hak lisensi lukisan yang sama ke perusahaan beda industri.\", 'correct': 'Benar'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Konfirmasi keakuratan data dan detail persetujuan di bawah ini! (Benar/Salah)\n\nPernyataan/Klaim yang dievaluasi:\n[1] Tim desain internal klien mengambil gambar dengan izin tertulis pada awalnya.\n[2] Kesepakatan akhir bernilai kompensasi Rp85.000.000,00.\n[3] Pada kesepakatan akhir, nama Rian (watermark) tetap akan dipasang besar di setiap baliho iklan.\n[4] Klausul 'non-exclusive use' membolehkan Rian menjual hak lisensi lukisan yang sama ke perusahaan beda industri.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
+          "A": "Salah - Benar - Salah - Benar",
           "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
+          "C": "Benar - Benar - Benar - Benar",
           "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "E": "Benar - Salah - Salah - Salah"
         },
         "key": "A",
         "explanation": "a) Salah, diakui tanpa verifikasi izin (Par 2). c) Salah, Rian melepas/mengalah soal tuntutan watermark demi kelonggaran lisensi (Par 3)."
@@ -9406,13 +9406,13 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "Nilai Benar atau Salah pemaknaan efek 'punchline' (kalimat pamungkas) jurnalis yang 'speechless sambil menelan mikrofonnya sendiri'!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Tindakan menelan mikrofon bermakna literal (harfiah) bahwa sang jurnalis merasa sangat kelaparan.', 'correct': 'Salah'}\n[2] {'id': 'b', 'text': 'Hal itu merupakan hiperbola komedik yang menandakan rasa tercengang/frustrasi di luar batas nalar mendengar jawaban sang pejabat.', 'correct': 'Benar'}\n[3] {'id': 'c', 'text': 'Respons tersebut mengakhiri anekdot dengan klimaks kekonyolan yang menyayat nalar logika publik.', 'correct': 'Benar'}\n[4] {'id': 'd', 'text': 'Jurnalis tersebut langsung setuju dan mendaftarkan diri ikut ke Venesia.', 'correct': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Nilai Benar atau Salah pemaknaan efek 'punchline' (kalimat pamungkas) jurnalis yang 'speechless sambil menelan mikrofonnya sendiri'!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Tindakan menelan mikrofon bermakna literal (harfiah) bahwa sang jurnalis merasa sangat kelaparan.\n[2] Hal itu merupakan hiperbola komedik yang menandakan rasa tercengang/frustrasi di luar batas nalar mendengar jawaban sang pejabat.\n[3] Respons tersebut mengakhiri anekdot dengan klimaks kekonyolan yang menyayat nalar logika publik.\n[4] Jurnalis tersebut langsung setuju dan mendaftarkan diri ikut ke Venesia.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Salah - Benar - Benar - Salah",
+          "B": "Benar - Salah - Salah - Benar",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "a & d salah, hiperbola menelan mikrofon (idiom visual) melambangkan betapa absurdnya (tercengang parah) pernyataan pejabat tersebut sehingga otak tak sanggup lagi berkata-kata."
@@ -9434,13 +9434,13 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "Tentukan Sesuai atau Tidak Sesuai analisis hubungan dan perbandingan dalam teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Mitos khasiat pala sebagai obat Black Death (Par 1) memiliki hubungan sebab-akibat langsung mengapa margin harganya melambung gila-gilaan.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Sistem perkenier (Par 2) merupakan program pelatihan pertanian ramah HAM bagi penduduk asli Banda.', 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': \"Kalimat 'vergaan onder corruptie' (Par 3) ironisnya merujuk pada musuh dalam selimut yang meruntuhkan hegemoni VOC.\", 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': 'Teks memberikan perbandingan bahwa awal mula penjajahan dilandaskan pada motif pertukaran budaya, bukan motif keserakahan ekonomi.', 'correct': 'Tidak Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Sesuai atau Tidak Sesuai analisis hubungan dan perbandingan dalam teks!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Mitos khasiat pala sebagai obat Black Death (Par 1) memiliki hubungan sebab-akibat langsung mengapa margin harganya melambung gila-gilaan.\n[2] Sistem perkenier (Par 2) merupakan program pelatihan pertanian ramah HAM bagi penduduk asli Banda.\n[3] Kalimat 'vergaan onder corruptie' (Par 3) ironisnya merujuk pada musuh dalam selimut yang meruntuhkan hegemoni VOC.\n[4] Teks memberikan perbandingan bahwa awal mula penjajahan dilandaskan pada motif pertukaran budaya, bukan motif keserakahan ekonomi.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "C": "Sesuai - Sesuai - Sesuai - Sesuai",
+          "D": "Tidak Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "E": "Sesuai - Tidak Sesuai - Tidak Sesuai - Tidak Sesuai"
         },
         "key": "A",
         "explanation": "b) Tidak sesuai, sistem perkenier dilakukan oleh budak tawanan usai genosida. d) Tidak sesuai, penjajahan dilandasi motif keserakahan meraup 1000% margin ekonomi, bukan pertukaran budaya."
@@ -9499,13 +9499,13 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "Tentukan apakah pernyataan berikut Sesuai atau Tidak Sesuai dengan kecukupan dan keakuratan informasi yang disajikan dalam Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Penggunaan pupuk sintetis selama berpuluh tahun menjadi penyebab utama degradasi hara tanah.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Masa konversi organik membutuhkan waktu lima hingga tujuh tahun sebelum ekosistem pulih.', 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': 'Pemerintah daerah telah memberikan jaminan subsidi penuh kepada petani selama fase penurunan hasil.', 'correct': 'Tidak Sesuai'}\n[4] {'id': 'd', 'text': 'Kemitraan dengan ritel modern dan perhotelan diusulkan sebagai bagian dari solusi pemasaran produk lokal.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan apakah pernyataan berikut Sesuai atau Tidak Sesuai dengan kecukupan dan keakuratan informasi yang disajikan dalam Teks 1!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Penggunaan pupuk sintetis selama berpuluh tahun menjadi penyebab utama degradasi hara tanah.\n[2] Masa konversi organik membutuhkan waktu lima hingga tujuh tahun sebelum ekosistem pulih.\n[3] Pemerintah daerah telah memberikan jaminan subsidi penuh kepada petani selama fase penurunan hasil.\n[4] Kemitraan dengan ritel modern dan perhotelan diusulkan sebagai bagian dari solusi pemasaran produk lokal.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Tidak Sesuai - Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "Pernyataan b tidak sesuai karena teks menyebut durasi konversi 2-3 tahun, bukan 5-7 tahun. Pernyataan c tidak sesuai karena teks menyatakan petani berjuang tanpa subsidi/insentif."
@@ -9541,13 +9541,13 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "Evaluasilah kebenaran atau kesalahan analisis penggunaan kebahasaan pada kalimat-kalimat dalam Teks 2 berikut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': \"Penggunaan kata 'sintesis' dan 'algoritma' sesuai dengan kaidah pembentukan istilah ilmiah Bahasa Indonesia.\", 'correct': 'Benar'}\n[2] {'id': 'b', 'text': 'Penggunaan tanda titik koma (;) pada Paragraf 2 kalimat pertama sudah tepat untuk memisahkan klausa setara yang kompleks.', 'correct': 'Benar'}\n[3] {'id': 'c', 'text': \"Kata 'apatis' dalam Paragraf 2 bermakna sangat peduli dan responsif terhadap kejahatan akademik.\", 'correct': 'Salah'}\n[4] {'id': 'd', 'text': \"Frasa 'literasi digital kritis' memuat pewatas yang memberikan kejelasan konsep pada ranah pendidikan.\", 'correct': 'Benar'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Evaluasilah kebenaran atau kesalahan analisis penggunaan kebahasaan pada kalimat-kalimat dalam Teks 2 berikut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Penggunaan kata 'sintesis' dan 'algoritma' sesuai dengan kaidah pembentukan istilah ilmiah Bahasa Indonesia.\n[2] Penggunaan tanda titik koma (;) pada Paragraf 2 kalimat pertama sudah tepat untuk memisahkan klausa setara yang kompleks.\n[3] Kata 'apatis' dalam Paragraf 2 bermakna sangat peduli dan responsif terhadap kejahatan akademik.\n[4] Frasa 'literasi digital kritis' memuat pewatas yang memberikan kejelasan konsep pada ranah pendidikan.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Benar - Benar - Salah - Benar",
+          "B": "Salah - Salah - Benar - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan c salah karena kata 'apatis' berarti acuh/tidak peduli, bertentangan dengan klaim 'sangat peduli'."
@@ -9583,13 +9583,13 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "Pilihlah Sesuai atau Tidak Sesuai untuk menilai relevansi nilai-nilai dalam Teks 3 dengan kehidupan masyarakat modern saat ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Kerusakan cagar budaya akibat modernisasi asal-jebat mencerminkan pentingnya riset mendalam sebelum melakukan revitalisasi fisik.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Sikap mengagungkan barang impor modern dibanding teknologi lokal adalah tindakan yang selalu benar dalam pelestarian sejarah.', 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': 'Keseimbangan antara komersialisasi pariwisata dan pelestarian nilai keaslian merupakan tantangan nyata pengelola warisan budaya.', 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': 'Rasa bangga sebagai bangsa maritim harus diwujudkan dalam kerja nyata pelestarian, bukan sekadar jargon di media sosial.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Pilihlah Sesuai atau Tidak Sesuai untuk menilai relevansi nilai-nilai dalam Teks 3 dengan kehidupan masyarakat modern saat ini!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kerusakan cagar budaya akibat modernisasi asal-jebat mencerminkan pentingnya riset mendalam sebelum melakukan revitalisasi fisik.\n[2] Sikap mengagungkan barang impor modern dibanding teknologi lokal adalah tindakan yang selalu benar dalam pelestarian sejarah.\n[3] Keseimbangan antara komersialisasi pariwisata dan pelestarian nilai keaslian merupakan tantangan nyata pengelola warisan budaya.\n[4] Rasa bangga sebagai bangsa maritim harus diwujudkan dalam kerja nyata pelestarian, bukan sekadar jargon di media sosial.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Sesuai - Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "Pernyataan b Tidak Sesuai karena teks menunjukkan semen modern justru merusak batu kapur benteng asli. Harus mengutamakan teknologi/kearifan lokal yang relevan."
@@ -9625,13 +9625,13 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "Analisis hubungan makna antarparagraf dalam Teks 4 di bawah ini, tentukan Benar atau Salah!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Paragraf 2 berfungsi menawarkan solusi teknis atas deskripsi ancaman ekologis yang dipaparkan pada Paragraf 1.', 'correct': 'Benar'}\n[2] {'id': 'b', 'text': 'Paragraf 3 memiliki hubungan penjelas sebab-akibat langsung yang membatalkan efektivitas solusi pada Paragraf 2.', 'correct': 'Salah'}\n[3] {'id': 'c', 'text': \"Penggunaan konjungsi 'Oleh karena itu' pada Paragraf 2 menandakan simpulan logis untuk beralih ke strategi partisipatif.\", 'correct': 'Benar'}\n[4] {'id': 'd', 'text': 'Paragraf 1 dan Paragraf 3 sama-sama membahas rincian teknis pemasangan rangka besi berpalut pasir vulkanik.', 'correct': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Analisis hubungan makna antarparagraf dalam Teks 4 di bawah ini, tentukan Benar atau Salah!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Paragraf 2 berfungsi menawarkan solusi teknis atas deskripsi ancaman ekologis yang dipaparkan pada Paragraf 1.\n[2] Paragraf 3 memiliki hubungan penjelas sebab-akibat langsung yang membatalkan efektivitas solusi pada Paragraf 2.\n[3] Penggunaan konjungsi 'Oleh karena itu' pada Paragraf 2 menandakan simpulan logis untuk beralih ke strategi partisipatif.\n[4] Paragraf 1 dan Paragraf 3 sama-sama membahas rincian teknis pemasangan rangka besi berpalut pasir vulkanik.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
+          "A": "Benar - Salah - Benar - Salah",
+          "B": "Salah - Benar - Salah - Benar",
+          "C": "Benar - Benar - Benar - Benar",
           "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "E": "Benar - Salah - Salah - Salah"
         },
         "key": "A",
         "explanation": "Pernyataan b Salah karena Paragraf 3 justru mendukung keberlanjutan solusi Paragraf 2. Pernyataan d Salah karena teknik rangka besi dipaparkan di Paragraf 2, bukan Paragraf 1 dan 3."
@@ -9667,13 +9667,13 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "Tentukan Sesuai atau Tidak Sesuai untuk menilai penggambaran karakter dan peristiwa dalam Teks 5!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Sikap Baginda yang bersujud syukur menunjukkan kerendahan hati seorang raja ketika menerima kebenaran.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Ketakutan para menteri zalim menggambarkan bahwa keadilan raja mulai mengancam tindakan penyimpangan mereka.', 'correct': 'Sesuai'}\n[3] {'id': 'c', 'text': 'Syekh Jalaluddin digambarkan sebagai ulama penakut yang hanya berani memuji kebaikan pejabat istana.', 'correct': 'Tidak Sesuai'}\n[4] {'id': 'd', 'text': 'Turunnya hujan setelah pembagian pangan menggambarkan motif keajaiban (relegio-magis) yang khas pada hikayat klasik.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Sesuai atau Tidak Sesuai untuk menilai penggambaran karakter dan peristiwa dalam Teks 5!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Sikap Baginda yang bersujud syukur menunjukkan kerendahan hati seorang raja ketika menerima kebenaran.\n[2] Ketakutan para menteri zalim menggambarkan bahwa keadilan raja mulai mengancam tindakan penyimpangan mereka.\n[3] Syekh Jalaluddin digambarkan sebagai ulama penakut yang hanya berani memuji kebaikan pejabat istana.\n[4] Turunnya hujan setelah pembagian pangan menggambarkan motif keajaiban (relegio-magis) yang khas pada hikayat klasik.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "B": "Tidak Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "Pernyataan c Tidak Sesuai karena Syekh Jalaluddin sangat berani memberi teguran keras tentang korupsi/kemaksiatan pejabat (menteri)."
@@ -9709,13 +9709,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "Berikan penilaian Benar atau Salah terhadap analisis keefektifan kalimat dan kaidah bahasa dalam Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Kalimat pertama Paragraf 1 merupakan kalimat majemuk bertingkat yang memiliki subjek dan predikat yang jelas.', 'correct': 'Benar'}\n[2] {'id': 'b', 'text': \"Frasa 'umpan balik dopaminergik' merupakan contoh penyerapan istilah ilmiah yang tepat dalam bidang neurosains.\", 'correct': 'Benar'}\n[3] {'id': 'c', 'text': \"Kata 'membahayakan' pada Paragraf 2 sebaiknya diganti menjadi 'membahayakannya' agar tergolong kata baku.\", 'correct': 'Salah'}\n[4] {'id': 'd', 'text': \"Penggunaan kata 'dekonstruksi wacana' pada Paragraf 3 memberikan ketepatan makna kontekstual dalam esai ilmiah.\", 'correct': 'Benar'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Berikan penilaian Benar atau Salah terhadap analisis keefektifan kalimat dan kaidah bahasa dalam Teks 6!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kalimat pertama Paragraf 1 merupakan kalimat majemuk bertingkat yang memiliki subjek dan predikat yang jelas.\n[2] Frasa 'umpan balik dopaminergik' merupakan contoh penyerapan istilah ilmiah yang tepat dalam bidang neurosains.\n[3] Kata 'membahayakan' pada Paragraf 2 sebaiknya diganti menjadi 'membahayakannya' agar tergolong kata baku.\n[4] Penggunaan kata 'dekonstruksi wacana' pada Paragraf 3 memberikan ketepatan makna kontekstual dalam esai ilmiah.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Benar - Benar - Salah - Benar",
+          "B": "Salah - Salah - Benar - Salah",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan c Salah karena 'membahayakan' sudah merupakan kata baku dengan imbuhan me-kan yang tepat."
@@ -9751,13 +9751,13 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "Pilihlah Sesuai atau Tidak Sesuai untuk menilai relevansi masalah dalam naskah drama dengan fenomena sosial di Indonesia!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Konflik hilangnya mata pencaharian nelayan akibat proyek ekstraktif kerap terjadi di wilayah pesisir Indonesia.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Dilema pejabat lokal antara mengejar target investasi dan melindungi ekologi warga adalah kenyataan tata kelola daerah.', 'correct': 'Sesuai'}\n[3] {'id': 'c', 'text': 'Semua masyarakat pesisir di Indonesia dipastikan selalu menyetujui penambangan pasir karena mendapat ganti rugi besar.', 'correct': 'Tidak Sesuai'}\n[4] {'id': 'd', 'text': 'Peran pemuda (seperti tokoh Riko) sangat krusial dalam menyuarakan keadilan lingkungan di tingkat tapak.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Pilihlah Sesuai atau Tidak Sesuai untuk menilai relevansi masalah dalam naskah drama dengan fenomena sosial di Indonesia!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Konflik hilangnya mata pencaharian nelayan akibat proyek ekstraktif kerap terjadi di wilayah pesisir Indonesia.\n[2] Dilema pejabat lokal antara mengejar target investasi dan melindungi ekologi warga adalah kenyataan tata kelola daerah.\n[3] Semua masyarakat pesisir di Indonesia dipastikan selalu menyetujui penambangan pasir karena mendapat ganti rugi besar.\n[4] Peran pemuda (seperti tokoh Riko) sangat krusial dalam menyuarakan keadilan lingkungan di tingkat tapak.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "B": "Tidak Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "Pernyataan c Tidak Sesuai karena dalam kondisi riil, proyek tambang pesisir sering mendapat penolakan keras dari warga nelayan."
@@ -9793,13 +9793,13 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "Tentukan Benar atau Salah terhadap analisis kebahasaan anekdot dalam Teks 8!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': \"Kalimat 'Secara fisik taman ini ada, tapi secara administratif belum ada' memuat majas kontradiksi ironi.\", 'correct': 'Benar'}\n[2] {'id': 'b', 'text': 'Pertanyaan Pak Tulus pada Paragraf 3 merupakan pertanyaan retoris yang berfungsi menyindir kekakuan birokrasi.', 'correct': 'Benar'}\n[3] {'id': 'c', 'text': \"Kata 'mengerutkan dahi' dan 'wajah merah padam' adalah konotasi ungkapan ekspresi emosi tokoh.\", 'correct': 'Benar'}\n[4] {'id': 'd', 'text': 'Teks anekdot di atas menggunakan bahasa formal tanpa ada dialog langsung sama sekali.', 'correct': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Benar atau Salah terhadap analisis kebahasaan anekdot dalam Teks 8!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Kalimat 'Secara fisik taman ini ada, tapi secara administratif belum ada' memuat majas kontradiksi ironi.\n[2] Pertanyaan Pak Tulus pada Paragraf 3 merupakan pertanyaan retoris yang berfungsi menyindir kekakuan birokrasi.\n[3] Kata 'mengerutkan dahi' dan 'wajah merah padam' adalah konotasi ungkapan ekspresi emosi tokoh.\n[4] Teks anekdot di atas menggunakan bahasa formal tanpa ada dialog langsung sama sekali.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Benar - Benar - Benar - Salah",
+          "B": "Salah - Salah - Salah - Benar",
+          "C": "Benar - Salah - Benar - Salah",
+          "D": "Salah - Benar - Salah - Benar",
+          "E": "Benar - Benar - Benar - Benar"
         },
         "key": "A",
         "explanation": "Pernyataan d Salah karena teks justru didominasi oleh dialog langsung antara Pak Tulus dan Kepala Dinas."
@@ -9835,13 +9835,13 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "Tentukan Sesuai atau Tidak Sesuai untuk menilai kesesuaian data rinci dalam klausul negosiasi Teks 9!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Harga akhir kesepakatan kakao per kilogram ditetapkan sebesar Rp58.000,00.', 'correct': 'Sesuai'}\n[2] {'id': 'b', 'text': 'Seluruh armada pengangkutan dari gudang desa ditanggung oleh pihak Koperasi Tani.', 'correct': 'Tidak Sesuai'}\n[3] {'id': 'c', 'text': 'Perusahaan memberikan jaminan uang muka sebesar 30% di awal setiap bulan kontrak.', 'correct': 'Sesuai'}\n[4] {'id': 'd', 'text': 'Volume pasokan biji kakao mutu kelas A yang disepakati adalah 10 ton per bulan.', 'correct': 'Sesuai'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Sesuai atau Tidak Sesuai untuk menilai kesesuaian data rinci dalam klausul negosiasi Teks 9!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Harga akhir kesepakatan kakao per kilogram ditetapkan sebesar Rp58.000,00.\n[2] Seluruh armada pengangkutan dari gudang desa ditanggung oleh pihak Koperasi Tani.\n[3] Perusahaan memberikan jaminan uang muka sebesar 30% di awal setiap bulan kontrak.\n[4] Volume pasokan biji kakao mutu kelas A yang disepakati adalah 10 ton per bulan.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Sesuai - Tidak Sesuai - Sesuai - Sesuai",
+          "B": "Tidak Sesuai - Sesuai - Tidak Sesuai - Tidak Sesuai",
+          "C": "Sesuai - Tidak Sesuai - Sesuai - Tidak Sesuai",
+          "D": "Tidak Sesuai - Sesuai - Tidak Sesuai - Sesuai",
+          "E": "Sesuai - Sesuai - Sesuai - Sesuai"
         },
         "key": "A",
         "explanation": "Pernyataan b Tidak Sesuai karena armada transportasi ditanggung oleh pihak perusahaan (PT Nusantara Agro)."
@@ -9877,13 +9877,13 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "Tentukan Benar atau Salah terhadap prediksi implikasi kebijakan lingkungan berbasis Teks 10 berikut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] {'id': 'a', 'text': 'Jika regulasi hulu limbah industri tidak diperketat, angka kasus penyakit karsinogenik di daerah pesisir berisiko meningkat.', 'correct': 'Benar'}\n[2] {'id': 'b', 'text': 'Pencegahan pencemaran mikroplastik akan berhasil total walau pembuangan sampah di DAS dibiarkan tanpa pengolahan.', 'correct': 'Salah'}\n[3] {'id': 'c', 'text': 'Penerapan retribusi limbah industri pesisir akan mendorong pabrik mengolah limbah sebelum dibuang ke perairan.', 'correct': 'Benar'}\n[4] {'id': 'd', 'text': 'Penghentian riset mikroplastik adalah langkah paling mendesak untuk menjaga kestabilan harga pasaran ikan.', 'correct': 'Salah'}\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Tentukan Benar atau Salah terhadap prediksi implikasi kebijakan lingkungan berbasis Teks 10 berikut!\n\nPernyataan/Klaim yang dievaluasi:\n[1] Jika regulasi hulu limbah industri tidak diperketat, angka kasus penyakit karsinogenik di daerah pesisir berisiko meningkat.\n[2] Pencegahan pencemaran mikroplastik akan berhasil total walau pembuangan sampah di DAS dibiarkan tanpa pengolahan.\n[3] Penerapan retribusi limbah industri pesisir akan mendorong pabrik mengolah limbah sebelum dibuang ke perairan.\n[4] Penghentian riset mikroplastik adalah langkah paling mendesak untuk menjaga kestabilan harga pasaran ikan.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
+          "A": "Benar - Salah - Benar - Salah",
+          "B": "Salah - Benar - Salah - Benar",
+          "C": "Benar - Benar - Benar - Benar",
           "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "E": "Benar - Salah - Salah - Salah"
         },
         "key": "A",
         "explanation": "Pernyataan b dan d Salah karena bertentangan dengan logika konservasi dan rekomendasi pengolahan limbah DAS dalam teks."
