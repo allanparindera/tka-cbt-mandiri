@@ -18,7 +18,8 @@
           "E": "78.125 sel"
         },
         "key": "C",
-        "explanation": "Substitusi $t = 6$ ke fungsi $N(t) = 2.000 \\times 2,5^{t/2}$:\n$N(6) = 2.000 \\times 2,5^{6/2} = 2.000 \\times 2,5^3 = 2.000 \\times 15,625 = 31.250$ sel."
+        "explanation": "Substitusi $t = 6$ ke fungsi $N(t) = 2.000 \\times 2,5^{t/2}$:\n$N(6) = 2.000 \\times 2,5^{6/2} = 2.000 \\times 2,5^3 = 2.000 \\times 15,625 = 31.250$ sel.",
+        "visual": "<svg viewBox=\"0 0 400 220\" width=\"100%\" height=\"200\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"400\" height=\"220\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"50\" y1=\"180\" x2=\"370\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n        <line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n        <text x=\"370\" y=\"200\" font-size=\"12\" fill=\"#475569\">Waktu t (Jam)</text>\n        <text x=\"10\" y=\"25\" font-size=\"11\" fill=\"#475569\">Populasi N(t)</text>\n        <path d=\"M 50,160 Q 150,150 200,120 T 350,20\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/>\n        <circle cx=\"50\" cy=\"160\" r=\"5\" fill=\"#ef4444\"/>\n        <text x=\"55\" y=\"155\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e293b\">(0, 2)</text>\n        <circle cx=\"170\" cy=\"130\" r=\"5\" fill=\"#ef4444\"/>\n        <text x=\"175\" y=\"125\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e293b\">(2, 5)</text>\n        <circle cx=\"290\" cy=\"70\" r=\"5\" fill=\"#ef4444\"/>\n        <text x=\"295\" y=\"65\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e293b\">(4, 12.5)</text>\n      </svg>"
       },
       {
         "id": 2,
@@ -102,7 +103,8 @@
           "E": "Salah - Salah - Benar - Benar"
         },
         "key": "A",
-        "explanation": "Evaluasi titik pojok: $O(0,0)=0$, $A(0,40)=2.400.000$, $B(22.2,22.2)=2.444.000$, $C(40,0)=2.000.000$. Semua pernyataan Sesuai."
+        "explanation": "Evaluasi titik pojok: $O(0,0)=0$, $A(0,40)=2.400.000$, $B(22.2,22.2)=2.444.000$, $C(40,0)=2.000.000$. Semua pernyataan Sesuai.",
+        "visual": "<svg viewBox=\"0 0 350 220\" width=\"100%\" height=\"200\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"350\" height=\"220\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#64748b\" stroke-width=\"2\"/>\n        <line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"180\" stroke=\"#64748b\" stroke-width=\"2\"/>\n        <polygon points=\"40,180 40,40 140,140 180,180\" fill=\"rgba(37, 99, 235, 0.25)\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n        <circle cx=\"40\" cy=\"180\" r=\"4\" fill=\"#1e293b\"/><text x=\"15\" y=\"195\" font-size=\"10\">O(0,0)</text>\n        <circle cx=\"40\" cy=\"40\" r=\"4\" fill=\"#ef4444\"/><text x=\"45\" y=\"45\" font-size=\"10\">A(0,40)</text>\n        <circle cx=\"140\" cy=\"140\" r=\"4\" fill=\"#ef4444\"/><text x=\"145\" y=\"135\" font-size=\"10\">B(22.2, 22.2)</text>\n        <circle cx=\"180\" cy=\"180\" r=\"4\" fill=\"#ef4444\"/><text x=\"180\" y=\"195\" font-size=\"10\">C(40,0)</text>\n      </svg>"
       },
       {
         "id": 8,
@@ -116,7 +118,8 @@
           "E": "19,5 meter"
         },
         "key": "B",
-        "explanation": "Substitusi $x = 10$:\n$y = -0,05(10 - 20)^2 + 20 = -0,05(-10)^2 + 20 = -0,05(100) + 20 = -5 + 20 = 15,0$ meter."
+        "explanation": "Substitusi $x = 10$:\n$y = -0,05(10 - 20)^2 + 20 = -0,05(-10)^2 + 20 = -0,05(100) + 20 = -5 + 20 = 15,0$ meter.",
+        "visual": "<svg viewBox=\"0 0 350 180\" width=\"100%\" height=\"160\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"350\" height=\"180\" fill=\"#f8fafc\" rx=\"8\"/>\n        <path d=\"M 40,140 Q 175,40 310,140\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/>\n        <line x1=\"40\" y1=\"140\" x2=\"310\" y2=\"140\" stroke=\"#475569\" stroke-width=\"2\"/>\n        <line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"140\" stroke=\"#0f172a\" stroke-width=\"4\"/>\n        <line x1=\"310\" y1=\"20\" x2=\"310\" y2=\"140\" stroke=\"#0f172a\" stroke-width=\"4\"/>\n        <circle cx=\"175\" cy=\"40\" r=\"4\" fill=\"#ef4444\"/><text x=\"145\" y=\"30\" font-size=\"11\" font-weight=\"bold\">Puncak P(20,20)</text>\n      </svg>"
       },
       {
         "id": 9,
@@ -242,7 +245,8 @@
           "E": "Jumlah sudut berhadapan pada segi empat tali busur di dalam lingkaran adalah 180°."
         },
         "key": "A",
-        "explanation": "• Sudut pusat = $2 \\times 50^\\circ = 100^\\circ$. Refleks = $360^\\circ - 100^\\circ = 260^\\circ$.\n• $\\angle OAB = (180^\\circ - 100^\\circ)/2 = 40^\\circ$. Opsi D SALAH karena sudut pusat $= 2 \\times$ sudut keliling."
+        "explanation": "• Sudut pusat = $2 \\times 50^\\circ = 100^\\circ$. Refleks = $360^\\circ - 100^\\circ = 260^\\circ$.\n• $\\angle OAB = (180^\\circ - 100^\\circ)/2 = 40^\\circ$. Opsi D SALAH karena sudut pusat $= 2 \\times$ sudut keliling.",
+        "visual": "<svg viewBox=\"0 0 200 200\" width=\"100%\" height=\"180\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"100\" cy=\"100\" r=\"80\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\n        <circle cx=\"100\" cy=\"100\" r=\"3\" fill=\"#0f172a\"/><text x=\"105\" y=\"105\" font-size=\"11\">O</text>\n        <line x1=\"100\" y1=\"100\" x2=\"40\" y2=\"150\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"100\" y1=\"100\" x2=\"160\" y2=\"150\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"100\" y1=\"20\" x2=\"40\" y2=\"150\" stroke=\"#2563eb\" stroke-width=\"1.5\"/>\n        <line x1=\"100\" y1=\"20\" x2=\"160\" y2=\"150\" stroke=\"#2563eb\" stroke-width=\"1.5\"/>\n        <circle cx=\"100\" cy=\"20\" r=\"4\" fill=\"#ef4444\"/><text x=\"95\" y=\"12\" font-size=\"11\">C</text>\n        <circle cx=\"40\" cy=\"150\" r=\"4\" fill=\"#ef4444\"/><text x=\"25\" y=\"160\" font-size=\"11\">A</text>\n        <circle cx=\"160\" cy=\"150\" r=\"4\" fill=\"#ef4444\"/><text x=\"165\" y=\"160\" font-size=\"11\">B</text>\n      </svg>"
       },
       {
         "id": 18,
@@ -270,7 +274,8 @@
           "E": "Salah - Salah - Benar - Benar"
         },
         "key": "A",
-        "explanation": "• $AC = 6\\sqrt{2}\\text{ cm}$.\n• $AP = \\sqrt{AC^2 + CP^2} = \\sqrt{(6\\sqrt{2})^2 + 3^2} = \\sqrt{72 + 9} = \\sqrt{81} = 9\\text{ cm}$.\n• Jarak P ke ABCD = $CP = 3\\text{ cm}$. $AG = 6\\sqrt{3}\\text{ cm}$. Semua BENAR."
+        "explanation": "• $AC = 6\\sqrt{2}\\text{ cm}$.\n• $AP = \\sqrt{AC^2 + CP^2} = \\sqrt{(6\\sqrt{2})^2 + 3^2} = \\sqrt{72 + 9} = \\sqrt{81} = 9\\text{ cm}$.\n• Jarak P ke ABCD = $CP = 3\\text{ cm}$. $AG = 6\\sqrt{3}\\text{ cm}$. Semua BENAR.",
+        "visual": "<svg viewBox=\"0 0 200 180\" width=\"100%\" height=\"160\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"200\" height=\"180\" fill=\"#f8fafc\" rx=\"8\"/>\n        <!-- Cube outline -->\n        <path d=\"M 40,130 L 110,130 L 110,60 L 40,60 Z\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <path d=\"M 80,100 L 150,100 L 150,30 L 80,30 Z\" fill=\"none\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"40\" y1=\"130\" x2=\"80\" y2=\"100\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"110\" y1=\"130\" x2=\"150\" y2=\"100\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"110\" y1=\"60\" x2=\"150\" y2=\"30\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"40\" y1=\"60\" x2=\"80\" y2=\"30\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <circle cx=\"150\" cy=\"65\" r=\"4\" fill=\"#ef4444\"/><text x=\"155\" y=\"70\" font-size=\"11\" font-weight=\"bold\">P</text>\n      </svg>"
       },
       {
         "id": 20,
@@ -312,7 +317,8 @@
           "E": "A''(5, -2)"
         },
         "key": "B",
-        "explanation": "1) Refleksi $y = x$: $A(1,2) \\rightarrow A'(2,1)$.\n2) Translasi $T(2,-3)$: $A''(2+2, 1-3) = A''(4, -2)$."
+        "explanation": "1) Refleksi $y = x$: $A(1,2) \\rightarrow A'(2,1)$.\n2) Translasi $T(2,-3)$: $A''(2+2, 1-3) = A''(4, -2)$.",
+        "visual": "<svg viewBox=\"0 0 250 160\" width=\"100%\" height=\"150\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"250\" height=\"160\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"20\" y1=\"120\" x2=\"230\" y2=\"120\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/>\n        <line x1=\"40\" y1=\"10\" x2=\"40\" y2=\"150\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/>\n        <line x1=\"20\" y1=\"140\" x2=\"160\" y2=\"0\" stroke=\"#cbd5e1\" stroke-dasharray=\"4\" stroke-width=\"1.5\"/>\n        <circle cx=\"60\" cy=\"80\" r=\"4\" fill=\"#2563eb\"/><text x=\"45\" y=\"75\" font-size=\"10\">A(1,2)</text>\n        <circle cx=\"80\" cy=\"100\" r=\"4\" fill=\"#0284c7\"/><text x=\"85\" y=\"100\" font-size=\"10\">A'(2,1)</text>\n        <circle cx=\"120\" cy=\"140\" r=\"4\" fill=\"#ef4444\"/><text x=\"125\" y=\"140\" font-size=\"10\">A''(4,-2)</text>\n      </svg>"
       },
       {
         "id": 23,
@@ -340,7 +346,8 @@
           "E": "20√3 meter"
         },
         "key": "A",
-        "explanation": "Misal tinggi menara $h$. Dari B: $\\tan 45^\\circ = 1 \\Rightarrow x = h$.\nDari A: $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}} = \\frac{h}{h + 20} \\Rightarrow h\\sqrt{3} = h + 20 \\Rightarrow h(\\sqrt{3}-1) = 20 \\Rightarrow h = 10(\\sqrt{3}+1)$ meter."
+        "explanation": "Misal tinggi menara $h$. Dari B: $\\tan 45^\\circ = 1 \\Rightarrow x = h$.\nDari A: $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}} = \\frac{h}{h + 20} \\Rightarrow h\\sqrt{3} = h + 20 \\Rightarrow h(\\sqrt{3}-1) = 20 \\Rightarrow h = 10(\\sqrt{3}+1)$ meter.",
+        "visual": "<svg viewBox=\"0 0 300 160\" width=\"100%\" height=\"150\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"300\" height=\"160\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"30\" y1=\"130\" x2=\"270\" y2=\"130\" stroke=\"#475569\" stroke-width=\"2\"/>\n        <line x1=\"240\" y1=\"20\" x2=\"240\" y2=\"130\" stroke=\"#0f172a\" stroke-width=\"4\"/>\n        <line x1=\"40\" y1=\"130\" x2=\"240\" y2=\"20\" stroke=\"#2563eb\" stroke-width=\"1.5\"/>\n        <line x1=\"140\" y1=\"130\" x2=\"240\" y2=\"20\" stroke=\"#0284c7\" stroke-width=\"1.5\"/>\n        <text x=\"45\" y=\"125\" font-size=\"10\">30&#176;</text>\n        <text x=\"150\" y=\"125\" font-size=\"10\">45&#176;</text>\n        <text x=\"35\" y=\"145\" font-size=\"10\">A</text>\n        <text x=\"135\" y=\"145\" font-size=\"10\">B</text>\n        <text x=\"245\" y=\"25\" font-size=\"10\" font-weight=\"bold\">T (Puncak)</text>\n      </svg>"
       },
       {
         "id": 25,
@@ -368,7 +375,8 @@
           "E": "37,5 menit"
         },
         "key": "B",
-        "explanation": "Kelas modus 30-40 ($f=16$). $T_b = 29,5$, $d_1 = 16-10 = 6$, $d_2 = 16-8 = 8$, $p = 10$.\n$Mo = 29,5 + \\left(\\frac{6}{6+8}\\right) \\times 10 = 29,5 + 4,28 = 33,78 \\approx 34,3$ menit."
+        "explanation": "Kelas modus 30-40 ($f=16$). $T_b = 29,5$, $d_1 = 16-10 = 6$, $d_2 = 16-8 = 8$, $p = 10$.\n$Mo = 29,5 + \\left(\\frac{6}{6+8}\\right) \\times 10 = 29,5 + 4,28 = 33,78 \\approx 34,3$ menit.",
+        "visual": "<svg viewBox=\"0 0 300 160\" width=\"100%\" height=\"150\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"300\" height=\"160\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"30\" y1=\"130\" x2=\"280\" y2=\"130\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <!-- Bars -->\n        <rect x=\"40\" y=\"100\" width=\"40\" height=\"30\" fill=\"#93c5fd\" stroke=\"#2563eb\"/>\n        <rect x=\"80\" y=\"55\" width=\"40\" height=\"75\" fill=\"#93c5fd\" stroke=\"#2563eb\"/>\n        <rect x=\"120\" y=\"10\" width=\"40\" height=\"120\" fill=\"#3b82f6\" stroke=\"#1d4ed8\"/>\n        <rect x=\"160\" y=\"70\" width=\"40\" height=\"60\" fill=\"#93c5fd\" stroke=\"#2563eb\"/>\n        <rect x=\"200\" y=\"115\" width=\"40\" height=\"15\" fill=\"#93c5fd\" stroke=\"#2563eb\"/>\n        <text x=\"132\" y=\"25\" font-size=\"10\" fill=\"#fff\" font-weight=\"bold\">16</text>\n      </svg>"
       },
       {
         "id": 27,
@@ -396,7 +404,8 @@
           "E": "Jika waktu pengisian daya 100 menit, perkiraan jarak tempuhnya adalah 300 km."
         },
         "key": "A",
-        "explanation": "• Slope = 2,8 km/menit. Intersept = 20 km.\n• $x = 50 \\Rightarrow y = 2,8(50) + 20 = 160\\text{ km}$.\n• $x = 100 \\Rightarrow y = 2,8(100) + 20 = 300\\text{ km}$. Semua BENAR."
+        "explanation": "• Slope = 2,8 km/menit. Intersept = 20 km.\n• $x = 50 \\Rightarrow y = 2,8(50) + 20 = 160\\text{ km}$.\n• $x = 100 \\Rightarrow y = 2,8(100) + 20 = 300\\text{ km}$. Semua BENAR.",
+        "visual": "<svg viewBox=\"0 0 300 150\" width=\"100%\" height=\"140\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect width=\"300\" height=\"150\" fill=\"#f8fafc\" rx=\"8\"/>\n        <line x1=\"30\" y1=\"120\" x2=\"280\" y2=\"120\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"120\" stroke=\"#64748b\" stroke-width=\"1.5\"/>\n        <line x1=\"30\" y1=\"100\" x2=\"270\" y2=\"20\" stroke=\"#ef4444\" stroke-width=\"2\"/>\n        <circle cx=\"60\" cy=\"90\" r=\"3\" fill=\"#2563eb\"/>\n        <circle cx=\"100\" cy=\"75\" r=\"3\" fill=\"#2563eb\"/>\n        <circle cx=\"160\" cy=\"55\" r=\"3\" fill=\"#2563eb\"/>\n        <circle cx=\"220\" cy=\"35\" r=\"3\" fill=\"#2563eb\"/>\n      </svg>"
       },
       {
         "id": 29,
@@ -517,7 +526,8 @@
           "E": "Rp25.000.000,00"
         },
         "key": "C",
-        "explanation": "Pertidaksamaan:\n1) x + y ≤ 50\n2) 60x + 20y ≤ 1800 → 3x + y ≤ 90\nFungsi Objektif: Z = 500.000x + 300.000y\n\nTitik pojok daerah HP (lihat grafik):\nA(0, 50) → Z = 0 + 300.000(50) = 15.000.000\nB(30, 0) → Z = 500.000(30) + 0 = 15.000.000\nC(Titik potong): Kurangi (3x+y=90) dengan (x+y=50) → 2x = 40 → x = 20. Substitusi → y = 30.\nZ di C(20, 30) = 500.000(20) + 300.000(30) = 10.000.000 + 9.000.000 = 19.000.000.\nNilai maksimum adalah Rp19 Juta (Opsi C)."
+        "explanation": "Pertidaksamaan:\n1) x + y ≤ 50\n2) 60x + 20y ≤ 1800 → 3x + y ≤ 90\nFungsi Objektif: Z = 500.000x + 300.000y\n\nTitik pojok daerah HP (lihat grafik):\nA(0, 50) → Z = 0 + 300.000(50) = 15.000.000\nB(30, 0) → Z = 500.000(30) + 0 = 15.000.000\nC(Titik potong): Kurangi (3x+y=90) dengan (x+y=50) → 2x = 40 → x = 20. Substitusi → y = 30.\nZ di C(20, 30) = 500.000(20) + 300.000(30) = 10.000.000 + 9.000.000 = 19.000.000.\nNilai maksimum adalah Rp19 Juta (Opsi C).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"-10 -10 220 160\" width=\"100%\" style=\"max-width:350px;\">\n          <!-- Axes -->\n          <line x1=\"20\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <line x1=\"20\" y1=\"0\" x2=\"20\" y2=\"150\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <text x=\"180\" y=\"155\" font-size=\"10\">x (Minibus)</text>\n          <text x=\"-5\" y=\"10\" font-size=\"10\">y (Truk)</text>\n          <!-- x+y=50 (biru) -> x=50, y=50. Scale factor x3. -->\n          <!-- mapped: x=50 -> 170 (3x+20). y=50 -> 40 (140-2y). -->\n          <line x1=\"170\" y1=\"140\" x2=\"20\" y2=\"40\" stroke=\"blue\" stroke-width=\"2\"/>\n          <text x=\"120\" y=\"30\" font-size=\"10\" fill=\"blue\">x+y=50</text>\n          <!-- 60x+20y=1800 -> 3x+y=90. x=30, y=90. -->\n          <!-- mapped: x=30 -> 110. y=90 is off chart, let's just plot from y=50 (x=13.3) -->\n          <line x1=\"110\" y1=\"140\" x2=\"20\" y2=\"-40\" stroke=\"red\" stroke-width=\"2\"/>\n          <text x=\"75\" y=\"110\" font-size=\"10\" fill=\"red\">3x+y=90</text>\n          <!-- Shaded -->\n          <!-- Points: (0,0)->20,140 | (30,0)->110,140 | (20,30)-> 80,80 | (0,50)->20,40 -->\n          <polygon points=\"20,140 110,140 80,80 20,40\" fill=\"rgba(34, 197, 94, 0.3)\"/>\n          <circle cx=\"80\" cy=\"80\" r=\"3\" fill=\"black\"/>\n          <text x=\"85\" y=\"75\" font-size=\"10\" font-weight=\"bold\">(20, 30)</text>\n        </svg>\n      </div>"
       },
       {
         "id": 7,
@@ -657,7 +667,8 @@
           "E": "Pilihan E"
         },
         "key": "A",
-        "explanation": "A. Hukum Lingkaran: Sudut Pusat (∠AOB) = 2 × Sudut Keliling (∠ACB) = 2 × 60° = 120°. (Benar)\nB. Ruas garis OA dan OB membentang dari pusat radar ke tepi cincin deteksi, keduanya adalah jari-jari r (Sama panjang), maka △AOB Pasti Sama Kaki. (Benar)\nC. Sudut pusat 120° lebih BESAR (lebar) daripada sudut keliling 60°. (Salah)\nD. Garis patah memotong lurus (tali busur) jaraknya logikanya LEBIH PENDEK dibanding memutar via busur melengkung pinggiran luar lingkaran. (Salah)"
+        "explanation": "A. Hukum Lingkaran: Sudut Pusat (∠AOB) = 2 × Sudut Keliling (∠ACB) = 2 × 60° = 120°. (Benar)\nB. Ruas garis OA dan OB membentang dari pusat radar ke tepi cincin deteksi, keduanya adalah jari-jari r (Sama panjang), maka △AOB Pasti Sama Kaki. (Benar)\nC. Sudut pusat 120° lebih BESAR (lebar) daripada sudut keliling 60°. (Salah)\nD. Garis patah memotong lurus (tali busur) jaraknya logikanya LEBIH PENDEK dibanding memutar via busur melengkung pinggiran luar lingkaran. (Salah)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 150 150\" width=\"100%\" style=\"max-width:200px;\">\n          <circle cx=\"75\" cy=\"75\" r=\"70\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\n          <circle cx=\"75\" cy=\"75\" r=\"3\" fill=\"blue\"/><text x=\"65\" y=\"85\" font-size=\"12\">O</text>\n          \n          <circle cx=\"135\" cy=\"38\" r=\"3\" fill=\"red\"/><text x=\"142\" y=\"42\" font-size=\"12\">A</text>\n          <circle cx=\"25\" cy=\"25\" r=\"3\" fill=\"red\"/><text x=\"15\" y=\"20\" font-size=\"12\">B</text>\n          <circle cx=\"20\" cy=\"118\" r=\"3\" fill=\"red\"/><text x=\"10\" y=\"128\" font-size=\"12\">C</text>\n          \n          <line x1=\"20\" y1=\"118\" x2=\"135\" y2=\"38\" stroke=\"red\" stroke-width=\"1.5\"/>\n          <line x1=\"20\" y1=\"118\" x2=\"25\" y2=\"25\" stroke=\"red\" stroke-width=\"1.5\"/>\n          <line x1=\"75\" y1=\"75\" x2=\"135\" y2=\"38\" stroke=\"blue\" stroke-dasharray=\"3\"/>\n          <line x1=\"75\" y1=\"75\" x2=\"25\" y2=\"25\" stroke=\"blue\" stroke-dasharray=\"3\"/>\n        </svg>\n      </div>"
       },
       {
         "id": 17,
@@ -671,7 +682,8 @@
           "E": "14 meter"
         },
         "key": "B",
-        "explanation": "Proporsi perbandingan Senilai Segitiga Sebangun Cahaya Matahari:\n(Tinggi Pohon / Panjang Bayangan Pohon) = (Tinggi Orang / Panjang Bayangan Orang)\nT / 10 = 1,6 / 2\nT / 10 = 0,8\nT = 10 × 0,8 = 8 meter. (Opsi B)"
+        "explanation": "Proporsi perbandingan Senilai Segitiga Sebangun Cahaya Matahari:\n(Tinggi Pohon / Panjang Bayangan Pohon) = (Tinggi Orang / Panjang Bayangan Orang)\nT / 10 = 1,6 / 2\nT / 10 = 0,8\nT = 10 × 0,8 = 8 meter. (Opsi B)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 250 120\" width=\"100%\" style=\"max-width:300px;\">\n          <!-- Pohon -->\n          <line x1=\"200\" y1=\"20\" x2=\"200\" y2=\"100\" stroke=\"green\" stroke-width=\"4\"/>\n          <!-- Bayangan Pohon 10m -->\n          <line x1=\"200\" y1=\"100\" x2=\"100\" y2=\"100\" stroke=\"black\" stroke-dasharray=\"3\"/>\n          <text x=\"140\" y=\"115\" font-size=\"10\">10 meter</text>\n          <!-- Orang -->\n          <line x1=\"40\" y1=\"60\" x2=\"40\" y2=\"100\" stroke=\"blue\" stroke-width=\"2\"/>\n          <text x=\"10\" y=\"80\" font-size=\"10\">1.6 m</text>\n          <!-- Bayangan Orang 2m -->\n          <line x1=\"40\" y1=\"100\" x2=\"10\" y2=\"100\" stroke=\"black\" stroke-dasharray=\"3\"/>\n          <text x=\"20\" y=\"115\" font-size=\"10\">2 m</text>\n        </svg>\n      </div>"
       },
       {
         "id": 18,
@@ -699,7 +711,8 @@
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
-        "explanation": "Analisis Limas Segiempat T.ABCD:\nP1: Garis TA dan TC bertemu di satu titik mati yaitu puncak T. Jika dua garis punya titik temu, maka namanya BERPOTONGAN, bukan bersilangan (bersilangan itu jika arah beda dan tak pernah nabrak). (SALAH)\nP2: Bidang TAB (Muka) dan TCD (Belakang) sama-sama miring bersandar dan ujungnya menyatu menabrak di Titik Puncak T. Maka kedua bidang ini BERPOTONGAN pada satu titik (T). (BENAR)\nP3: Bidang alas adalah Persegi ABCD rata. Rusuk AB berhadapan dan sejajar persis dengan DC. (BENAR)"
+        "explanation": "Analisis Limas Segiempat T.ABCD:\nP1: Garis TA dan TC bertemu di satu titik mati yaitu puncak T. Jika dua garis punya titik temu, maka namanya BERPOTONGAN, bukan bersilangan (bersilangan itu jika arah beda dan tak pernah nabrak). (SALAH)\nP2: Bidang TAB (Muka) dan TCD (Belakang) sama-sama miring bersandar dan ujungnya menyatu menabrak di Titik Puncak T. Maka kedua bidang ini BERPOTONGAN pada satu titik (T). (BENAR)\nP3: Bidang alas adalah Persegi ABCD rata. Rusuk AB berhadapan dan sejajar persis dengan DC. (BENAR)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"-20 -10 180 150\" width=\"100%\" style=\"max-width:200px;\">\n          <polygon points=\"20,110 80,130 140,110 80,90\" fill=\"none\" stroke=\"black\" stroke-dasharray=\"4\"/>\n          <line x1=\"20\" y1=\"110\" x2=\"80\" y2=\"130\" stroke=\"black\"/>\n          <line x1=\"80\" y1=\"130\" x2=\"140\" y2=\"110\" stroke=\"black\"/>\n          <!-- Puncak T -->\n          <circle cx=\"80\" cy=\"20\" r=\"3\" fill=\"blue\"/><text x=\"75\" y=\"15\" font-size=\"12\">T</text>\n          <!-- Rusuk Tegak -->\n          <line x1=\"80\" y1=\"20\" x2=\"20\" y2=\"110\" stroke=\"black\"/>\n          <line x1=\"80\" y1=\"20\" x2=\"80\" y2=\"130\" stroke=\"black\"/>\n          <line x1=\"80\" y1=\"20\" x2=\"140\" y2=\"110\" stroke=\"black\"/>\n          <line x1=\"80\" y1=\"20\" x2=\"80\" y2=\"90\" stroke=\"black\" stroke-dasharray=\"4\"/>\n          <!-- Labels Alas -->\n          <text x=\"10\" y=\"120\" font-size=\"12\">A</text>\n          <text x=\"75\" y=\"145\" font-size=\"12\">B</text>\n          <text x=\"145\" y=\"120\" font-size=\"12\">C</text>\n          <text x=\"75\" y=\"85\" font-size=\"12\">D</text>\n        </svg>\n      </div>"
       },
       {
         "id": 20,
@@ -741,7 +754,8 @@
           "E": "Pilihan E"
         },
         "key": "A",
-        "explanation": "A. Volume Tabung Badan: VT = π r2 t = (22/7) × 72 × 10 = 22 × 7 × 10 = 1.540 mm³ (Benar).\nB. Volume Bola Ujung (2 × Setengah): VB = 4/3 π r3 = 4/3 × (22/7) × 73 = 4/3 × 22 × 49 = 4312 / 3 ≈ 1.437,33 mm³ (Benar).\nC. Total Kapsul: V = 1.540 + 1.437,33 = 2.977,33 mm³ (Benar).\nD. Panjang Total Kapsul: r (atas) + t (tabung) + r (bawah) = 7 + 10 + 7 = 24 mm, BUKAN 34. (Salah)."
+        "explanation": "A. Volume Tabung Badan: VT = π r2 t = (22/7) × 72 × 10 = 22 × 7 × 10 = 1.540 mm³ (Benar).\nB. Volume Bola Ujung (2 × Setengah): VB = 4/3 π r3 = 4/3 × (22/7) × 73 = 4/3 × 22 × 49 = 4312 / 3 ≈ 1.437,33 mm³ (Benar).\nC. Total Kapsul: V = 1.540 + 1.437,33 = 2.977,33 mm³ (Benar).\nD. Panjang Total Kapsul: r (atas) + t (tabung) + r (bawah) = 7 + 10 + 7 = 24 mm, BUKAN 34. (Salah).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 100 180\" width=\"100%\" style=\"max-width:150px;\">\n          <!-- Top Hemisphere -->\n          <path d=\"M 20 50 A 30 30 0 0 1 80 50\" fill=\"none\" stroke=\"#ef4444\" stroke-width=\"2\"/>\n          <!-- Bottom Hemisphere -->\n          <path d=\"M 20 130 A 30 30 0 0 0 80 130\" fill=\"none\" stroke=\"#ef4444\" stroke-width=\"2\"/>\n          <!-- Cylinder Body -->\n          <line x1=\"20\" y1=\"50\" x2=\"20\" y2=\"130\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n          <line x1=\"80\" y1=\"50\" x2=\"80\" y2=\"130\" stroke=\"#3b82f6\" stroke-width=\"2\"/>\n          <line x1=\"20\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"gray\" stroke-dasharray=\"2\"/>\n          <line x1=\"20\" y1=\"130\" x2=\"80\" y2=\"130\" stroke=\"gray\" stroke-dasharray=\"2\"/>\n        </svg>\n      </div>"
       },
       {
         "id": 23,
@@ -783,7 +797,8 @@
           "E": "80√7 mil"
         },
         "key": "B",
-        "explanation": "Aplikasi Aturan Cosinus (Segitiga PAB).\n1. Jarak Tempuh = Kecepatan × Waktu.\nDist Alpha (PA) = 20 × 2 jam = 40 mil.\nDist Bravo (PB) = 30 × 2 jam = 60 mil.\nSudut Apit (∠APB) = 60°.\n2. Aturan Cos: AB2 = PA2 + PB2 - 2 · PA · PB · cos(∠P)\nAB2 = 402 + 602 - 2(40)(60) cos(60°)\nAB2 = 1600 + 3600 - 2(2400)(1/2)\nAB2 = 5200 - 2400 = 2800.\nAB = √2800 = √(400 × 7) = 20√7 mil. (Opsi B)"
+        "explanation": "Aplikasi Aturan Cosinus (Segitiga PAB).\n1. Jarak Tempuh = Kecepatan × Waktu.\nDist Alpha (PA) = 20 × 2 jam = 40 mil.\nDist Bravo (PB) = 30 × 2 jam = 60 mil.\nSudut Apit (∠APB) = 60°.\n2. Aturan Cos: AB2 = PA2 + PB2 - 2 · PA · PB · cos(∠P)\nAB2 = 402 + 602 - 2(40)(60) cos(60°)\nAB2 = 1600 + 3600 - 2(2400)(1/2)\nAB2 = 5200 - 2400 = 2800.\nAB = √2800 = √(400 × 7) = 20√7 mil. (Opsi B)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 150 150\" width=\"100%\" style=\"max-width:200px;\">\n          <!-- Pusat -->\n          <circle cx=\"20\" cy=\"130\" r=\"3\" fill=\"black\"/><text x=\"10\" y=\"145\" font-size=\"12\">P</text>\n          <!-- Arah Alpha (Horizontal) -->\n          <line x1=\"20\" y1=\"130\" x2=\"120\" y2=\"130\" stroke=\"blue\" stroke-width=\"2\"/>\n          <text x=\"125\" y=\"135\" font-size=\"12\">Kapal A</text>\n          <!-- Arah Bravo (60 deg up) -->\n          <line x1=\"20\" y1=\"130\" x2=\"70\" y2=\"43\" stroke=\"red\" stroke-width=\"2\"/>\n          <text x=\"70\" y=\"35\" font-size=\"12\">Kapal B</text>\n          <!-- Jarak Pemisah -->\n          <line x1=\"120\" y1=\"130\" x2=\"70\" y2=\"43\" stroke=\"gray\" stroke-dasharray=\"4\"/>\n          <!-- Sudut -->\n          <path d=\"M 40 130 A 20 20 0 0 0 30 112\" fill=\"none\" stroke=\"black\"/>\n          <text x=\"45\" y=\"125\" font-size=\"10\">60&deg;</text>\n        </svg>\n      </div>"
       },
       {
         "id": 26,
@@ -946,7 +961,8 @@
           "E": "Rp300.000,00"
         },
         "key": "D",
-        "explanation": "Fungsi objektif: f(x,y) = 40.000x + 30.000y.\nCari titik pojok daerah penyelesaian:\n1. Titik potong sumbu x (garis biru 2x+y=12): (6, 0).\n2. Titik potong sumbu y (garis merah x+2y=10): (0, 5).\n3. Titik potong kedua garis (C):\n2x + y = 12\nx + 2y = 10 (kalikan 2) → 2x + 4y = 20\nKurangkan: -3y = -8 → ini salah hitung pada eliminasi standar, mari teliti sesuai soal PDF.\nEliminasi: (2x+y=12) dan (2x+4y=20). Kurangkan: 3y = 8, tunggu data soal PDF:\n\"x + 2y = 10, jika 2x+y=12\"\nDari PDF: x=4, y=4. Uji: 2(4)+4=12 (Benar), 4+2(4)=12 (Salah, 4+8=12). Wait. Di PDF tertulis: (2x+y=12) dan (x+2y=10). Jika C(4,4) di PDF: 2(4)+4 = 12 (Benar). 4+2(4) = 12 ≠ 10. Terjadi typo di kunci PDF. Kita ikuti kunci PDF yang menyatakan C(4,4) dan Keuntungan Rp280.000.\nNilai f(x,y):\n- Titik (6,0) = 40.000(6) = 240.000.\n- Titik (0,5) = 30.000(5) = 150.000.\n- Titik Asumsi (4,4) = 40.000(4) + 30.000(4) = 160.000 + 120.000 = 280.000 (Maksimum)."
+        "explanation": "Fungsi objektif: f(x,y) = 40.000x + 30.000y.\nCari titik pojok daerah penyelesaian:\n1. Titik potong sumbu x (garis biru 2x+y=12): (6, 0).\n2. Titik potong sumbu y (garis merah x+2y=10): (0, 5).\n3. Titik potong kedua garis (C):\n2x + y = 12\nx + 2y = 10 (kalikan 2) → 2x + 4y = 20\nKurangkan: -3y = -8 → ini salah hitung pada eliminasi standar, mari teliti sesuai soal PDF.\nEliminasi: (2x+y=12) dan (2x+4y=20). Kurangkan: 3y = 8, tunggu data soal PDF:\n\"x + 2y = 10, jika 2x+y=12\"\nDari PDF: x=4, y=4. Uji: 2(4)+4=12 (Benar), 4+2(4)=12 (Salah, 4+8=12). Wait. Di PDF tertulis: (2x+y=12) dan (x+2y=10). Jika C(4,4) di PDF: 2(4)+4 = 12 (Benar). 4+2(4) = 12 ≠ 10. Terjadi typo di kunci PDF. Kita ikuti kunci PDF yang menyatakan C(4,4) dan Keuntungan Rp280.000.\nNilai f(x,y):\n- Titik (6,0) = 40.000(6) = 240.000.\n- Titik (0,5) = 30.000(5) = 150.000.\n- Titik Asumsi (4,4) = 40.000(4) + 30.000(4) = 160.000 + 120.000 = 280.000 (Maksimum).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"-10 -10 220 150\" width=\"100%\" style=\"max-width:400px;\">\n          <!-- Axes -->\n          <line x1=\"0\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <line x1=\"20\" y1=\"0\" x2=\"20\" y2=\"150\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <!-- Grid/Ticks -->\n          <text x=\"180\" y=\"155\" font-size=\"10\">x (A)</text>\n          <text x=\"-5\" y=\"10\" font-size=\"10\">y (B)</text>\n          <!-- Line 1: 2x+y=12 -> (6,0), (0,12) -> mapped to SVG coords -->\n          <!-- map: x*25+20, 140-y*10 -->\n          <line x1=\"170\" y1=\"140\" x2=\"20\" y2=\"20\" stroke=\"blue\" stroke-width=\"2\"/>\n          <text x=\"30\" y=\"30\" font-size=\"9\" fill=\"blue\">2x+y=12</text>\n          <!-- Line 2: x+2y=10 -> (10,0), (0,5) -->\n          <line x1=\"270\" y1=\"140\" x2=\"20\" y2=\"90\" stroke=\"red\" stroke-width=\"2\"/>\n          <text x=\"30\" y=\"100\" font-size=\"9\" fill=\"red\">x+2y=10</text>\n          <!-- Shaded Area (0,0) to (6,0) to (4,4) to (0,5) -->\n          <polygon points=\"20,140 170,140 120,100 20,90\" fill=\"rgba(200,200,200,0.5)\"/>\n          <circle cx=\"120\" cy=\"100\" r=\"3\" fill=\"black\"/>\n          <text x=\"125\" y=\"95\" font-size=\"10\" font-weight=\"bold\">Titik Potong C</text>\n        </svg>\n      </div>"
       },
       {
         "id": 7,
@@ -960,7 +976,8 @@
           "E": "Pilihan E"
         },
         "key": "A",
-        "explanation": "Persamaan h(t) = -t2 + 6t (a=-1, b=6, c=0).\n1. Waktu Puncak (t): t = -b / (2a) = -6 / (2×-1) = 3 detik. (Opsi B Benar).\n2. Tinggi Maks (h): h(3) = -(3)2 + 6(3) = -9 + 18 = 9 meter. (Opsi A Benar).\n3. Menyentuh Permukaan (h=0): -t2 + 6t = 0 → -t(t - 6) = 0 → t=0 (awal) dan t=6 (jatuh). (Opsi C Benar).\n4. Ketinggian t=2: h(2) = -(2)2 + 6(2) = -4 + 12 = 8 meter. (Opsi D Benar)."
+        "explanation": "Persamaan h(t) = -t2 + 6t (a=-1, b=6, c=0).\n1. Waktu Puncak (t): t = -b / (2a) = -6 / (2×-1) = 3 detik. (Opsi B Benar).\n2. Tinggi Maks (h): h(3) = -(3)2 + 6(3) = -9 + 18 = 9 meter. (Opsi A Benar).\n3. Menyentuh Permukaan (h=0): -t2 + 6t = 0 → -t(t - 6) = 0 → t=0 (awal) dan t=6 (jatuh). (Opsi C Benar).\n4. Ketinggian t=2: h(2) = -(2)2 + 6(2) = -4 + 12 = 8 meter. (Opsi D Benar).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"-10 -10 220 120\" width=\"100%\" style=\"max-width:400px;\">\n          <!-- Axes -->\n          <line x1=\"20\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <line x1=\"20\" y1=\"0\" x2=\"20\" y2=\"110\" stroke=\"#000\" stroke-width=\"1.5\"/>\n          <text x=\"180\" y=\"115\" font-size=\"10\">Waktu t</text>\n          <text x=\"-5\" y=\"10\" font-size=\"10\">Tinggi h</text>\n          <!-- Parabola path path d=\"M 20 100 Q 95 -80 170 100\" roughly represents roots 0 and 6, peak at 3 -->\n          <path d=\"M 20 100 Q 95 -80 170 100\" fill=\"none\" stroke=\"green\" stroke-width=\"2\"/>\n          <circle cx=\"95\" cy=\"10\" r=\"3\" fill=\"red\"/>\n          <text x=\"100\" y=\"15\" font-size=\"10\">Puncak Maks</text>\n        </svg>\n      </div>"
       },
       {
         "id": 8,
@@ -1086,7 +1103,8 @@
           "E": "150°"
         },
         "key": "D",
-        "explanation": "Berdasarkan Teorema Sudut Lingkaran:\nBesar Sudut Pusat selalu sama dengan dua kali besar Sudut Keliling yang menghadap busur lengkung yang sama persis.\nDiketahui sudut keliling ∠ACB = 50°.\nMaka sudut pusat ∠AOB = 2 × ∠ACB = 2 × 50° = 100°. (Opsi D)"
+        "explanation": "Berdasarkan Teorema Sudut Lingkaran:\nBesar Sudut Pusat selalu sama dengan dua kali besar Sudut Keliling yang menghadap busur lengkung yang sama persis.\nDiketahui sudut keliling ∠ACB = 50°.\nMaka sudut pusat ∠AOB = 2 × ∠ACB = 2 × 50° = 100°. (Opsi D)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 150 150\" width=\"100%\" style=\"max-width:250px;\">\n          <circle cx=\"75\" cy=\"75\" r=\"70\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\n          <circle cx=\"75\" cy=\"75\" r=\"3\" fill=\"blue\"/>\n          <text x=\"65\" y=\"85\" font-size=\"12\">O</text>\n          \n          <circle cx=\"140\" cy=\"50\" r=\"3\" fill=\"red\"/>\n          <text x=\"145\" y=\"55\" font-size=\"12\">A</text>\n          \n          <circle cx=\"45\" cy=\"11\" r=\"3\" fill=\"red\"/>\n          <text x=\"40\" y=\"8\" font-size=\"12\">B</text>\n          \n          <circle cx=\"15\" cy=\"111\" r=\"3\" fill=\"red\"/>\n          <text x=\"5\" y=\"120\" font-size=\"12\">C</text>\n          \n          <!-- Sudut keliling ACB -->\n          <line x1=\"15\" y1=\"111\" x2=\"140\" y2=\"50\" stroke=\"red\" stroke-width=\"1.5\"/>\n          <line x1=\"15\" y1=\"111\" x2=\"45\" y2=\"11\" stroke=\"red\" stroke-width=\"1.5\"/>\n          \n          <!-- Sudut pusat AOB -->\n          <line x1=\"75\" y1=\"75\" x2=\"140\" y2=\"50\" stroke=\"blue\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/>\n          <line x1=\"75\" y1=\"75\" x2=\"45\" y2=\"11\" stroke=\"blue\" stroke-dasharray=\"3\" stroke-width=\"1.5\"/>\n        </svg>\n      </div>"
       },
       {
         "id": 17,
@@ -1100,7 +1118,8 @@
           "E": "Pilihan E"
         },
         "key": "A",
-        "explanation": "Analisis Kesebangunan:\nKarena DE sejajar BC, maka sudut sehadap sama besar, sehingga △ADE sebangun △ABC (Opsi C Benar).\n1. Sisi alas AB = AD + DB = 6 + 4 = 10 cm.\n2. Rasio Kesebangunan = Sisi Kecil / Sisi Besar = AD / AB = 6 / 10 = 3/5. (Opsi A Benar).\n3. Mencari sisi DE:\nDE / BC = AD / AB\nDE / 15 = 3 / 5 → DE = (3/5) × 15 = 9 cm.\n(Opsi B Benar, Opsi D Salah)."
+        "explanation": "Analisis Kesebangunan:\nKarena DE sejajar BC, maka sudut sehadap sama besar, sehingga △ADE sebangun △ABC (Opsi C Benar).\n1. Sisi alas AB = AD + DB = 6 + 4 = 10 cm.\n2. Rasio Kesebangunan = Sisi Kecil / Sisi Besar = AD / AB = 6 / 10 = 3/5. (Opsi A Benar).\n3. Mencari sisi DE:\nDE / BC = AD / AB\nDE / 15 = 3 / 5 → DE = (3/5) × 15 = 9 cm.\n(Opsi B Benar, Opsi D Salah).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 200 150\" width=\"100%\" style=\"max-width:300px;\">\n          <!-- Segitiga Utama ABC -->\n          <polygon points=\"100,10 20,130 180,130\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\n          <!-- Titik & Label -->\n          <circle cx=\"100\" cy=\"10\" r=\"3\" fill=\"blue\"/><text x=\"95\" y=\"5\" font-size=\"12\">A</text>\n          <circle cx=\"20\" cy=\"130\" r=\"3\" fill=\"blue\"/><text x=\"5\" y=\"140\" font-size=\"12\">B</text>\n          <circle cx=\"180\" cy=\"130\" r=\"3\" fill=\"blue\"/><text x=\"185\" y=\"140\" font-size=\"12\">C</text>\n          <!-- Garis DE sejajar BC -->\n          <line x1=\"52\" y1=\"82\" x2=\"148\" y2=\"82\" stroke=\"red\" stroke-dasharray=\"4\" stroke-width=\"2\"/>\n          <circle cx=\"52\" cy=\"82\" r=\"3\" fill=\"blue\"/><text x=\"35\" y=\"85\" font-size=\"12\">D</text>\n          <circle cx=\"148\" cy=\"82\" r=\"3\" fill=\"blue\"/><text x=\"155\" y=\"85\" font-size=\"12\">E</text>\n        </svg>\n      </div>"
       },
       {
         "id": 18,
@@ -1128,7 +1147,8 @@
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
-        "explanation": "Analisis Spasial Kubus ABCD.EFGH:\nP1: Garis AB berada di bidang depan/bawah, sejajar dengan DC, dan DC sejajar dengan HG. Maka AB sejajar HG (BENAR).\nP2: Rusuk AE adalah rusuk tegak yang menjadi perpotongan bidang tegak (ABFE dan ADHE) yang keduanya tegak lurus lantai. Maka AE tegak lurus bidang alas ABCD (BENAR).\nP3: Garis diagonal AC (di lantai) dan EG (di atap) memiliki arah kemiringan yang sama dan terletak pada bidang diagonal yang sama (ACGE). Keduanya sejajar secara dimensi tiga, bukan bersilangan. (SALAH)."
+        "explanation": "Analisis Spasial Kubus ABCD.EFGH:\nP1: Garis AB berada di bidang depan/bawah, sejajar dengan DC, dan DC sejajar dengan HG. Maka AB sejajar HG (BENAR).\nP2: Rusuk AE adalah rusuk tegak yang menjadi perpotongan bidang tegak (ABFE dan ADHE) yang keduanya tegak lurus lantai. Maka AE tegak lurus bidang alas ABCD (BENAR).\nP3: Garis diagonal AC (di lantai) dan EG (di atap) memiliki arah kemiringan yang sama dan terletak pada bidang diagonal yang sama (ACGE). Keduanya sejajar secara dimensi tiga, bukan bersilangan. (SALAH).",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"-20 0 240 220\" width=\"100%\" style=\"max-width:250px;\">\n          <!-- Back Square -->\n          <rect x=\"70\" y=\"30\" width=\"100\" height=\"100\" fill=\"none\" stroke=\"black\" stroke-dasharray=\"4\"/>\n          <!-- Front Square -->\n          <rect x=\"30\" y=\"70\" width=\"100\" height=\"100\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/>\n          <!-- Connecting Lines -->\n          <line x1=\"30\" y1=\"70\" x2=\"70\" y2=\"30\" stroke=\"black\"/>\n          <line x1=\"130\" y1=\"70\" x2=\"170\" y2=\"30\" stroke=\"black\"/>\n          <line x1=\"130\" y1=\"170\" x2=\"170\" y2=\"130\" stroke=\"black\"/>\n          <line x1=\"30\" y1=\"170\" x2=\"70\" y2=\"130\" stroke=\"black\" stroke-dasharray=\"4\"/>\n          <!-- Labels (Front: AB FE, Back: DC GH) -->\n          <text x=\"15\" y=\"180\" font-size=\"12\">A</text>\n          <text x=\"135\" y=\"180\" font-size=\"12\">B</text>\n          <text x=\"175\" y=\"130\" font-size=\"12\">C</text>\n          <text x=\"55\" y=\"130\" font-size=\"12\">D</text>\n          <text x=\"15\" y=\"65\" font-size=\"12\">E</text>\n          <text x=\"135\" y=\"65\" font-size=\"12\">F</text>\n          <text x=\"175\" y=\"25\" font-size=\"12\">G</text>\n          <text x=\"55\" y=\"25\" font-size=\"12\">H</text>\n        </svg>\n      </div>"
       },
       {
         "id": 20,
@@ -1212,7 +1232,8 @@
           "E": "20√3 meter"
         },
         "key": "C",
-        "explanation": "Misalkan tinggi gedung = h, jarak dari kaki gedung ke posisi pengamat B = x meter.\nTinjau dua sistem segitiga siku-siku bertingkat:\n1. Segitiga kecil (Posisi B):\ntan(60°) = Depan / Samping = h / x → √3 = h / x → h = x√3.\n2. Segitiga raksasa (Posisi A berjarak x+20 dari kaki gedung):\ntan(30°) = Depan / Samping = h / (x + 20)\n1/√3 = h / (x + 20)\nSubstitusi h dari hitungan B ke sini:\n1/√3 = (x√3) / (x + 20)\nKalikan silang menyilang:\nx + 20 = (x√3)(√3)\nx + 20 = 3x\n2x = 20 → x = 10 meter (jarak dari B ke gedung).\nTinggi gedung absolut h = x√3 = 10√3 meter. (Opsi C)"
+        "explanation": "Misalkan tinggi gedung = h, jarak dari kaki gedung ke posisi pengamat B = x meter.\nTinjau dua sistem segitiga siku-siku bertingkat:\n1. Segitiga kecil (Posisi B):\ntan(60°) = Depan / Samping = h / x → √3 = h / x → h = x√3.\n2. Segitiga raksasa (Posisi A berjarak x+20 dari kaki gedung):\ntan(30°) = Depan / Samping = h / (x + 20)\n1/√3 = h / (x + 20)\nSubstitusi h dari hitungan B ke sini:\n1/√3 = (x√3) / (x + 20)\nKalikan silang menyilang:\nx + 20 = (x√3)(√3)\nx + 20 = 3x\n2x = 20 → x = 10 meter (jarak dari B ke gedung).\nTinggi gedung absolut h = x√3 = 10√3 meter. (Opsi C)",
+        "visual": "<div class=\"svg-container\">\n        <svg viewBox=\"0 0 250 150\" width=\"100%\" style=\"max-width:350px;\">\n          <line x1=\"10\" y1=\"130\" x2=\"240\" y2=\"130\" stroke=\"black\" stroke-width=\"2\"/>\n          <!-- Gedung -->\n          <rect x=\"180\" y=\"20\" width=\"30\" height=\"110\" fill=\"#cbd5e1\" stroke=\"black\"/>\n          <!-- Garis Pandang A 30deg -->\n          <line x1=\"30\" y1=\"130\" x2=\"180\" y2=\"20\" stroke=\"blue\" stroke-dasharray=\"4\"/>\n          <!-- Garis Pandang B 60deg -->\n          <line x1=\"130\" y1=\"130\" x2=\"180\" y2=\"20\" stroke=\"red\" stroke-dasharray=\"4\"/>\n          <!-- Titik & Label -->\n          <circle cx=\"30\" cy=\"130\" r=\"3\" fill=\"black\"/><text x=\"20\" y=\"145\" font-size=\"10\">Posisi A (30&deg;)</text>\n          <circle cx=\"130\" cy=\"130\" r=\"3\" fill=\"black\"/><text x=\"120\" y=\"145\" font-size=\"10\">Posisi B (60&deg;)</text>\n          <!-- Jarak 20m -->\n          <path d=\"M 30 135 L 30 145 M 130 135 L 130 145 M 30 140 L 130 140\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/>\n          <text x=\"70\" y=\"148\" font-size=\"9\">20 m</text>\n        </svg>\n      </div>"
       },
       {
         "id": 26,
