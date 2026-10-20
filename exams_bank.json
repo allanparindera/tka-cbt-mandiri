@@ -452,7 +452,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -508,7 +508,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -565,7 +565,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -635,7 +635,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -707,7 +707,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -779,7 +779,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -850,7 +850,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -887,7 +887,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -943,7 +943,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -1001,7 +1001,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -1071,7 +1071,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -1143,7 +1143,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -1214,7 +1214,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -1285,7 +1285,7 @@
           "A": "Salah - Salah - Salah",
           "B": "Benar - Salah - Benar",
           "C": "Salah - Benar - Salah",
-          "D": "Salah - Salah - Salah",
+          "D": "Benar - Benar - Salah",
           "E": "Benar - Benar - Benar"
         },
         "key": "A",
@@ -5181,7 +5181,7 @@
       {
         "id": 1,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhy did the author likely write this text about Instagram?",
         "options": {
           "A": "To criticize the negative impacts of social media.",
           "B": "To compare Instagram's features directly with Facebook.",
@@ -5195,7 +5195,7 @@
       {
         "id": 2,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhich of the following best summarizes the main idea of the second paragraph?",
         "options": {
           "A": "Instagram is primarily used for setting accounts to private.",
           "B": "Users can upload media and utilize tags to categorize content and control its visibility.",
@@ -5209,7 +5209,7 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nThe text states that 'about 60% of users report discovering new products through Instagram.' If a business wants to prove that this discovery translates into actual profit, what additional data is required?",
         "options": {
           "A": "The total number of global advertisers on the app.",
           "B": "The conversion rate showing how many discoveries lead to a purchase.",
@@ -5223,7 +5223,7 @@
       {
         "id": 4,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nAccording to the text, what is the direct consequence if an Instagram user switches their account to 'private'?",
         "options": {
           "A": "They are no longer allowed to use hashtags or geotags.",
           "B": "Only people they have approved can view their uploaded content.",
@@ -5237,7 +5237,7 @@
       {
         "id": 5,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nBased on the text, what is the chronological emotional arc experienced by the writer regarding her solo trip?",
         "options": {
           "A": "Excited → Anxious → Regretful.",
           "B": "Anxious → Motivated → Joyful.",
@@ -5251,7 +5251,7 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nHow does the writer's actual experience upon landing in San Francisco contrast with her initial expectations?",
         "options": {
           "A": "She expected to be joyful but felt extremely lonely.",
           "B": "She expected the transport booking to be hard, but it was easy.",
@@ -5265,7 +5265,7 @@
       {
         "id": 7,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat detail from paragraph 4 proves that the writer is a meticulous planner despite her anxiety?",
         "options": {
           "A": "She relied on a travel agency to book her flights.",
           "B": "She brought a lot of extra money for emergencies.",
@@ -5279,7 +5279,7 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nPredict what would most likely have happened if the writer's Canadian friends had told her that solo travel was dangerous and a bad idea.",
         "options": {
           "A": "She would have traveled to Europe instead.",
           "B": "She would have completely canceled her trip due to her low confidence.",
@@ -5293,7 +5293,7 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nBased on the provided table, which fasting method is categorized by reducing caloric intake on specific days rather than restricting daily eating hours?",
         "options": {
           "A": "The 16:8 Method.",
           "B": "The 5:2 Diet.",
@@ -5307,7 +5307,7 @@
       {
         "id": 10,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nWhat is the main idea of paragraph 3?",
         "options": {
           "A": "Intermittent fasting reduces overall calorie consumption.",
           "B": "Intermittent fasting is simple and doesn't require avoiding specific foods.",
@@ -5321,7 +5321,7 @@
       {
         "id": 11,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nThe author states: 'Intermittent fasting (IF) is not just a passing dietary trend.' This statement is best evaluated as...",
         "options": {
           "A": "A statistical data point.",
           "B": "An objective medical fact verified by WHO.",
@@ -5335,7 +5335,7 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nTo further support the claim in paragraph 4 that IF reduces 'unhealthy snacking,' which of the following evidence would be most effective?",
         "options": {
           "A": "A study showing that late-night sugar cravings disappear when adhering to a strict 8:00 PM cutoff.",
           "B": "A historical article about fasting in ancient civilizations.",
@@ -5349,7 +5349,7 @@
       {
         "id": 13,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhat does Nina's statement ('But I get lazy') reveal about her character in contrast to Putra's current situation?",
         "options": {
           "A": "She is much more responsible than Putra.",
           "B": "She is honest about her flaws but currently less disciplined in her duties than Putra.",
@@ -5363,7 +5363,7 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhat explicit information from the text explains WHY Putra's parents are strict about him picking up his brother?",
         "options": {
           "A": "His brother is sick.",
           "B": "His brother is too young to walk home.",
@@ -5377,7 +5377,7 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhich action taken by Putra demonstrates that he evaluated his past mistakes and changed his behavior?",
         "options": {
           "A": "He complained to Nina about his chores.",
           "B": "He decided to skip washing the dishes.",
@@ -5391,7 +5391,7 @@
       {
         "id": 16,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nBy the end of the conversation, how do both Putra and Nina view their 'small responsibilities'?",
         "options": {
           "A": "As unfair punishments from their parents.",
           "B": "As burdens they want to escape.",
@@ -5405,7 +5405,7 @@
       {
         "id": 17,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nIf a reader frequently forgets to do their own daily chores, what is the most practical lesson they can take from this dialogue?",
         "options": {
           "A": "Complain to your friends about how tired you are.",
           "B": "Ignore the chores until your parents get angry.",
@@ -5419,13 +5419,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] All materials that make up a beach's sand originate directly from the immediate shoreline where they are found.\n[2] The composition of sand, such as the presence of basalt or olivine, can reveal the geological volcanic history of the area.\n[3] During warmer seasons, calm waters usually cause beaches to become narrower and steeper.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 5: Beaches (Question 18)]:\nA beach is a narrow strip of land that gently slopes and is located next to bodies of water like oceans or lakes. These areas are often covered with natural materials such as fine sand, small stones, broken shells, and even rocks.\n\n\n                These materials typically form as a result of long-term natural forces like erosion and weathering. For instance, waves repeatedly hitting coastal cliffs can slowly chip away solid rock. Over the years, even the largest stones can crumble into small particles and eventually turn into soft sand.\n\n\n                Beaches are ever-changing environments. Seasonal factors also influence their form. Strong winds during winter can push sand inland, narrowing the shoreline and creating steeper slopes. In warmer seasons, calmer waters tend to move sand back onto the coast from underwater sandbanks, resulting in broader, flatter beaches.\n\n\n                The sand that covers beaches doesn't come from just one place. Some beaches, like those near Chameis Bay in Namibia, are notable for their mixture of quartz, seashell fragments, and even diamond particles. Elsewhere in the world, you might find grains of sapphire, garnet, or emerald mixed into the sand, adding to its mineral variety.\n\nQUESTION:\nEvaluate these statements about beaches based on the text. Decide if they are True or False.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Realitas/Fakta (Evaluasi - C5):\n1) False: Pasir bisa datang dari tempat jauh, pecahan karang bawah air, atau dibawa ombak.\n2) True: Teks menyebutkan pasir hitam (Hawai) dan hijau (Guam) terbentuk dari aktivitas vulkanik (basalt/mineral).\n3) False: Musim hangat membuat air tenang, yang justru memindahkan pasir ke darat sehingga pantai jadi lebih lebar dan datar (broader, flatter beaches)."
@@ -5433,13 +5433,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Coffee is the worst possible drink for maintaining human health and focus.\n[2] Exercise helps sharpen focus by triggering the release of endorphins in the body.\n[3] Breathing in and out quickly through the nose for 10 seconds is a technique mentioned in the text.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 6: Energy Boosters (Question 19)]:\nWhen you're feeling sleepy, your first instinct might be to grab a cup of coffee. However, if you're cutting back on caffeine, there are simple and healthy alternatives that can naturally help increase your energy.\n\n\n                \n                    Get Moving: Physical activity—even just a brisk walk—can be a powerful way to refresh your body and mind. Exercise triggers endorphins and norepinephrine, which help sharpen focus and increase alertness.\n                    Practice Bellows Breathing: A quick breathing exercise. With your mouth closed, breathe in and out quickly through your nose for about 10 seconds, then return to normal breathing.\n                    Reconnect with Nature: Even brief exposure to nature has been shown to enhance energy. Whether it's a walk in the park or sitting under a tree, spending time outdoors can lift your mood and restore vitality.\n\nQUESTION:\nAnalyze these statements based on the text. Decide whether they are verifiable Facts or subjective Opinions.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi - C5):\n1) Opinion: Mengatakan kopi adalah 'minuman terburuk' adalah opini subjektif berlebihan yang tidak didukung data teks.\n2) Fact: Pelepasan endorfin akibat olahraga adalah fakta biologis yang dapat diuji secara medis.\n3) Fact: Teknik ini tertera eksplisit di teks ('Bellows Breathing') sebagai instruksi faktual yang direkomendasikan."
@@ -5447,13 +5447,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Addressing global poverty will automatically create a perfect world with zero crime.\n[2] Living in extreme poverty increases a person's vulnerability to malnutrition and lack of clean water.\n[3] UNESCO stated that financial and social barriers prevent 244 million children from attending school.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 7: Poverty (Question 20)]:\nPoverty continues to impact children across the globe. In every place where poverty exists, there are young lives restricted by the conditions they were born into.\n\n\n                Tackling poverty also plays a critical role in expanding access to education. Poverty remains one of the most significant obstacles to education, with UNESCO reporting that 244 million children and adolescents are still out of school due to social, cultural, and financial barriers.\n\n\n                To overcome the harmful effects of poverty, it is essential for governments, organizations, and individuals to invest in equitable access to education, healthcare, and economic opportunities. Through global collaboration and a focus on sustainable, long-term strategies, we can build a fairer world.\n\nQUESTION:\nEvaluate these claims regarding global poverty. Decide whether they are Facts or Opinions.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi - C5):\n1) Opinion: Menghapus kemiskinan membuat dunia 'sempurna tanpa kejahatan' adalah utopia dan opini spekulatif.\n2) Fact: Korelasi antara kemiskinan dan kerentanan malnutrisi/air bersih adalah realitas data sosiologis/kesehatan.\n3) Fact: Angka 244 juta adalah data statistik empiris yang dikeluarkan oleh lembaga UNESCO."
@@ -5461,7 +5461,7 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nAccording to the text, which of the following locations are primarily famous for their unique geological cliff/rock formations? (Tick all that apply)",
         "options": {
           "A": "Kelingking Beach",
           "B": "Broken Beach",
@@ -5475,7 +5475,7 @@
       {
         "id": 22,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nBased on the text, what are the causes that make Crystal Bay a tranquil and safe place for snorkeling? (Tick all that apply)",
         "options": {
           "A": "It is framed by surrounding hills.",
           "B": "It features a natural infinity pool.",
@@ -5489,7 +5489,7 @@
       {
         "id": 23,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhat specific logistical or descriptive information is explicitly provided in the text for tourists planning to visit? (Tick all that apply)",
         "options": {
           "A": "Vehicles can access the parking area near Kelingking Beach.",
           "B": "The exact price for renting snorkeling gear at Crystal Bay.",
@@ -5503,7 +5503,7 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich descriptions accurately match the distinctive visual features mentioned in the text? (Tick all that apply)",
         "options": {
           "A": "A cliff resembling a little finger at Kelingking Beach.",
           "B": "A circular lagoon created by an archway at Broken Beach.",
@@ -5517,7 +5517,7 @@
       {
         "id": 25,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich of the following are mentioned as activities that can be best enjoyed at Crystal Bay? (Tick all that apply)",
         "options": {
           "A": "Snorkeling",
           "B": "Diving",
@@ -5531,7 +5531,7 @@
       {
         "id": 26,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nHow would you describe the young man's attitude at the BEGINNING of the story? (Tick all that apply)",
         "options": {
           "A": "Arrogant",
           "B": "Humble",
@@ -5545,7 +5545,7 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nThe old man's heart has 'empty parts' where he gave a piece but received nothing back. What does this symbolize in real human relationships? (Tick all that apply)",
         "options": {
           "A": "Unrequited love (loving someone who does not love you back).",
           "B": "Helping or caring for someone who shows no gratitude.",
@@ -5559,7 +5559,7 @@
       {
         "id": 28,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nIn the context of the story's allegory, what do the 'jagged and mismatched' patches logically represent? (Tick all that apply)",
         "options": {
           "A": "The diverse, imperfect, and messy nature of human connections.",
           "B": "A history of physical heart surgeries.",
@@ -5573,7 +5573,7 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nBased on his final action, what will likely happen to the young man's understanding of 'beauty' in the future? (Tick all that apply)",
         "options": {
           "A": "He will value emotional depth over superficial perfection.",
           "B": "He will judge people based on their struggles and empathy.",
@@ -5587,7 +5587,7 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhich of the following themes are strongly reflected in this narrative? (Tick all that apply)",
         "options": {
           "A": "The illusion of physical or superficial perfection.",
           "B": "The importance of financial wealth.",
@@ -5610,7 +5610,7 @@
       {
         "id": 1,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhat is the most accurate summary of how Instagram functions for its users?",
         "options": {
           "A": "Instagram is a business-only platform.",
           "B": "Instagram is primarily for editing photos.",
@@ -5624,7 +5624,7 @@
       {
         "id": 2,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nBased on the text, how does a personal Instagram account differ primarily from a business account?",
         "options": {
           "A": "Personal accounts can use hashtags, while business accounts cannot.",
           "B": "Business accounts have access to audience engagement statistics, unlike personal accounts.",
@@ -5638,7 +5638,7 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nIf a local cafe wants to attract nearby customers and track how well their posts are doing, what combination of features should they utilize?",
         "options": {
           "A": "Private account and Instagram Direct.",
           "B": "Geotags (location tags) and a business account.",
@@ -5652,7 +5652,7 @@
       {
         "id": 4,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nThe text states: 'about 60% of users report discovering new products through Instagram.' To fully evaluate if a specific new clothing business will succeed on Instagram, what additional information is most crucial?",
         "options": {
           "A": "The history of when Facebook acquired Instagram.",
           "B": "The demographic profile of the users who discover these products.",
@@ -5666,7 +5666,7 @@
       {
         "id": 5,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nBased on the first two paragraphs, the writer's initial character regarding solo travel can be described as...",
         "options": {
           "A": "Overconfident and reckless.",
           "B": "Hesitant and dependent on others.",
@@ -5680,7 +5680,7 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nHow would a reader who currently fears traveling alone most likely react to the writer's experience upon landing in San Francisco?",
         "options": {
           "A": "They would feel encouraged that fear can turn into excitement.",
           "B": "They would become even more terrified of airports.",
@@ -5694,7 +5694,7 @@
       {
         "id": 7,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat was the direct result of the writer reading online forums and talking to her Canadian friends?",
         "options": {
           "A": "She canceled her Working Holiday Visa.",
           "B": "She successfully found a travel companion.",
@@ -5708,7 +5708,7 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat underlying message about fear is the author trying to convey through her journey?",
         "options": {
           "A": "Fear of the unknown is a sign that you should stay home.",
           "B": "Fear can only be overcome by traveling with friends.",
@@ -5722,7 +5722,7 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nBased on the table, if a person eats only between 12:00 PM and 8:00 PM every day, which category of fasting are they practicing?",
         "options": {
           "A": "The 5:2 Diet.",
           "B": "The 16:8 Method.",
@@ -5736,7 +5736,7 @@
       {
         "id": 10,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nWhich of the following research findings, if added to paragraph 3, would most strongly support the text's claim?",
         "options": {
           "A": "'Studies show that skipping breakfast makes people feel tired in the morning.'",
           "B": "'A clinical trial revealed that IF practitioners experienced a 20% drop in fasting insulin levels.'",
@@ -5750,7 +5750,7 @@
       {
         "id": 11,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nA critic argues that IF causes people to dangerously overeat junk food during their eating windows. How does the text challenge this argument?",
         "options": {
           "A": "By stating that IF requires strict calorie counting.",
           "B": "By claiming that people on IF cannot eat junk food at all.",
@@ -5764,7 +5764,7 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nBased on paragraph 4, what is the most likely long-term outcome for someone who strictly follows the eating hours of IF but consistently chooses unhealthy, processed foods?",
         "options": {
           "A": "They will automatically lose weight because they are fasting.",
           "B": "They will still gain the full metabolic benefits of IF.",
@@ -5778,7 +5778,7 @@
       {
         "id": 13,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nCompare Putra's and Nina's current approaches to their household chores. Which statement accurately describes them?",
         "options": {
           "A": "Both perfectly execute their chores every day.",
           "B": "Putra takes his task seriously today because of a past incident, while Nina admits she often neglects hers due to laziness.",
@@ -5792,7 +5792,7 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhat is the most logical action Putra will take immediately after his conversation with Nina ends?",
         "options": {
           "A": "Go straight home to wash the dishes.",
           "B": "Go to the playground to play.",
@@ -5806,7 +5806,7 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhich of the following proverbs best fits the central theme of Putra and Nina's conversation?",
         "options": {
           "A": "'Don't count your chickens before they hatch.'",
           "B": "'A problem shared is a problem halved.'",
@@ -5820,7 +5820,7 @@
       {
         "id": 16,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhy did Putra's parents specifically emphasize that he must 'take better care of him'?",
         "options": {
           "A": "Because the brother is currently sick.",
           "B": "Because the brother had wandered off and gotten lost previously.",
@@ -5834,7 +5834,7 @@
       {
         "id": 17,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nIf Putra had NOT set a reminder today, what would be the most probable consequence based on his own admission in the dialogue?",
         "options": {
           "A": "He would definitely go straight home and sleep.",
           "B": "He might forget his duty again, just like he sometimes forgets to do the dishes.",
@@ -5848,13 +5848,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] A beach consisting entirely of unbroken, perfect seashells is a common natural occurrence explained by the text.\n[2] The presence of greenish sand on a beach is a direct indicator of volcanic activity involving basalt.\n[3] The physical width and slope of a beach remain constant throughout the year.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 5: Beaches (Question 18)]:\nA beach is a narrow strip of land that gently slopes and is located next to bodies of water like oceans or lakes. These areas are often covered with natural materials such as fine sand, small stones, broken shells, and even rocks.\n\n\n                These materials typically form as a result of long-term natural forces like erosion and weathering. For instance, waves repeatedly hitting coastal cliffs can slowly chip away solid rock. Over the years, even the largest stones can crumble into small particles and eventually turn into soft sand.\n\n\n                Beaches are ever-changing environments. Seasonal factors also influence their form. Strong winds during winter can push sand inland, narrowing the shoreline and creating steeper slopes. In warmer seasons, calmer waters tend to move sand back onto the coast from underwater sandbanks, resulting in broader, flatter beaches.\n\n\n                The sand that covers beaches doesn't come from just one place. Some beaches, like those near Chameis Bay in Namibia, are notable for their mixture of quartz, seashell fragments, and even diamond particles. Elsewhere in the world, you might find grains of sapphire, garnet, or emerald mixed into the sand, adding to its mineral variety.\n\nQUESTION:\nEvaluate the following statements based on the natural realities described in the text.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Realitas/Fakta (Evaluasi & Apresiasi - C5):\n1) False: Ombak yang terus membentur karang/cangkang akan menghancurkannya jadi pecahan (broken shells/sand), bukan utuh sempurna.\n2) True: Teks menyebut mineral olivin dalam basalt vulkanik (kasus Guam) menghasilkan pasir hijau.\n3) False: Pantai selalu berubah secara musiman (kalimat: 'Seasonal factors also influence their form')."
@@ -5862,13 +5862,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Dr. Anna B. Shannahan works at Northwestern Medicine Lake Forest Hospital.\n[2] Taking a 20-minute nap is the absolute best way for everyone to restore energy.\n[3] Dehydration is frequently identified as a biological cause of tiredness.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 6: Energy Boosters (Question 19)]:\nWhen you're feeling sleepy, your first instinct might be to grab a cup of coffee. However, if you're cutting back on caffeine, there are simple and healthy alternatives that can naturally help increase your energy.\n\n\n                \n                    Get Moving: Physical activity—even just a brisk walk—can be a powerful way to refresh your body and mind. Exercise triggers endorphins and norepinephrine, which help sharpen focus and increase alertness.\n                    Practice Bellows Breathing: A quick breathing exercise. With your mouth closed, breathe in and out quickly through your nose for about 10 seconds, then return to normal breathing.\n                    Reconnect with Nature: Even brief exposure to nature has been shown to enhance energy. Whether it's a walk in the park or sitting under a tree, spending time outdoors can lift your mood and restore vitality.\n\nQUESTION:\nAnalyze these statements based on the text. Decide whether they are verifiable Facts or subjective Opinions.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi & Apresiasi - C5):\n1) Fact: Profesi dan lokasi kerja adalah data yang bisa diverifikasi kebenarannya secara objektif.\n2) Opinion: Menggunakan frasa mutlak 'absolute best way for everyone' menjadikannya opini yang subjektif dan bias, karena kondisi fisiologis tiap orang berbeda.\n3) Fact: Korelasi antara dehidrasi dan kelelahan (tiredness) adalah fakta medis/biologis yang terukur."
@@ -5876,13 +5876,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Eliminating poverty will automatically guarantee that every child becomes wealthy.\n[2] UNESCO has recorded that 244 million children and adolescents face barriers keeping them out of school.\n[3] Lack of clean water and limited healthcare access are factors that increase the risk of preventable deaths.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 7: Poverty (Question 20)]:\nPoverty continues to impact children across the globe. In every place where poverty exists, there are young lives restricted by the conditions they were born into.\n\n\n                Tackling poverty also plays a critical role in expanding access to education. Poverty remains one of the most significant obstacles to education, with UNESCO reporting that 244 million children and adolescents are still out of school due to social, cultural, and financial barriers.\n\n\n                To overcome the harmful effects of poverty, it is essential for governments, organizations, and individuals to invest in equitable access to education, healthcare, and economic opportunities. Through global collaboration and a focus on sustainable, long-term strategies, we can build a fairer world.\n\nQUESTION:\nEvaluate these claims regarding global poverty. Decide whether they are Facts or Opinions.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta atau Opini (Evaluasi & Apresiasi - C5):\n1) Opinion: Klaim 'otomatis menjamin setiap anak menjadi kaya' sangat tidak rasional, berlebihan, dan tidak dapat dibuktikan (hanya asumsi buta).\n2) Fact: Adalah data kuantitatif valid dari lembaga resmi PBB (UNESCO).\n3) Fact: Hubungan sebab-akibat antara ketiadaan air bersih/faskes dengan naiknya rasio kematian dapat dibuktikan secara demografis dan sains."
@@ -5890,7 +5890,7 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nIf a tourist wants to combine experiencing a dramatic high viewpoint with watching the sunset over the water, which locations from the text should they include in their itinerary? (Tick all that apply)",
         "options": {
           "A": "Kelingking Beach",
           "B": "Angel's Billabong",
@@ -5904,7 +5904,7 @@
       {
         "id": 22,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nBased on the text, what factors directly contribute to the safe and calm waters of Crystal Bay? (Tick all that apply)",
         "options": {
           "A": "The white sandy shore.",
           "B": "It is situated in a secluded bay framed by hills.",
@@ -5918,7 +5918,7 @@
       {
         "id": 23,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich of the following statements accurately pair the destination with its unique physical feature? (Tick all that apply)",
         "options": {
           "A": "Kelingking Beach features a cliff shaped like a little finger.",
           "B": "Crystal Bay features a natural archway that traps sea water.",
@@ -5932,7 +5932,7 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich activities are realistically possible and supported by the text's description of Kelingking Beach? (Tick all that apply)",
         "options": {
           "A": "Enjoying a panoramic view of the sea from a high cliff.",
           "B": "Accessing the location by vehicle up to the parking area.",
@@ -5946,7 +5946,7 @@
       {
         "id": 25,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich details from the text support the claim that Nusa Penida is a 'golden egg' (a highly valuable asset) for Bali's tourism? (Tick all that apply)",
         "options": {
           "A": "It is the center of local government in Klungkung.",
           "B": "It possesses spectacular and exotic beaches.",
@@ -5960,7 +5960,7 @@
       {
         "id": 26,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhat does the flawless condition of the young man's heart symbolically imply about his life experiences before meeting the old man? (Tick all that apply)",
         "options": {
           "A": "He had never truly shared deep emotional connections or love with others.",
           "B": "He had survived many difficult emotional heartbreaks.",
@@ -5974,7 +5974,7 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhich of the following real-life experiences would most likely result in the 'empty parts' or 'jagged patches' on the old man's heart? (Tick all that apply)",
         "options": {
           "A": "Unrequited love (loving someone who didn't love him back).",
           "B": "Grieving the loss of a close friend or family member.",
@@ -5988,7 +5988,7 @@
       {
         "id": 28,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nImmediately after the story ends, what will symbolically happen to the young man's heart based on the old man's philosophy? (Tick all that apply)",
         "options": {
           "A": "It will no longer be considered perfectly flawless by the crowd.",
           "B": "It will magically heal and become smooth again.",
@@ -6002,7 +6002,7 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nHow does the crowd's definition of a 'beautiful heart' contrast with the old man's definition? (Tick all that apply)",
         "options": {
           "A": "The crowd values superficial, untouched perfection.",
           "B": "The crowd values the ability to shout loudly in public.",
@@ -6016,7 +6016,7 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhich of the following quotes strongly align with the core philosophy taught by the old man in the story? (Tick all that apply)",
         "options": {
           "A": "'Beauty is only skin deep.'",
           "B": "'A flawless diamond is better than a cracked pebble.'",
@@ -6039,7 +6039,7 @@
       {
         "id": 1,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhat is the main focus of the text?",
         "options": {
           "A": "The benefits of using Instagram.",
           "B": "The negative effects of Instagram.",
@@ -6053,7 +6053,7 @@
       {
         "id": 2,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhy do many companies choose to use Instagram?",
         "options": {
           "A": "It offers tools for reaching potential customers.",
           "B": "It provides free physical advertisements.",
@@ -6067,7 +6067,7 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nInstagram allows users to include hashtags and location tags in their posts. What is the purpose of these features?",
         "options": {
           "A": "To confuse other users.",
           "B": "To delete the original captions.",
@@ -6081,7 +6081,7 @@
       {
         "id": 4,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 1: Instagram (Questions 1-4)]:\nInstagram is a free online platform for sharing photos and videos, as well as a social networking service. It was acquired by Facebook in 2012.\n\n\n                Through the Instagram mobile app, users can edit and upload images or short videos. They can include captions, hashtags, and location tags (geotags) to categorize content, making it easier for others to discover. Posts appear on the feeds of the user's followers and can also be found publicly if tagged appropriately. Users have the option to set their accounts to private, allowing only approved followers to view their content.\n\n\n                \n                \n                    Business Impact Analytics (Conceptual SVG)\n\n                    \n                        \n                        \n                        60%\n                        Users discovering new products\n                    \n                \n\n                Beyond personal use, Instagram is widely used by businesses. The platform offers companies the option to create free business accounts, enabling them to promote their brands and products. Business accounts also provide access to valuable data, including audience engagement and impression statistics. According to Instagram, over one million advertisers globally use the app to tell their stories and achieve business goals. Moreover, about 60% of users report discovering new products through Instagram.\n\nQUESTION:\nWhat is the function of the last paragraph in relation to the rest of the text?",
         "options": {
           "A": "It explains who created Instagram.",
           "B": "It summarizes Instagram's general features.",
@@ -6095,7 +6095,7 @@
       {
         "id": 5,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat made the writer decide to go on a solo trip despite feeling anxious?",
         "options": {
           "A": "She read encouraging stories from other solo travelers.",
           "B": "She was forced to go due to visa restrictions.",
@@ -6109,7 +6109,7 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat does the sentence 'I'll have to fend for myself in this jungle' in paragraph 6 most likely mean?",
         "options": {
           "A": "She felt unsafe due to wild animals.",
           "B": "She planned to explore nature reserves.",
@@ -6123,7 +6123,7 @@
       {
         "id": 7,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat is the communicative purpose of the text?",
         "options": {
           "A": "To warn readers against traveling alone.",
           "B": "To share a past experience about solo travel.",
@@ -6137,7 +6137,7 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 2: Solo Travel (Questions 5-8)]:\nI spent time in Vancouver, Canada, under a Working Holiday Visa (WHV), driven by a strong desire to explore both Canada and the United States. To be honest, I had never pictured myself taking this kind of trip on my own. The thought of traveling solo made me anxious. My confidence was low, and just a few weeks before the trip, I nearly backed out.\n\n\n                Naturally, I tried to find travel companions, but no one had the same availability or shared the same travel interests as I did. So, I was left wondering: should I cancel the trip, or go alone?\n\n\n                \n                    [GANTI DENGAN URL GAMBAR DI SINI]\n\n                    Keterangan Visual: Peta rute perjalanan Pantai Barat AS (West Coast Road Trip dari San Francisco) yang terencana rapi.\n                \n\n                One day, while browsing online forums, I came across several stories from people who had traveled solo—and surprisingly, many of them had truly enjoyed the experience. Encouraged, I mentioned the idea to some Canadian friends, and their supportive reactions helped shift my mindset. They made me realize that solo travel isn't as unusual as I had thought, and that it can actually be incredibly rewarding.\n\n\n                As soon as I landed at San Francisco International Airport, reality hit me: I was on my own. I'll have to fend for myself in this jungle. But instead of fear, I felt excitement. I decided to embrace every moment.\n\n\n                But overall, this trip brought me immense joy. All the fears and doubts I had before leaving simply vanished. Throughout the journey, I was filled with an overwhelming sense of positivity and freedom.\n\nQUESTION:\nWhat can be inferred about the impact of the trip on the writer's mindset?",
         "options": {
           "A": "She prefers never to travel alone again.",
           "B": "She regretted not bringing her boyfriend.",
@@ -6151,7 +6151,7 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nWhat is the text mainly about?",
         "options": {
           "A": "The benefits of intermittent fasting.",
           "B": "The popularity of intermittent fasting.",
@@ -6165,7 +6165,7 @@
       {
         "id": 10,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nThe outline of the text is ...",
         "options": {
           "A": "Definition - Risks - Studies - Debate",
           "B": "Trend - Benefits of counting - Restrictions - Effects",
@@ -6179,7 +6179,7 @@
       {
         "id": 11,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nWhich detail, if included, would make the text more informative?",
         "options": {
           "A": "An opinion about eating habits.",
           "B": "A list of popular food trends on social media.",
@@ -6193,7 +6193,7 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 3: Intermittent Fasting (Questions 9-12)]:\nIntermittent fasting (IF) is not just a passing dietary trend. It is a healthy and sustainable eating pattern that offers many benefits for physical well-being. By limiting food intake to specific time windows, IF helps individuals reduce their overall calorie consumption without the need to count calories or follow strict food restrictions.\n\n\n                \n                \n                    Fasting MethodDescriptionMetabolic Impact Focus\n                    16:8 MethodFast for 16 hours, eat within an 8-hour window daily.Daily insulin regulation.\n                    5:2 DietEat normally 5 days, restrict calories (500-600) for 2 days.Weekly caloric deficit.\n                \n                In addition to helping with weight management, IF has been linked to improved metabolic health. Some studies suggest that fasting periods may help reduce inflammation and regulate blood sugar levels. These effects could contribute to a lower risk of chronic diseases such as diabetes and heart disease.\n\n\n                Another benefit is the potential improvement in eating habits. Because meals are limited to certain hours, people often become more mindful of what they eat and when they eat it. This awareness can lead to better food choices and reduced unhealthy snacking, which supports better long-term health.\n\nQUESTION:\nWhich of the following best reflects a critical thinking response to the idea of trying intermittent fasting?",
         "options": {
           "A": "'It will fix all my health problems instantly.'",
           "B": "'Everyone's doing it, so I'll try it without thinking.'",
@@ -6207,7 +6207,7 @@
       {
         "id": 13,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhat is the conversation about?",
         "options": {
           "A": "They are talking about their daily responsibilities.",
           "B": "They are discussing homework for English class.",
@@ -6221,7 +6221,7 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhy does Putra have to pick up his brother?",
         "options": {
           "A": "His teacher assigned him that task.",
           "B": "His parents asked Nina to do it.",
@@ -6235,7 +6235,7 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhich of the following expressions from the dialogue shows a strong obligation?",
         "options": {
           "A": "'I'm supposed to help clean the dishes.'",
           "B": "'I should help my mom more often.'",
@@ -6249,7 +6249,7 @@
       {
         "id": 16,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhich of the following statements is NOT TRUE based on the dialogue?",
         "options": {
           "A": "Putra's parents want him to take better care of his brother.",
           "B": "Putra has to pick up his brother from kindergarten.",
@@ -6263,7 +6263,7 @@
       {
         "id": 17,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 4: Dialogue (Questions 13-17)]:\nNina: Hey Putra, are you going straight home after school?\n\n                Putra: Not yet. I have to pick up my little brother from his kindergarten first.\n\n                Nina: Oh, right. You always do that on Wednesdays, don't you?\n\n                Putra: Yeah, it's my turn today. My parents said I must take better care of him. He got lost once at the playground.\n\n                Nina: That sounds serious.\n\n                Putra: It is. And at home, I'm supposed to help clean the dishes too, but sometimes I forget.\n\n                Nina: I know the feeling. I should help my mom more often, especially when she's tired. But I get lazy.\n\n                Putra: Same here. But I guess we all have responsibilities, even small ones.\n\n                Nina: True. Anyway, don't forget to pick up your brother today, or you'll be in big trouble!\n\n                Putra: Don't worry. I set a reminder this time.\n\nQUESTION:\nWhat advice might this conversation give to readers?",
         "options": {
           "A": "It's okay to ignore small chores.",
           "B": "Never talk about your parents' rules.",
@@ -6277,13 +6277,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Beach materials such as sand and pebbles are mainly formed through the processes of weathering and erosion.\n[2] Beaches tend to be wider and have a flatter slope during winter because storm winds bring more sand to the shore.\n[3] Beaches around the world contain sand made only of quartz and shells.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 5: Beaches (Question 18)]:\nA beach is a narrow strip of land that gently slopes and is located next to bodies of water like oceans or lakes. These areas are often covered with natural materials such as fine sand, small stones, broken shells, and even rocks.\n\n\n                These materials typically form as a result of long-term natural forces like erosion and weathering. For instance, waves repeatedly hitting coastal cliffs can slowly chip away solid rock. Over the years, even the largest stones can crumble into small particles and eventually turn into soft sand.\n\n\n                Beaches are ever-changing environments. Seasonal factors also influence their form. Strong winds during winter can push sand inland, narrowing the shoreline and creating steeper slopes. In warmer seasons, calmer waters tend to move sand back onto the coast from underwater sandbanks, resulting in broader, flatter beaches.\n\n\n                The sand that covers beaches doesn't come from just one place. Some beaches, like those near Chameis Bay in Namibia, are notable for their mixture of quartz, seashell fragments, and even diamond particles. Elsewhere in the world, you might find grains of sapphire, garnet, or emerald mixed into the sand, adding to its mineral variety.\n\nQUESTION:\nRead the text and each statement carefully. Then, decide whether the statement is True or False.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Evaluasi Realitas/Fakta (C5):\n1) True: Sesuai paragraf 2 (natural forces like erosion and weathering).\n2) False: Paragraf 3 menyatakan winter winds justru 'narrowing the shoreline' (menyempitkan), bukan melebarkan.\n3) False: Paragraf 4 menyatakan ada campuran mineral lain seperti diamond, sapphire, garnet, dll, bukan hanya quartz dan cangkang."
@@ -6291,13 +6291,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] A brisk walk or light physical activity can increase alertness by triggering endorphins and norepinephrine.\n[2] Bellows breathing involves breathing quickly through the nose for about 10 seconds with the mouth closed.\n[3] Spending time outdoors will always lift your mood and restore vitality.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 6: Energy Boosters (Question 19)]:\nWhen you're feeling sleepy, your first instinct might be to grab a cup of coffee. However, if you're cutting back on caffeine, there are simple and healthy alternatives that can naturally help increase your energy.\n\n\n                \n                    Get Moving: Physical activity—even just a brisk walk—can be a powerful way to refresh your body and mind. Exercise triggers endorphins and norepinephrine, which help sharpen focus and increase alertness.\n                    Practice Bellows Breathing: A quick breathing exercise. With your mouth closed, breathe in and out quickly through your nose for about 10 seconds, then return to normal breathing.\n                    Reconnect with Nature: Even brief exposure to nature has been shown to enhance energy. Whether it's a walk in the park or sitting under a tree, spending time outdoors can lift your mood and restore vitality.\n\nQUESTION:\nRead the text and each statement carefully. Then, decide whether the statement is Fact or Opinion.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta vs Opini (C5):\n1) Fact: Proses biologis pelepasan hormon dapat dibuktikan secara sains.\n2) Fact: Ini adalah deskripsi prosedural langkah bernapas yang objektif.\n3) Opinion: Penggunaan kata 'will always' (akan selalu) membuatnya menjadi klaim subjektif/opini, karena kondisi psikologis setiap orang berbeda; teks asli hanya menyebutkan 'can lift' (bisa mengangkat)."
@@ -6305,13 +6305,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] Poverty is the main reason why many children and teenagers cannot attend school.\n[2] The most effective way to end poverty is by giving temporary aid to families in need.\n[3] UNESCO reported that over 240 million children and youth are still out of school.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "READING PASSAGE [Text 7: Poverty (Question 20)]:\nPoverty continues to impact children across the globe. In every place where poverty exists, there are young lives restricted by the conditions they were born into.\n\n\n                Tackling poverty also plays a critical role in expanding access to education. Poverty remains one of the most significant obstacles to education, with UNESCO reporting that 244 million children and adolescents are still out of school due to social, cultural, and financial barriers.\n\n\n                To overcome the harmful effects of poverty, it is essential for governments, organizations, and individuals to invest in equitable access to education, healthcare, and economic opportunities. Through global collaboration and a focus on sustainable, long-term strategies, we can build a fairer world.\n\nQUESTION:\nRead the text and each statement carefully. Then, decide whether the statement is Fact or Opinion.",
         "options": {
-          "A": " -  - ",
-          "B": "Salah - Salah - Salah",
-          "C": "Benar - Salah - Benar",
-          "D": "Salah - Benar - Salah",
-          "E": "Benar - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Menilai Fakta vs Opini (C5):\n1) Opinion: Teks asli menyatakan poverty adalah 'one of the most significant obstacles' (salah satu yang paling signifikan), bukan dipastikan sebagai 'the main reason' (satu-satunya alasan utama) yang bersifat absolut.\n2) Opinion: Merupakan opini/pendapat pribadi yang bahkan bertentangan dengan teks yang menyarankan 'sustainable, long-term strategies'.\n3) Fact: Adalah data terukur yang dilaporkan oleh lembaga resmi (UNESCO)."
@@ -6319,7 +6319,7 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhich of the following statements describe why Nusa Penida is worth visiting? (Tick all that apply)",
         "options": {
           "A": "It is home to exotic and spectacular beaches.",
           "B": "It is the capital city of Klungkung Regency.",
@@ -6333,7 +6333,7 @@
       {
         "id": 22,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhat makes Kelingking Beach unique? (Tick all that apply)",
         "options": {
           "A": "The white sand and scenic ocean view from a hill.",
           "B": "It is known as the best surfing spot in Indonesia.",
@@ -6347,7 +6347,7 @@
       {
         "id": 23,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhat can be found at Broken Beach? (Tick all that apply)",
         "options": {
           "A": "A natural formation that looks damaged but is not.",
           "B": "A natural formation that has been damaged badly.",
@@ -6361,7 +6361,7 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhy is Crystal Bay Beach a favorite spot for tourists? (Tick all that apply)",
         "options": {
           "A": "It has strong waves for surfing competitions.",
           "B": "It is the only beach that allows night swimming.",
@@ -6375,7 +6375,7 @@
       {
         "id": 25,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 8: Nusa Penida (Questions 21-25)]:\nNusa Penida, often referred to as the \"golden egg\" of Bali, is a renowned tourist destination located in Klungkung Regency. Known for its breathtaking natural beauty, Nusa Penida boasts some of the most spectacular and exotic beaches in the region.\n\n\n                One of Nusa Penida's most iconic attractions is Kelingking Beach. Famous for its jaw-dropping viewpoint, this beach offers a panoramic view of the turquoise sea from the top of a cliff. The cliff formation resembles the shape of a \"kelingking\" or little finger, which gives the beach its name.\n\n\n                Another remarkable destination is Broken Beach. Despite its name, it is not actually broken—rather, it features a naturally formed archway in the cliffs, creating a circular lagoon where sea water flows in and becomes trapped. This unique formation gives Broken Beach its name.\n\n\n                For those seeking water-based recreation, Crystal Bay is an excellent choice. Famous for its calm, crystal-clear waters—perfect for snorkeling and diving. The beach is nestled in a secluded bay, framed by hills. About 50 meters offshore lies a small coral island called Batu Mejinong. The island helps protect the bay from large waves. As the sun sets, the view becomes even more magical.\n\nQUESTION:\nWhat information can be inferred from paragraph 4? (Tick all that apply)",
         "options": {
           "A": "Crystal Bay is a good place for underwater activities due to its clear and calm water.",
           "B": "The coral island near Crystal Bay helps make the area safer for swimmers.",
@@ -6389,7 +6389,7 @@
       {
         "id": 26,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhat message is conveyed in the story? (Tick all that apply)",
         "options": {
           "A": "A heart full of scars can be more meaningful than a flawless one.",
           "B": "True beauty lies in the love and experiences we share with others.",
@@ -6403,7 +6403,7 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhat characteristics did the young man's heart have at the beginning of the story? (Tick all that apply)",
         "options": {
           "A": "Rough and uneven.",
           "B": "Without any scar or blemish.",
@@ -6417,7 +6417,7 @@
       {
         "id": 28,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhat do the scars and patches on the old man's heart symbolize? (Tick all that apply)",
         "options": {
           "A": "Physical illness.",
           "B": "Regret and sorrow.",
@@ -6431,7 +6431,7 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhat can be inferred about the young man's understanding of love by the end of the story? (Tick all that apply)",
         "options": {
           "A": "He laughed at the old man again.",
           "B": "He realized love means giving a part of oneself.",
@@ -6445,7 +6445,7 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "",
+        "text": "READING PASSAGE [Text 9: The Beautiful Heart (Questions 26-30)]:\nIn a bustling and crowded square, a young man suddenly raised his voice and began to shout, \"Everyone, look at me! I have the most beautiful heart in the world!\" His heart was imagined as flawless—perfect in shape, smooth, and without a single blemish.\n\n\n                Just then, an elderly man stepped forward. \"Young man,\" he said gently, \"I believe my heart is even more beautiful than yours.\" The old man agreed and revealed his own heart. It was uneven, scarred, and patched together with pieces of various colors and shapes.\n\n\n                Seeing this, the young man burst out laughing. \"You must be joking. Yours is full of scars, tears, and ugly patches.\"\n\n\n                The old man smiled. \"My dear boy, each mark you see on my heart tells a story of love I've given. Every time I share love with someone, I offer them a piece of my heart. Often, they offer a piece of theirs in return, which I place where mine was given. Since their pieces are not always the same shape or size, my heart has become irregular. Some people didn't give anything back. That's why some parts of my heart remain empty. Your heart, though flawless, shows no signs that it has ever been given to anyone.\"\n\n\n                The young man stood silent, deeply moved. Slowly, tears welled in his eyes. Without speaking, he stepped forward, reached into his own heart, and gently offered a piece of it to the old man.\n\nQUESTION:\nWhich actions in the story show emotional maturity and personal growth? (Tick all that apply)",
         "options": {
           "A": "The crowd praising the young man's heart.",
           "B": "The young man asking the old man to leave.",
@@ -6468,7 +6468,7 @@
       {
         "id": 1,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Wealthy developers always ignore local villagers and destroy nature.",
           "B": "Botanical knowledge and peaceful dialogue can successfully transform destructive intentions into conservation.",
@@ -6482,7 +6482,7 @@
       {
         "id": 2,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "He called the police to arrest the developer immediately.",
           "B": "He organized a violent protest with the villagers.",
@@ -6496,7 +6496,7 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "angered",
           "B": "moved",
@@ -6510,7 +6510,7 @@
       {
         "id": 4,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "To provide a step-by-step guide on how to plant banyan trees.",
           "B": "To persuade readers to buy resort properties in mountain regions.",
@@ -6524,7 +6524,7 @@
       {
         "id": 5,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Indonesia has no geothermal resources in Java.",
           "B": "High costs and risks hinder geothermal utilization, though government initiatives are boosting development.",
@@ -6538,7 +6538,7 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Indonesia possesses vast geothermal reserves due to its volcanic location along the Ring of Fire.",
           "B": "Geothermal energy provides reliable power unaffected by daily weather conditions.",
@@ -6552,7 +6552,7 @@
       {
         "id": 7,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Indonesia holds approximately 40 percent of the world's geothermal energy reserves.",
           "B": "Geothermal power plants rely completely on sunny weather to generate electricity.",
@@ -6566,7 +6566,7 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It discourages them from supporting renewable energy sources.",
           "B": "It inspires awareness regarding Indonesia's clean energy potential and the challenges of harnessing it.",
@@ -6580,7 +6580,7 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "To absorb sunlight directly from the ocean floor.",
           "B": "To anchor trees in soft mud and assist with gas exchange in oxygen-poor environments.",
@@ -6594,7 +6594,7 @@
       {
         "id": 10,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Mangroves absorb carbon at a rate four times higher than terrestrial rainforests.",
           "B": "Terrestrial rainforests absorb twice as much carbon as mangroves.",
@@ -6608,7 +6608,7 @@
       {
         "id": 11,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Mangroves act as natural barriers against storm surges.",
           "B": "Submerged mangrove roots serve as nurseries for marine juvenile species.",
@@ -6622,7 +6622,7 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They provide wood for building large cruise ships.",
           "B": "They shelter juvenile fish and shrimp, supporting marine biodiversity and fisheries.",
@@ -6636,7 +6636,7 @@
       {
         "id": 13,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Comparing printed books with digital library portals and studying environments.",
           "B": "How to repair broken computer tablets at school.",
@@ -6650,7 +6650,7 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Physical books are much cheaper to purchase online.",
           "B": "Screen reading strains her eyes, and she enjoys physical books.",
@@ -6664,7 +6664,7 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Tablets can connect to school Wi-Fi automatically.",
           "B": "Tablets are much lighter than carrying heavy physical textbooks.",
@@ -6678,7 +6678,7 @@
       {
         "id": 16,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "'Have you checked out the school’s new digital library portal?'",
           "B": "'I honestly think it\\'s a fantastic upgrade.'",
@@ -6692,7 +6692,7 @@
       {
         "id": 17,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "'From my perspective, carrying a tablet is much lighter...'",
           "B": "'Did you bring your laptop today?'",
@@ -6706,13 +6706,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Coral bleaching occurs when stressed corals expel their symbiotic algae due to high water temperatures.\n[2] 2) Bleached corals are already completely dead the moment they turn white.\n[3] 3) Coral reefs support a quarter of all marine life species globally.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C5 (Evaluasi Validitas Informasi).\n1. True: Teks menyebutkan 'corals expel symbiotic algae... turning completely white'.\n2. False: Teks menyatakan 'bleached corals are not dead immediately'.\n3. True: Teks menyatakan 'support 25% of all marine life'."
@@ -6720,13 +6720,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Rian found adjusting to boarding school effortless from his very first day.\n[2] 2) Winning a debate competition played a key role in boosting Rian's confidence and academic drive.\n[3] 3) Rian completely avoided all extracurricular activities during his studies.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C4 (Inferensi Karakter & Bukti).\n1. False: Rian berjuang melawan 'homesickness and time management'.\n2. True: Kemenangan debat meningkatkan rasa percaya dirinya.\n3. False: Dia justru aktif bergabung dengan English Debate Club."
@@ -6734,13 +6734,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Lake Toba is a vast volcanic crater lake located in North Sumatra formed by geological caldera collapse.\n[2] 2) A golden fish transformed into a human princess upon being caught by a fisherman.\n[3] 3) Breaking a secret promise caused rain to flood an entire valley instantly into a massive lake.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C5 (Menilai Realitas vs Fantasi).\n1. Reality: Secara ilmiah, Danau Toba adalah danau vulkanik hasil letusan kaldera purba.\n2. & 3. Fantasy: Ikan emas berubah jadi wanita dan sumpahan air bah karena janji adalah unsur mite/fantasi."
@@ -6748,7 +6748,7 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They automate household chores and enhance convenience.",
           "B": "They optimize energy consumption and reduce electricity bills.",
@@ -6762,7 +6762,7 @@
       {
         "id": 22,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They learn family routine schedules automatically.",
           "B": "They adjust indoor climates to save energy.",
@@ -6776,7 +6776,7 @@
       {
         "id": 23,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They integrate smartphone connectivity for remote monitoring.",
           "B": "They handle diverse tasks from climate control to food tracking.",
@@ -6790,7 +6790,7 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It promotes long-term energy efficiency and cost savings.",
           "B": "It makes household management more streamlined and convenient.",
@@ -6804,7 +6804,7 @@
       {
         "id": 25,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They track expiration dates to prevent spoiled groceries.",
           "B": "They automatically cook meals without human supervision.",
@@ -6818,7 +6818,7 @@
       {
         "id": 26,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It lowers resting heart rates.",
           "B": "It increases HDL (good cholesterol) levels.",
@@ -6832,7 +6832,7 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Release of endorphins that alleviate stress and anxiety.",
           "B": "Improved sleep cycle regulation.",
@@ -6846,7 +6846,7 @@
       {
         "id": 28,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Cycling places heavy, damaging impact stress on knee joints.",
           "B": "It is a low-impact exercise safer for individuals concerned about knee strain.",
@@ -6860,7 +6860,7 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "By helping the body expend excess physical energy naturally.",
           "B": "By reducing stress hormones that interfere with rest.",
@@ -6874,7 +6874,7 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "People with chronic knee sensitivity may prefer cycling over high-impact running due to lower joint stress.",
           "B": "Incorporating consistent aerobic workouts can lower long-term risks of cardiovascular diseases.",
@@ -6897,7 +6897,7 @@
       {
         "id": 1,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "The airline cancels the flight due to a seating issue.",
           "B": "A man refuses to give up his seat in economy class.",
@@ -6911,7 +6911,7 @@
       {
         "id": 2,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "She ignored the woman and walked away.",
           "B": "She asked the man to leave the plane right away.",
@@ -6925,7 +6925,7 @@
       {
         "id": 3,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "demanded",
           "B": "ordered",
@@ -6939,7 +6939,7 @@
       {
         "id": 4,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "To inform readers about airplane seat policies.",
           "B": "To criticize airlines for discriminatory practices.",
@@ -6953,7 +6953,7 @@
       {
         "id": 5,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Fishing is the primary focus of the islands.",
           "B": "Raja Ampat's limestone islands are mostly used for farming.",
@@ -6967,7 +6967,7 @@
       {
         "id": 6,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Raja Ampat is a cold and dry region with limited wildlife, mostly known for its desert-like islands.",
           "B": "Raja Ampat's environment includes coral reefs, rare sea turtles, and tropical forests.",
@@ -6981,7 +6981,7 @@
       {
         "id": 7,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Raja Ampat's islands are mostly made of granite and volcanic rock.",
           "B": "Many small islands in Raja Ampat resemble mushrooms during low tide.",
@@ -6995,7 +6995,7 @@
       {
         "id": 8,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It persuades tourists to visit West Papua for its city life.",
           "B": "It encourages them to avoid visiting due to its isolation.",
@@ -7009,7 +7009,7 @@
       {
         "id": 9,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "The sturdy stem.",
           "B": "The outer petals.",
@@ -7023,7 +7023,7 @@
       {
         "id": 10,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Their petals are all orange or red.",
           "B": "They produce very large flower heads.",
@@ -7037,7 +7037,7 @@
       {
         "id": 11,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "All sunflowers naturally grow red petals by default.",
           "B": "Dwarf sunflowers are suitable for small gardens or potted planting.",
@@ -7051,7 +7051,7 @@
       {
         "id": 12,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "They are typically grown in cold climates.",
           "B": "They require more space than other varieties.",
@@ -7065,7 +7065,7 @@
       {
         "id": 13,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "How to become a school chef.",
           "B": "Complaining about bad grades.",
@@ -7079,7 +7079,7 @@
       {
         "id": 14,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It includes too many spicy dishes.",
           "B": "It doesn't offer any vegetarian options.",
@@ -7093,7 +7093,7 @@
       {
         "id": 15,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It includes international dishes.",
           "B": "It has more meat options.",
@@ -7107,7 +7107,7 @@
       {
         "id": 16,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "'Have you seen the new school cafeteria menu?'",
           "B": "'They changed everything without asking.'",
@@ -7121,7 +7121,7 @@
       {
         "id": 17,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "'From my perspective, the price increase is a bit much.'",
           "B": "'There's a new vending machine outside.'",
@@ -7135,13 +7135,13 @@
       {
         "id": 18,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Microsleep is a short episode of sleep that can occur without the person realizing it.\n[2] 2) Obstructive sleep apnea improves the quality of sleep by clearing the airways.\n[3] 3) The cardiovascular system repairs and maintains itself best when we are awake and active.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C5 (Evaluasi Validitas Informasi).\n1. True: Microsleep dijelaskan sebagai episode tak terkendali.\n2. False: Teks menyebutkan apnea 'disrupt breathing' (mengganggu napas), bukan membersihkannya.\n3. False: Kardiovaskular memperbaiki diri saat tidur, bukan saat terjaga (awake)."
@@ -7149,13 +7149,13 @@
       {
         "id": 19,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Katherine was excited because in college everyone knew about her bad reputation in high school.\n[2] 2) The email from Dr. Davis encouraged Katherine to think differently about her potential.\n[3] 3) Katherine avoided joining any student organizations during her college years.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C4 (Inferensi Karakter & Bukti).\n1. False: Dia senang karena 'no one knew my past' (tidak ada yang tahu masa lalunya).\n2. True: Email itu 'opened my eyes to what I was capable of' (membangkitkan potensinya).\n3. False: Dia justru aktif ('I joined Colleges Against Cancer...')."
@@ -7163,13 +7163,13 @@
       {
         "id": 20,
         "type": "pg",
-        "text": "\n\nPernyataan/Klaim yang dievaluasi:\n[1] 1) Coconut trees grow from seeds and produce juice and white flesh that people can eat and drink.\n[2] 2) A mysterious lady appeared out of nowhere and gave magical instructions before vanishing.\n[3] 3) An enchanted tree suddenly grew beside a grave and quickly produced fruit to feed the children.\n\nPertanyaan: Tentukan kesesuaian nilai kebenaran pernyataan-pernyataan di atas:",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
-          "A": "Benar - Benar - Benar - Benar",
-          "B": "Benar - Salah - Benar - Salah",
-          "C": "Salah - Benar - Salah - Benar",
-          "D": "Salah - Salah - Salah - Salah",
-          "E": "Salah - Salah - Benar - Benar"
+          "A": "Option A",
+          "B": "Option B",
+          "C": "Option C",
+          "D": "Option D",
+          "E": "Option E"
         },
         "key": "A",
         "explanation": "Level Kognitif: C5 (Menilai Realitas/Fantasi).\n1. Reality: Secara botani, kelapa memang tumbuh dari biji (buahnya) dan daging/airnya bisa dikonsumsi di dunia nyata.\n2. Fantasy: Wanita misterius yang muncul dan menghilang dengan sihir adalah elemen gaib dongeng.\n3. Fantasy: Pohon ajaib yang tumbuh instan dari kuburan adalah murni fiksi/mitos."
@@ -7177,7 +7177,7 @@
       {
         "id": 21,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Air fryers are better than traditional frying because they reduce fat and calories while producing tasty food.",
           "B": "Air fryers offer health benefits by reducing fat and calories in food.",
@@ -7191,7 +7191,7 @@
       {
         "id": 22,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Meals cooked in an air fryer absorb more oil than traditional frying methods.",
           "B": "It allows people to enjoy crispy foods like fries and chicken more healthily.",
@@ -7205,7 +7205,7 @@
       {
         "id": 23,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It can function as a grill, oven, and deep fryer.",
           "B": "It has multiple cooking modes for various tasks.",
@@ -7219,7 +7219,7 @@
       {
         "id": 24,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It is ideal for preparing a wide variety of dishes.",
           "B": "It requires a long preheating time before each use.",
@@ -7233,7 +7233,7 @@
       {
         "id": 25,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Food cooked in an air fryer tends to be soggy and lacks texture.",
           "B": "Air fryers remove most natural flavors from the food during cooking.",
@@ -7247,7 +7247,7 @@
       {
         "id": 26,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "It improves blood circulation.",
           "B": "It raises good cholesterol levels.",
@@ -7261,7 +7261,7 @@
       {
         "id": 27,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Improved sleep quality.",
           "B": "Better cognitive function (clearer thinking).",
@@ -7275,7 +7275,7 @@
       {
         "id": 28,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Short, slow walks on treadmills are better than long runs for fat loss.",
           "B": "Using a treadmill works your joints and knees too hard.",
@@ -7289,7 +7289,7 @@
       {
         "id": 29,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "Treadmill use releases feel-good hormones.",
           "B": "It delays sleep cycles by boosting energy.",
@@ -7303,7 +7303,7 @@
       {
         "id": 30,
         "type": "pg",
-        "text": "",
+        "text": "Based on the reading passage above, answer the question:",
         "options": {
           "A": "People with joint issues might prefer treadmills over other exercise machines because they are gentler on the knees.",
           "B": "Regular treadmill workouts may reduce the likelihood of needing medical treatment for certain heart conditions.",
